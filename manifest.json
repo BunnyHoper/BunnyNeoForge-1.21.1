@@ -1,20 +1,14 @@
 {
   "pack": "Vanilla +",
-  "version": "2026.10.25-2343",
+  "version": "2026.10.26-0000",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
   "overrides": {
-    "sha1": "4dad7a1094db162ee39378d20b4130459591ba54",
-    "size": 601666
+    "sha1": "02186faddea8fdb70ceaa074e526e6f329ebe2cf",
+    "size": 601707
   },
   "files": [
-    {
-      "path": "mods/a_good_place-1.21-1.2.5-neoforge.jar",
-      "sha1": "43251d244f03003cf8cc3ec9adf9b01e0c7945c5",
-      "size": 102933,
-      "url": "https://edge.forgecdn.net/files/5974/291/a_good_place-1.21-1.2.5-neoforge.jar"
-    },
     {
       "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
       "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
@@ -58,10 +52,22 @@
       "url": "https://edge.forgecdn.net/files/8455/299/BetterEndCities-BetterEnd-1.21.jar"
     },
     {
+      "path": "mods/block-dithering-1.0.6+1.21.1+neoforge.jar",
+      "sha1": "b2d074f1a8efb832176081c95b5e1e1b2c7e0f7b",
+      "size": 96155,
+      "url": "https://edge.forgecdn.net/files/8897/175/block-dithering-1.0.6%2b1.21.1%2bneoforge.jar"
+    },
+    {
       "path": "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
       "sha1": "2ceb0d9284525b6cb2a214c88cf6511cab91f601",
       "size": 361486,
       "url": "https://edge.forgecdn.net/files/8512/888/carryon-neoforge-1.21.1-2.2.6.13.jar"
+    },
+    {
+      "path": "mods/Chest-Preview-NeoForge-1.21.1-1.0.0.jar",
+      "sha1": "048cc84b9701913f944d2e9fed4a247abd58972b",
+      "size": 101632,
+      "url": "https://edge.forgecdn.net/files/8881/60/Chest-Preview-NeoForge-1.21.1-1.0.0.jar"
     },
     {
       "path": "mods/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar",
@@ -130,10 +136,46 @@
       "url": "https://edge.forgecdn.net/files/7698/617/DynamicTreesPlus-neoforge-1.21.1-1.3.2.jar"
     },
     {
+      "path": "mods/emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar",
+      "sha1": "180e04f2ba543ec74a2bfb70c61b7044cd12c5a7",
+      "size": 173271,
+      "url": "https://edge.forgecdn.net/files/9190/768/emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar"
+    },
+    {
+      "path": "mods/emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar",
+      "sha1": "4897c5eb54bf485564bddf996ad4c7411ce31ace",
+      "size": 229504,
+      "url": "https://edge.forgecdn.net/files/9205/862/emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar"
+    },
+    {
+      "path": "mods/emf_compat_core_neoforge_1.21.1_2.3.2.jar",
+      "sha1": "67e4a92e2df2a2b86a655cfc081d971a81f5a9f8",
+      "size": 174702,
+      "url": "https://edge.forgecdn.net/files/9205/847/emf_compat_core_neoforge_1.21.1_2.3.2.jar"
+    },
+    {
+      "path": "mods/emf_compat_gliders_1.21.1_2.0.0.jar",
+      "sha1": "12240bb92b02364f931a48a1e9289b934fcc2241",
+      "size": 181645,
+      "url": "https://edge.forgecdn.net/files/8793/943/emf_compat_gliders_1.21.1_2.0.0.jar"
+    },
+    {
       "path": "mods/enderdragondestroysendisland-2.2.2+mc1.21-neoforge.jar",
       "sha1": "3010e7ceb65185f8b0ddc03c4f5d834f4b88a3cd",
       "size": 41631,
       "url": "https://edge.forgecdn.net/files/8331/346/enderdragondestroysendisland-2.2.2%2bmc1.21-neoforge.jar"
+    },
+    {
+      "path": "mods/entity_model_features-3.3.12-1.21-neoforge.jar",
+      "sha1": "e9a163b77243cdfcb0ad3d698dc48a60cb8710e9",
+      "size": 656382,
+      "url": "https://edge.forgecdn.net/files/9188/526/entity_model_features-3.3.12-1.21-neoforge.jar"
+    },
+    {
+      "path": "mods/entity_texture_features-7.2.6-1.21-neoforge.jar",
+      "sha1": "1a77ddb156daa4125c205424f05f0fa861517d9c",
+      "size": 807089,
+      "url": "https://edge.forgecdn.net/files/9188/408/entity_texture_features-7.2.6-1.21-neoforge.jar"
     },
     {
       "path": "mods/fallingtrees-neoforge-1.21.1-0.14.0.jar",
@@ -178,6 +220,12 @@
       "url": "https://edge.forgecdn.net/files/8893/490/geckolib-neoforge-1.21.1-4.9.3.jar"
     },
     {
+      "path": "mods/gliders-1.21.1-neoforge-1.1.8.jar",
+      "sha1": "f68e8fa4fb1a126cfb660df32fb009b2cc900c6b",
+      "size": 677846,
+      "url": "https://edge.forgecdn.net/files/6850/529/gliders-1.21.1-neoforge-1.1.8.jar"
+    },
+    {
       "path": "mods/holdmyitemsnf-1.21.1v2.1.jar",
       "sha1": "c4a8d9c03c659c696d63580e9b71e7a7c64dae33",
       "size": 107291,
@@ -188,6 +236,12 @@
       "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8",
       "size": 213853,
       "url": "https://edge.forgecdn.net/files/6423/863/Iceberg-1.21.1-neoforge-1.3.2.jar"
+    },
+    {
+      "path": "mods/immersive_furniture-neoforge-0.3.4+1.21.1.jar",
+      "sha1": "30e5c05b3e9b7a8bb8d835be4f2323d744766993",
+      "size": 1022045,
+      "url": "https://edge.forgecdn.net/files/9299/760/immersive_furniture-neoforge-0.3.4%2b1.21.1.jar"
     },
     {
       "path": "mods/inventorymanagement-1.21.1-NeoForge-1.0.7.jar",
@@ -268,6 +322,18 @@
       "url": "https://edge.forgecdn.net/files/8938/982/MossyLib-1.6.0%2b1.21.1%2bneoforge.jar"
     },
     {
+      "path": "mods/MrDeadPools-ColoredItemFrames-1.21.1-1.0.0-1.21.1-1.0.0.jar",
+      "sha1": "d3c90001edbbe679a26a9d48969df9157c666122",
+      "size": 155415,
+      "url": "https://edge.forgecdn.net/files/8169/314/MrDeadPools-ColoredItemFrames-1.21.1-1.0.0-1.21.1-1.0.0.jar"
+    },
+    {
+      "path": "mods/music_disc_maker-3.1.2+neoforge-1.21.1.jar",
+      "sha1": "1cfa1f9e31cfad535c90b1160836a31c2b762c44",
+      "size": 35464831,
+      "url": "https://edge.forgecdn.net/files/9285/475/music_disc_maker-3.1.2%2bneoforge-1.21.1.jar"
+    },
+    {
       "path": "mods/notenoughcrashes-neoforge-4.4.9+1.21.1.jar",
       "sha1": "4108c653e3e0d54a6df3c5354a752ea0ea801ffe",
       "size": 598916,
@@ -298,16 +364,16 @@
       "url": "https://edge.forgecdn.net/files/9153/39/Placebo-1.21.1-9.9.4.jar"
     },
     {
-      "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
-      "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
-      "size": 203149,
-      "url": "https://edge.forgecdn.net/files/7389/814/player-animation-lib-forge-2.0.4%2b1.21.1.jar"
-    },
-    {
       "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
       "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f",
       "size": 62031,
       "url": "https://edge.forgecdn.net/files/6372/979/Prism-1.21.1-neoforge-1.0.11.jar"
+    },
+    {
+      "path": "mods/punchy-2.8g-neoforge-1.21.1.jar",
+      "sha1": "ef71196a74e882ee52629753267229ddcdedcf68",
+      "size": 2056747,
+      "url": "https://edge.forgecdn.net/files/9239/897/punchy-2.8g-neoforge-1.21.1.jar"
     },
     {
       "path": "mods/puzzleslib-v21.1.65-mc1.21.1+neoforge.jar",
@@ -320,12 +386,6 @@
       "sha1": "e9e6d101b31acb51539141937ad5b069ff2ccc4d",
       "size": 258894,
       "url": "https://edge.forgecdn.net/files/8891/797/reeses-sodium-options-neoforge-2.2.4%2bmc1.21.1.jar"
-    },
-    {
-      "path": "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
-      "sha1": "6c209e6b755ff26218efd55aedf2dea49183d29b",
-      "size": 7133477,
-      "url": "https://edge.forgecdn.net/files/7473/565/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
     },
     {
       "path": "mods/Resourcify (1.21.1-neoforge)-1.8.7.jar",
@@ -422,6 +482,12 @@
       "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
       "size": 2814865,
       "url": "https://edge.forgecdn.net/files/8222/737/Terralith_1.21.x_v2.6.2.jar"
+    },
+    {
+      "path": "mods/touch_n_motion_neoforge_1.21.1_1.0.4.jar",
+      "sha1": "b6fba9ca4d73d2e1eb4968fb48cb6eb0fcadca36",
+      "size": 989740,
+      "url": "https://edge.forgecdn.net/files/9205/893/touch_n_motion_neoforge_1.21.1_1.0.4.jar"
     },
     {
       "path": "mods/visuality-forge-3.0.0.jar",
@@ -532,12 +598,6 @@
       "url": "https://edge.forgecdn.net/files/7094/29/Fancy%20Crops%20v1.3.zip"
     },
     {
-      "path": "resourcepacks/FreshAnimations_v1.11.1_1.20+.zip",
-      "sha1": "eaf28f57dee43c469534953517501a021d28cf21",
-      "size": 743793,
-      "url": "https://edge.forgecdn.net/files/9261/871/FreshAnimations_v1.11.1_1.20%2b.zip"
-    },
-    {
       "path": "resourcepacks/Icons - Numerals v.1.3.zip",
       "sha1": "9ab2803c26e5b0d85cc79c4ccfdd30b254530a7e",
       "size": 135120,
@@ -566,12 +626,6 @@
       "sha1": "d505d17306c18980a56452ffefb59928c6680f99",
       "size": 2119579,
       "url": "https://edge.forgecdn.net/files/9030/964/Recolourful%20Containers%20DARK%203.1.4%20(1.19.4%2b).zip"
-    },
-    {
-      "path": "resourcepacks/Recreated Minecarts.zip",
-      "sha1": "e6ac5450d7cc0c4415442ba7397d2546db7db36b",
-      "size": 2067741,
-      "url": "https://edge.forgecdn.net/files/8524/776/Recreated%20Minecarts.zip"
     },
     {
       "path": "resourcepacks/Slightly-Improved-Font-1.1.5.zip",
