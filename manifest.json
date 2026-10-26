@@ -1,12 +1,12 @@
 {
   "pack": "Vanilla +",
-  "version": "2026.10.26-0704",
+  "version": "2026.10.26-1156",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
   "overrides": {
-    "sha1": "65ee917153405c1363ee30865b42069f9ee216c6",
-    "size": 602080
+    "sha1": "75049226ccd6818db2568e327604addcb7bab6ac",
+    "size": 619395
   },
   "files": [
     {
@@ -124,6 +124,12 @@
       "url": "https://edge.forgecdn.net/files/9324/66/diorama-0.4.0%2bneoforge-1.21.1.jar"
     },
     {
+      "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "sha1": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e",
+      "size": 220193,
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/T238FZpQ/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar"
+    },
+    {
       "path": "mods/dynamic-glass-neoforge-1.21.1-1.3.2.jar",
       "sha1": "e769793f7ea34be9f528065cbd1afe9a4be8c600",
       "size": 796142,
@@ -184,6 +190,12 @@
       "url": "https://edge.forgecdn.net/files/9188/408/entity_texture_features-7.2.6-1.21-neoforge.jar"
     },
     {
+      "path": "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+      "sha1": "f122f84f329793675b2625d51b77f990d7de3579",
+      "size": 1510075,
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/eieYbWYb/entityculling-neoforge-1.11.3-mc1.21.1.jar"
+    },
+    {
       "path": "mods/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar",
       "sha1": "57bae369ed44bbbedfb096dd5944940d046e5034",
       "size": 21617,
@@ -200,6 +212,12 @@
       "sha1": "664e62684311f727f1fac18f0de28e5317874b7e",
       "size": 28193,
       "url": "https://edge.forgecdn.net/files/7527/945/FastSuite-1.21.1-6.0.7.jar"
+    },
+    {
+      "path": "mods/ferritecore-7.0.3-neoforge.jar",
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+      "size": 121559,
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar"
     },
     {
       "path": "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
@@ -236,6 +254,12 @@
       "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8",
       "size": 213853,
       "url": "https://edge.forgecdn.net/files/6423/863/Iceberg-1.21.1-neoforge-1.3.2.jar"
+    },
+    {
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+      "sha1": "f991166f7c82b493481c876e3c83c9fac4159671",
+      "size": 368896,
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/EJzmEPZV/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar"
     },
     {
       "path": "mods/immersive_furniture-neoforge-0.3.4+1.21.1.jar",
@@ -308,6 +332,12 @@
       "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
       "size": 1075929,
       "url": "https://edge.forgecdn.net/files/8968/561/lootr-neoforge-1.21.1-1.11.38.127.jar"
+    },
+    {
+      "path": "mods/modernfix-neoforge-5.27.26+mc1.21.1.jar",
+      "sha1": "69d468b70e53f6a014c778a81116a41a38fbab33",
+      "size": 611043,
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/7Jy58lnT/modernfix-neoforge-5.27.26%2Bmc1.21.1.jar"
     },
     {
       "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
@@ -440,6 +470,12 @@
       "sha1": "d4864fac231ff3d360e08a82f06553c3f76de8a6",
       "size": 1905514,
       "url": "https://edge.forgecdn.net/files/9243/656/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar"
+    },
+    {
+      "path": "mods/sodium-extra-neoforge-0.9.5+mc1.21.1.jar",
+      "sha1": "6ca433df0ad08ce8413582e75dcae7619414a068",
+      "size": 483373,
+      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/T819dLGI/sodium-extra-neoforge-0.9.5%2Bmc1.21.1.jar"
     },
     {
       "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",

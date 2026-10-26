@@ -1,0 +1,75 @@
+{
+  "id": 3,
+  "nombre": "High",
+  "quitar": [],
+  "options": {
+    "renderDistance": "12",
+    "simulationDistance": "8",
+    "graphicsMode": "1",
+    "particles": "0",
+    "renderClouds": "\"true\"",
+    "ao": "true",
+    "biomeBlendRadius": "2",
+    "mipmapLevels": "4",
+    "entityShadows": "true",
+    "entityDistanceScaling": "1.0",
+    "enableVsync": "true",
+    "maxFps": "260",
+    "prioritizeChunkUpdates": "1",
+    "menuBackgroundBlurriness": "5",
+    "bobView": "true"
+  },
+  "ram": {
+    "min": 6,
+    "max": 8
+  },
+  "hilos": {
+    "div": 2,
+    "min": 2,
+    "max": 8
+  },
+  "archivos": [
+    {
+      "path": "config/sodium-options.json",
+      "url": "config/sodium-options.json",
+      "sha1": "f5d22d22c066d6ef6cc008e22c3262331b41f4c3",
+      "size": 761
+    },
+    {
+      "path": "config/sodiumdynamiclights-client.toml",
+      "url": "config/sodiumdynamiclights-client.toml",
+      "sha1": "b9fa2f860583c210f1295131fa19e77e11de8876",
+      "size": 637
+    },
+    {
+      "path": "config/subtle_effects/general.toml",
+      "url": "config/subtle_effects/general.toml",
+      "sha1": "8c844709692ea1ceddbe35454b21de4c6f16976b",
+      "size": 1323
+    },
+    {
+      "path": "config/subtle_effects/environment.toml",
+      "url": "config/subtle_effects/environment.toml",
+      "sha1": "90f16b67bd33b5ae191a659711c42c3660d2d4b3",
+      "size": 2503
+    },
+    {
+      "path": "config/subtle_effects/blocks.toml",
+      "url": "config/subtle_effects/blocks.toml",
+      "sha1": "0ab6bcb83bb31b75e3323202983cf9a1f45753ef",
+      "size": 4419
+    },
+    {
+      "path": "config/visuality/config.toml",
+      "url": "config/visuality/config.toml",
+      "sha1": "7d1f233afbc29cd586bc9e6f8e886987c919dcb8",
+      "size": 368
+    },
+    {
+      "path": "config/skinlayers.json",
+      "url": "config/skinlayers.json",
+      "sha1": "3aaab48d227f826fa81c09513722345a15d394dc",
+      "size": 498
+    }
+  ]
+}
