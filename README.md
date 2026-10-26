@@ -15,7 +15,7 @@ El instalador pregunta la RAM, los núcleos y los hilos de tu PC (los rellena so
 
 | | 1 Potato | 2 Normal | 3 High |
 |---|---|---|---|
-| Mods | 66 de 98 | 98 | 98 |
+| Mods | 70 de 102 | 102 | 102 |
 | RAM para el juego | 3–4 GB | 5–6 GB | 6–8 GB |
 | Hilos de Sodium | hilos ÷ 4 (1–2) | hilos ÷ 3 (2–5) | hilos ÷ 2 (2–8) |
 | Chunks visibles | 6 | 9 | 12 |
@@ -51,7 +51,7 @@ Solo los mods necesarios para entrar y los de rendimiento; sin animaciones, part
   - `Resourcify (1.21.1-neoforge)-1.8.7.jar`
   - `SubtleEffects-neoforge-1.21.1-1.15.1.jar`
   - `block-dithering-1.0.6+1.21.1+neoforge.jar`
-  - `diorama-0.4.0+neoforge-1.21.1.jar`
+  - `diorama-0.5.0+neoforge-1.21.1.jar`
   - `emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_core_neoforge_1.21.1_2.3.2.jar`
