@@ -1,12 +1,12 @@
 {
   "pack": "Vanilla +",
-  "version": "2026.10.26-0000",
+  "version": "2026.10.26-0704",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
   "overrides": {
-    "sha1": "02186faddea8fdb70ceaa074e526e6f329ebe2cf",
-    "size": 601707
+    "sha1": "65ee917153405c1363ee30865b42069f9ee216c6",
+    "size": 602080
   },
   "files": [
     {
@@ -118,10 +118,16 @@
       "url": "https://edge.forgecdn.net/files/9289/316/corpse-neoforge-1.21.1-1.1.22.jar"
     },
     {
-      "path": "mods/dtterralith-1.3.0.jar",
-      "sha1": "0fb34ea2c594d6180eae9fd4cd6b416d662cf8a9",
-      "size": 502351,
-      "url": "https://edge.forgecdn.net/files/7513/609/dtterralith-1.3.0.jar"
+      "path": "mods/diorama-0.4.0+neoforge-1.21.1.jar",
+      "sha1": "f7551e1d99de39ea651c54b82fe328cd850d1267",
+      "size": 565995,
+      "url": "https://edge.forgecdn.net/files/9324/66/diorama-0.4.0%2bneoforge-1.21.1.jar"
+    },
+    {
+      "path": "mods/dynamic-glass-neoforge-1.21.1-1.3.2.jar",
+      "sha1": "e769793f7ea34be9f528065cbd1afe9a4be8c600",
+      "size": 796142,
+      "url": "https://edge.forgecdn.net/files/8966/378/dynamic-glass-neoforge-1.21.1-1.3.2.jar"
     },
     {
       "path": "mods/dynamictrees-neoforge-1.21.1-1.7.2.jar",
@@ -178,6 +184,12 @@
       "url": "https://edge.forgecdn.net/files/9188/408/entity_texture_features-7.2.6-1.21-neoforge.jar"
     },
     {
+      "path": "mods/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar",
+      "sha1": "57bae369ed44bbbedfb096dd5944940d046e5034",
+      "size": 21617,
+      "url": "https://edge.forgecdn.net/files/9104/801/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar"
+    },
+    {
       "path": "mods/fallingtrees-neoforge-1.21.1-0.14.0.jar",
       "sha1": "070260f182d10bdc23de5e8e9297bec0231e2bec",
       "size": 4086627,
@@ -202,12 +214,6 @@
       "url": "https://edge.forgecdn.net/files/9202/578/fragmentum-5.4.0%2b1.21.1-neoforge.jar"
     },
     {
-      "path": "mods/framework-neoforge-1.21.1-0.13.11.jar",
-      "sha1": "e46eb138fbb13a12f37154fb4ec407d64b326475",
-      "size": 387334,
-      "url": "https://edge.forgecdn.net/files/7530/361/framework-neoforge-1.21.1-0.13.11.jar"
-    },
-    {
       "path": "mods/fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
       "sha1": "aa04a2ddbce2f50b21d667d2f3e589f9e043e472",
       "size": 2392720,
@@ -224,12 +230,6 @@
       "sha1": "f68e8fa4fb1a126cfb660df32fb009b2cc900c6b",
       "size": 677846,
       "url": "https://edge.forgecdn.net/files/6850/529/gliders-1.21.1-neoforge-1.1.8.jar"
-    },
-    {
-      "path": "mods/holdmyitemsnf-1.21.1v2.1.jar",
-      "sha1": "c4a8d9c03c659c696d63580e9b71e7a7c64dae33",
-      "size": 107291,
-      "url": "https://edge.forgecdn.net/files/6608/571/holdmyitemsnf-1.21.1v2.1.jar"
     },
     {
       "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
@@ -262,10 +262,28 @@
       "url": "https://edge.forgecdn.net/files/8591/319/Jade-1.21.1-NeoForge-15.10.6.jar"
     },
     {
+      "path": "mods/kaleidoscope_ImmersiveEating-neoforge1.21.1-1.5.5.jar",
+      "sha1": "bb27c11337a67791d9c3319ae369b8293960c28e",
+      "size": 2733893,
+      "url": "https://edge.forgecdn.net/files/9312/166/kaleidoscope_ImmersiveEating-neoforge1.21.1-1.5.5.jar"
+    },
+    {
+      "path": "mods/kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar",
+      "sha1": "9093e830c91a8f2e19eca7dda78713f0bbc21327",
+      "size": 3496661,
+      "url": "https://edge.forgecdn.net/files/9019/242/kaleidoscopecookery-1.6.0-neoforge%2bmc1.21.1.jar"
+    },
+    {
       "path": "mods/kotlinforforge-5.12.0-all.jar",
       "sha1": "a2032c921e93a0ccb0db5d742167e3139c2de01b",
       "size": 7279276,
       "url": "https://edge.forgecdn.net/files/8335/665/kotlinforforge-5.12.0-all.jar"
+    },
+    {
+      "path": "mods/legendaryshrines-neo-1.21.1-1.0.3.jar",
+      "sha1": "2f8d0ad3fa3e47bdeeca465691d775e9758c1741",
+      "size": 264819,
+      "url": "https://edge.forgecdn.net/files/8976/651/legendaryshrines-neo-1.21.1-1.0.3.jar"
     },
     {
       "path": "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
@@ -290,12 +308,6 @@
       "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
       "size": 1075929,
       "url": "https://edge.forgecdn.net/files/8968/561/lootr-neoforge-1.21.1-1.11.38.127.jar"
-    },
-    {
-      "path": "mods/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
-      "sha1": "a20ecb9978bd8eebd40f4548d14b0a360a63f8a4",
-      "size": 345479,
-      "url": "https://edge.forgecdn.net/files/9318/719/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar"
     },
     {
       "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
@@ -326,6 +338,12 @@
       "sha1": "d3c90001edbbe679a26a9d48969df9157c666122",
       "size": 155415,
       "url": "https://edge.forgecdn.net/files/8169/314/MrDeadPools-ColoredItemFrames-1.21.1-1.0.0-1.21.1-1.0.0.jar"
+    },
+    {
+      "path": "mods/mru-1.0.41+1.21.1-neoforge.jar",
+      "sha1": "c06ebac32fb438a1efc705a9d367c425cc86fa18",
+      "size": 151764,
+      "url": "https://edge.forgecdn.net/files/9004/36/mru-1.0.41%2b1.21.1-neoforge.jar"
     },
     {
       "path": "mods/music_disc_maker-3.1.2+neoforge-1.21.1.jar",
@@ -362,6 +380,12 @@
       "sha1": "007d52a42020a331d5272495f6d676e0ad1a2c13",
       "size": 326063,
       "url": "https://edge.forgecdn.net/files/9153/39/Placebo-1.21.1-9.9.4.jar"
+    },
+    {
+      "path": "mods/portal-glimpse-0.1.1.jar",
+      "sha1": "dbe7939ce87484c785841d70b4c5ad02cd336928",
+      "size": 1566786,
+      "url": "https://cdn.modrinth.com/data/kreemEk1/versions/daip0RJy/portal-glimpse-0.1.1.jar"
     },
     {
       "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
@@ -442,10 +466,10 @@
       "url": "https://edge.forgecdn.net/files/9296/117/sophisticatedstorage-1.21.1-1.6.9.2199.jar"
     },
     {
-      "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar",
-      "sha1": "f1903e867a71cbdc3078caf957372b9959482cfb",
-      "size": 204230,
-      "url": "https://edge.forgecdn.net/files/9279/974/sound-physics-remastered-neoforge-1.21.1-1.5.2.jar"
+      "path": "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "sha1": "cbfa42a31515e1bac4bafcdd974fbba29b7d106a",
+      "size": 8732437,
+      "url": "https://edge.forgecdn.net/files/7325/254/sounds-2.4.22%2blts%2b1.21.1-neoforge.jar"
     },
     {
       "path": "mods/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar",
@@ -476,12 +500,6 @@
       "sha1": "744394d979b422be560babf9df7a6800ede9ac5b",
       "size": 120365,
       "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
-    },
-    {
-      "path": "mods/Terralith_1.21.x_v2.6.2.jar",
-      "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
-      "size": 2814865,
-      "url": "https://edge.forgecdn.net/files/8222/737/Terralith_1.21.x_v2.6.2.jar"
     },
     {
       "path": "mods/touch_n_motion_neoforge_1.21.1_1.0.4.jar",
@@ -530,18 +548,6 @@
       "sha1": "58a8354e9ecb70a04b51f080ce3c2864a1cf3700",
       "size": 378829,
       "url": "https://edge.forgecdn.net/files/9172/421/wunderlib-21.0.11.jar"
-    },
-    {
-      "path": "mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
-      "sha1": "551e8e2aa3498b506cc949a74606cdc0380e5e00",
-      "size": 2186351,
-      "url": "https://edge.forgecdn.net/files/9067/173/xaerominimap-neoforge-1.21.1-26.6.0.jar"
-    },
-    {
-      "path": "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
-      "sha1": "2936c9cb9dfbdab145fe6f1e8ae2c68915246a5f",
-      "size": 1427078,
-      "url": "https://edge.forgecdn.net/files/9067/277/xaeroworldmap-neoforge-1.21.1-1.47.0.jar"
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
