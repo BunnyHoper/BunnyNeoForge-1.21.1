@@ -1,0 +1,145 @@
+#Master switch for the teleport transition effect.
+effectEnabled = true
+#Freezes the player in place while the transition plays.
+playerFreezeEnabled = true
+#Allows the transition to play when the destination is in a different dimension.
+crossDimensionTravelEnabled = false
+#Opacity multiplier for the white flash shown each time the teleport animation switches zoom stage. 0 disables the flash, 1 keeps the original intensity.
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+stepFlashIntensity = 1.0
+
+[overworldZoomStage]
+	#Camera height above the player's feet at each zoom stage (1st / 2nd / 3rd).
+	#Values are clamped to 8.0-512.0 and kept at least 1.0 block apart.
+	linked = true
+	# Default: 20.0
+	# Range: 8.0 ~ 510.0
+	zoomOutStage1 = 20.0
+	# Default: 40.0
+	# Range: 9.0 ~ 511.0
+	zoomOutStage2 = 40.0
+	# Default: 60.0
+	# Range: 10.0 ~ 512.0
+	zoomOutStage3 = 60.0
+	# Default: 20.0
+	# Range: 8.0 ~ 510.0
+	zoomInStage1 = 20.0
+	# Default: 40.0
+	# Range: 9.0 ~ 511.0
+	zoomInStage2 = 40.0
+	# Default: 60.0
+	# Range: 10.0 ~ 512.0
+	zoomInStage3 = 60.0
+
+[netherZoomStage]
+	#Camera height above the player's feet at each zoom stage (1st / 2nd / 3rd).
+	#Values are clamped to 8.0-512.0 and kept at least 1.0 block apart.
+	linked = true
+	# Default: 20.0
+	# Range: 8.0 ~ 510.0
+	zoomOutStage1 = 20.0
+	# Default: 40.0
+	# Range: 9.0 ~ 511.0
+	zoomOutStage2 = 40.0
+	# Default: 60.0
+	# Range: 10.0 ~ 512.0
+	zoomOutStage3 = 60.0
+	# Default: 20.0
+	# Range: 8.0 ~ 510.0
+	zoomInStage1 = 20.0
+	# Default: 40.0
+	# Range: 9.0 ~ 511.0
+	zoomInStage2 = 40.0
+	# Default: 60.0
+	# Range: 10.0 ~ 512.0
+	zoomInStage3 = 60.0
+
+[endZoomStage]
+	#Camera height above the player's feet at each zoom stage (1st / 2nd / 3rd).
+	#Values are clamped to 8.0-512.0 and kept at least 1.0 block apart.
+	linked = true
+	# Default: 20.0
+	# Range: 8.0 ~ 510.0
+	zoomOutStage1 = 20.0
+	# Default: 40.0
+	# Range: 9.0 ~ 511.0
+	zoomOutStage2 = 40.0
+	# Default: 60.0
+	# Range: 10.0 ~ 512.0
+	zoomOutStage3 = 60.0
+	# Default: 20.0
+	# Range: 8.0 ~ 510.0
+	zoomInStage1 = 20.0
+	# Default: 40.0
+	# Range: 9.0 ~ 511.0
+	zoomInStage2 = 40.0
+	# Default: 60.0
+	# Range: 10.0 ~ 512.0
+	zoomInStage3 = 60.0
+
+[zoomStageTicks]
+	#Tick length of each zoom stage (1st / 2nd / 3rd).
+	# Default: 13
+	# Range: 1 ~ 200
+	zoomOutStage1 = 13
+	# Default: 13
+	# Range: 1 ~ 200
+	zoomOutStage2 = 13
+	# Default: 13
+	# Range: 1 ~ 200
+	zoomOutStage3 = 13
+	# Default: 13
+	# Range: 1 ~ 200
+	zoomInStage1 = 13
+	# Default: 13
+	# Range: 1 ~ 200
+	zoomInStage2 = 13
+	# Default: 13
+	# Range: 1 ~ 200
+	zoomInStage3 = 13
+
+[glide]
+	#Extra upward glide applied between zoom stages.
+	# Default: 0.5
+	# Range: 0.1 ~ 5.0
+	zoomStageGlideHeight = 0.5
+	# Default: 13
+	# Range: 1 ~ 200
+	zoomStageGlideTicks = 13
+
+[body]
+	#Camera height above the player's feet during the body transition.
+	# Default: 6.0
+	# Range: 0.1 ~ 10.0
+	bodyCameraHeight = 6.0
+	#Upward glide at the end of the body transition.
+	# Default: 0.5
+	# Range: 0.1 ~ 5.0
+	bodyGlideHeight = 0.5
+	# Default: 10
+	# Range: 1 ~ 200
+	bodyGlideTicks = 10
+	# Default: 2
+	# Range: 0 ~ 20
+	localPlayerHideTicks = 2
+
+[sounds]
+	#Use the mod's custom camera and step sounds during the transition.
+	customSoundsEnabled = false
+	#Volume multiplier applied to Minecraft's default teleport sounds.
+	# Default: 1.0
+	# Range: 0.1 ~ 1.0
+	minecraftSoundVolume = 1.0
+	#Volume multiplier applied to the mod's custom sounds.
+	# Default: 0.3
+	# Range: 0.1 ~ 1.0
+	customSoundVolume = 0.3
+
+[transitions]
+	#Play the transition when teleporting through a Warp Plate.
+	warpPlateTransitionsEnabled = true
+	#Play the transition for teleports triggered by other mods.
+	externalTeleportTransitionsEnabled = true
+	#Use a vanilla/Sodium chunk-mask fade as a fallback for chunk rendering.
+	fallbackChunkFadeEnabled = false

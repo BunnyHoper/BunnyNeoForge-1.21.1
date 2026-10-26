@@ -1,11 +1,12 @@
 # Vanilla + · Private
 
-Pack del servidor **bunnydev.zaroz.fun** (Minecraft 1.21.1, NeoForge). Lo instala `VanillaPlus-Instalador` (Windows .exe / Mac .dmg): baja los mods de sus enlaces oficiales (CurseForge / Modrinth), pone la configuración y aplica el perfil elegido.
+Pack del servidor **bunnydev.zaroz.fun** (Minecraft 1.21.1, NeoForge). Lo instala `VanillaPlus-Instalador` (Windows .exe / Mac .dmg): **baja exactamente lo que hay en este repositorio** (mods, configuración, paquetes de texturas, opciones y servidor), instala la misma versión de NeoForge que el dueño y aplica el perfil elegido. Subir o borrar un archivo aquí lo pone o lo quita en la próxima instalación.
 
 | Archivo | Qué es |
 |---|---|
-| `manifest.json` | versión del pack, NeoForge y la lista de mods con enlace oficial y sha1 |
-| `overrides.zip` | configuración del dueño, «Castellano - mods», el port de Smooth World Loading Screen (MIT), opciones y servidor |
+| `mods/` `config/` `resourcepacks/` | el pack tal cual (se copia a `.minecraft`) |
+| `options.txt` `servers.dat` | opciones, idioma y el servidor (solo la primera vez: luego son del jugador) |
+| `manifest.json` | versión de Minecraft y de NeoForge |
 | `1/` `2/` `3/` | los perfiles Potato, Normal y High (`perfil.json` + `config/`) |
 
 El instalador pregunta la RAM, los núcleos y los hilos de tu PC (los rellena solo) y recomienda un perfil: menos de 8 GB o de 4 hilos → **1 Potato**; menos de 16 GB o de 8 hilos → **2 Normal**; si no → **3 High**. Se puede elegir otro. Cambiar de perfil y volver a instalar quita o pone los mods del pack y vuelve a aplicar su configuración (las teclas, el volumen y el idioma no se tocan).

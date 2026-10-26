@@ -1,682 +1,687 @@
 {
   "pack": "Vanilla +",
-  "version": "2026.10.26-1706",
+  "version": "2026.10.26-1741",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
-  "overrides": {
-    "sha1": "7656082c87993a80aba259bb7dc9f6f85eb0502e",
-    "size": 3586160
-  },
   "files": [
     {
       "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
       "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
-      "size": 75804,
-      "url": "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar"
+      "size": 75804
     },
     {
       "path": "mods/architectury-13.0.11-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/architectury-13.0.11-neoforge.jar",
       "sha1": "008656a0702801174b8ec245ed7aad1921d6e9f1",
-      "size": 584734,
-      "url": "https://edge.forgecdn.net/files/8492/726/architectury-13.0.11-neoforge.jar"
+      "size": 584734
     },
     {
       "path": "mods/balm-neoforge-1.21.1-21.0.66.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/balm-neoforge-1.21.1-21.0.66.jar",
       "sha1": "dd3606a349f4a3c8fb5bd0ab22905675c02b0d74",
-      "size": 783793,
-      "url": "https://edge.forgecdn.net/files/8969/738/balm-neoforge-1.21.1-21.0.66.jar"
+      "size": 783793
     },
     {
       "path": "mods/bclib-21.0.28.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/bclib-21.0.28.jar",
       "sha1": "8fc293f1131367384bb5b47927a84eb6f6d31f28",
-      "size": 2167518,
-      "url": "https://edge.forgecdn.net/files/9259/216/bclib-21.0.28.jar"
+      "size": 2167518
     },
     {
       "path": "mods/bettercombat-neoforge-2.4.0+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/bettercombat-neoforge-2.4.0%2B1.21.1.jar",
       "sha1": "bacbc8c86671663e9998b141c5732250c1f4d4fb",
-      "size": 1045389,
-      "url": "https://edge.forgecdn.net/files/8430/183/bettercombat-neoforge-2.4.0%2b1.21.1.jar"
+      "size": 1045389
     },
     {
       "path": "mods/BetterEnd-21.0.39.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/BetterEnd-21.0.39.jar",
       "sha1": "be8e2a2177db15fc83c96acd7d2be2eb1c62614c",
-      "size": 97734709,
-      "url": "https://edge.forgecdn.net/files/9306/604/BetterEnd-21.0.39.jar"
+      "size": 97734709
     },
     {
       "path": "mods/BetterEndCities-BetterEnd-1.21.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/BetterEndCities-BetterEnd-1.21.jar",
       "sha1": "b29cc1ffa9c7662b923a4cd3857fd8e7b310a713",
-      "size": 1455439,
-      "url": "https://edge.forgecdn.net/files/8455/299/BetterEndCities-BetterEnd-1.21.jar"
+      "size": 1455439
     },
     {
       "path": "mods/block-dithering-1.0.6+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/block-dithering-1.0.6%2B1.21.1%2Bneoforge.jar",
       "sha1": "b2d074f1a8efb832176081c95b5e1e1b2c7e0f7b",
-      "size": 96155,
-      "url": "https://edge.forgecdn.net/files/8897/175/block-dithering-1.0.6%2b1.21.1%2bneoforge.jar"
+      "size": 96155
     },
     {
       "path": "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
       "sha1": "2ceb0d9284525b6cb2a214c88cf6511cab91f601",
-      "size": 361486,
-      "url": "https://edge.forgecdn.net/files/8512/888/carryon-neoforge-1.21.1-2.2.6.13.jar"
+      "size": 361486
     },
     {
       "path": "mods/Chest-Preview-NeoForge-1.21.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Chest-Preview-NeoForge-1.21.1-1.0.0.jar",
       "sha1": "048cc84b9701913f944d2e9fed4a247abd58972b",
-      "size": 101632,
-      "url": "https://edge.forgecdn.net/files/8881/60/Chest-Preview-NeoForge-1.21.1-1.0.0.jar"
+      "size": 101632
     },
     {
       "path": "mods/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar",
       "sha1": "bb72574f0f1fccb9856d3964d3d6011937439c1a",
-      "size": 1009597,
-      "url": "https://edge.forgecdn.net/files/9220/261/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar"
+      "size": 1009597
     },
     {
       "path": "mods/cleanswing-1.10-1.21.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/cleanswing-1.10-1.21.jar",
       "sha1": "1df3892b57ad00a75c5bb4a6f6b2749aa126e548",
-      "size": 9477,
-      "url": "https://edge.forgecdn.net/files/8746/293/cleanswing-1.10-1.21.jar"
+      "size": 9477
     },
     {
       "path": "mods/cloth-config-15.0.140-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/cloth-config-15.0.140-neoforge.jar",
       "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
-      "size": 1163890,
-      "url": "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar"
+      "size": 1163890
     },
     {
       "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
       "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c",
-      "size": 18382,
-      "url": "https://edge.forgecdn.net/files/5623/731/Clumps-neoforge-1.21.1-19.0.0.1.jar"
+      "size": 18382
     },
     {
       "path": "mods/comforts-neoforge-9.0.5+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/comforts-neoforge-9.0.5%2B1.21.1.jar",
       "sha1": "21d6bee3821d62fe3356c51fb1d697871a3087ff",
-      "size": 422658,
-      "url": "https://edge.forgecdn.net/files/7515/858/comforts-neoforge-9.0.5%2b1.21.1.jar"
+      "size": 422658
     },
     {
       "path": "mods/coroutil-neoforge-1.21.0-1.3.9.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/coroutil-neoforge-1.21.0-1.3.9.jar",
       "sha1": "0f5a6309ce8394721b97740e6f3e45665f13b8de",
-      "size": 65716,
-      "url": "https://edge.forgecdn.net/files/7796/187/coroutil-neoforge-1.21.0-1.3.9.jar"
+      "size": 65716
     },
     {
       "path": "mods/corpse-neoforge-1.21.1-1.1.22.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/corpse-neoforge-1.21.1-1.1.22.jar",
       "sha1": "0d73e082e4d5c0f185aa8030bcefb68c259d1107",
-      "size": 256780,
-      "url": "https://edge.forgecdn.net/files/9289/316/corpse-neoforge-1.21.1-1.1.22.jar"
+      "size": 256780
     },
     {
       "path": "mods/diorama-0.4.0+neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/diorama-0.4.0%2Bneoforge-1.21.1.jar",
       "sha1": "f7551e1d99de39ea651c54b82fe328cd850d1267",
-      "size": 565995,
-      "url": "https://edge.forgecdn.net/files/9324/66/diorama-0.4.0%2bneoforge-1.21.1.jar"
+      "size": 565995
     },
     {
       "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
       "sha1": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e",
-      "size": 220193,
-      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/T238FZpQ/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar"
+      "size": 220193
     },
     {
       "path": "mods/dynamic-glass-neoforge-1.21.1-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/dynamic-glass-neoforge-1.21.1-1.3.2.jar",
       "sha1": "e769793f7ea34be9f528065cbd1afe9a4be8c600",
-      "size": 796142,
-      "url": "https://edge.forgecdn.net/files/8966/378/dynamic-glass-neoforge-1.21.1-1.3.2.jar"
+      "size": 796142
     },
     {
       "path": "mods/dynamictrees-neoforge-1.21.1-1.7.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/dynamictrees-neoforge-1.21.1-1.7.2.jar",
       "sha1": "c16fae939c0f305af46ad585150a33565a06129e",
-      "size": 3399913,
-      "url": "https://edge.forgecdn.net/files/8227/322/dynamictrees-neoforge-1.21.1-1.7.2.jar"
+      "size": 3399913
     },
     {
       "path": "mods/DynamicTreesPlus-neoforge-1.21.1-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/DynamicTreesPlus-neoforge-1.21.1-1.3.2.jar",
       "sha1": "9f261be4cb8f83ffbc126f7198cdbe297f2b2166",
-      "size": 530533,
-      "url": "https://edge.forgecdn.net/files/7698/617/DynamicTreesPlus-neoforge-1.21.1-1.3.2.jar"
+      "size": 530533
     },
     {
       "path": "mods/emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar",
       "sha1": "180e04f2ba543ec74a2bfb70c61b7044cd12c5a7",
-      "size": 173271,
-      "url": "https://edge.forgecdn.net/files/9190/768/emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar"
+      "size": 173271
     },
     {
       "path": "mods/emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar",
       "sha1": "4897c5eb54bf485564bddf996ad4c7411ce31ace",
-      "size": 229504,
-      "url": "https://edge.forgecdn.net/files/9205/862/emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar"
+      "size": 229504
     },
     {
       "path": "mods/emf_compat_core_neoforge_1.21.1_2.3.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/emf_compat_core_neoforge_1.21.1_2.3.2.jar",
       "sha1": "67e4a92e2df2a2b86a655cfc081d971a81f5a9f8",
-      "size": 174702,
-      "url": "https://edge.forgecdn.net/files/9205/847/emf_compat_core_neoforge_1.21.1_2.3.2.jar"
+      "size": 174702
     },
     {
       "path": "mods/emf_compat_gliders_1.21.1_2.0.0.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/emf_compat_gliders_1.21.1_2.0.0.jar",
       "sha1": "12240bb92b02364f931a48a1e9289b934fcc2241",
-      "size": 181645,
-      "url": "https://edge.forgecdn.net/files/8793/943/emf_compat_gliders_1.21.1_2.0.0.jar"
+      "size": 181645
     },
     {
       "path": "mods/enderdragondestroysendisland-2.2.2+mc1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/enderdragondestroysendisland-2.2.2%2Bmc1.21-neoforge.jar",
       "sha1": "3010e7ceb65185f8b0ddc03c4f5d834f4b88a3cd",
-      "size": 41631,
-      "url": "https://edge.forgecdn.net/files/8331/346/enderdragondestroysendisland-2.2.2%2bmc1.21-neoforge.jar"
+      "size": 41631
     },
     {
       "path": "mods/entity_model_features-3.3.12-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/entity_model_features-3.3.12-1.21-neoforge.jar",
       "sha1": "e9a163b77243cdfcb0ad3d698dc48a60cb8710e9",
-      "size": 656382,
-      "url": "https://edge.forgecdn.net/files/9188/526/entity_model_features-3.3.12-1.21-neoforge.jar"
+      "size": 656382
     },
     {
       "path": "mods/entity_texture_features-7.2.6-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/entity_texture_features-7.2.6-1.21-neoforge.jar",
       "sha1": "1a77ddb156daa4125c205424f05f0fa861517d9c",
-      "size": 807089,
-      "url": "https://edge.forgecdn.net/files/9188/408/entity_texture_features-7.2.6-1.21-neoforge.jar"
+      "size": 807089
     },
     {
       "path": "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
       "sha1": "f122f84f329793675b2625d51b77f990d7de3579",
-      "size": 1510075,
-      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/eieYbWYb/entityculling-neoforge-1.11.3-mc1.21.1.jar"
+      "size": 1510075
     },
     {
       "path": "mods/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar",
       "sha1": "57bae369ed44bbbedfb096dd5944940d046e5034",
-      "size": 21617,
-      "url": "https://edge.forgecdn.net/files/9104/801/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar"
+      "size": 21617
     },
     {
       "path": "mods/fallingtrees-neoforge-1.21.1-0.14.0.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/fallingtrees-neoforge-1.21.1-0.14.0.jar",
       "sha1": "070260f182d10bdc23de5e8e9297bec0231e2bec",
-      "size": 4086627,
-      "url": "https://edge.forgecdn.net/files/7858/908/fallingtrees-neoforge-1.21.1-0.14.0.jar"
+      "size": 4086627
     },
     {
       "path": "mods/FastSuite-1.21.1-6.0.7.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/FastSuite-1.21.1-6.0.7.jar",
       "sha1": "664e62684311f727f1fac18f0de28e5317874b7e",
-      "size": 28193,
-      "url": "https://edge.forgecdn.net/files/7527/945/FastSuite-1.21.1-6.0.7.jar"
+      "size": 28193
     },
     {
       "path": "mods/ferritecore-7.0.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/ferritecore-7.0.3-neoforge.jar",
       "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
-      "size": 121559,
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar"
+      "size": 121559
     },
     {
       "path": "mods/fragmentum-5.4.0+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/fragmentum-5.4.0%2B1.21.1-neoforge.jar",
       "sha1": "711f46b591cbee203e68cf023277dae9060725f8",
-      "size": 7815344,
-      "url": "https://edge.forgecdn.net/files/9202/578/fragmentum-5.4.0%2b1.21.1-neoforge.jar"
+      "size": 7815344
     },
     {
       "path": "mods/fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/fzzy_config-0.7.7%2Bfix1%2B1.21%2Bneoforge.jar",
       "sha1": "aa04a2ddbce2f50b21d667d2f3e589f9e043e472",
-      "size": 2392720,
-      "url": "https://edge.forgecdn.net/files/9326/327/fzzy_config-0.7.7%2bfix1%2b1.21%2bneoforge.jar"
+      "size": 2392720
     },
     {
       "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
       "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
-      "size": 634531,
-      "url": "https://edge.forgecdn.net/files/8893/490/geckolib-neoforge-1.21.1-4.9.3.jar"
+      "size": 634531
     },
     {
       "path": "mods/gliders-1.21.1-neoforge-1.1.8.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/gliders-1.21.1-neoforge-1.1.8.jar",
       "sha1": "f68e8fa4fb1a126cfb660df32fb009b2cc900c6b",
-      "size": 677846,
-      "url": "https://edge.forgecdn.net/files/6850/529/gliders-1.21.1-neoforge-1.1.8.jar"
+      "size": 677846
     },
     {
       "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
       "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8",
-      "size": 213853,
-      "url": "https://edge.forgecdn.net/files/6423/863/Iceberg-1.21.1-neoforge-1.3.2.jar"
+      "size": 213853
     },
     {
       "path": "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar",
       "sha1": "f991166f7c82b493481c876e3c83c9fac4159671",
-      "size": 368896,
-      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/EJzmEPZV/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar"
+      "size": 368896
     },
     {
       "path": "mods/immersive_furniture-neoforge-0.3.4+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/immersive_furniture-neoforge-0.3.4%2B1.21.1.jar",
       "sha1": "30e5c05b3e9b7a8bb8d835be4f2323d744766993",
-      "size": 1022045,
-      "url": "https://edge.forgecdn.net/files/9299/760/immersive_furniture-neoforge-0.3.4%2b1.21.1.jar"
+      "size": 1022045
     },
     {
       "path": "mods/inventorymanagement-1.21.1-NeoForge-1.0.7.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/inventorymanagement-1.21.1-NeoForge-1.0.7.jar",
       "sha1": "31cebdbe8c11941804e56e12e5b337e78b1c856b",
-      "size": 240595,
-      "url": "https://edge.forgecdn.net/files/8083/722/inventorymanagement-1.21.1-NeoForge-1.0.7.jar"
+      "size": 240595
     },
     {
       "path": "mods/InventoryParticles-3.2.0+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/InventoryParticles-3.2.0%2B1.21.1%2Bneoforge.jar",
       "sha1": "8fa0f0dabd7d5495dc01632941b8fc38343a65a7",
-      "size": 1677419,
-      "url": "https://edge.forgecdn.net/files/8939/238/InventoryParticles-3.2.0%2b1.21.1%2bneoforge.jar"
+      "size": 1677419
     },
     {
       "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Jade-1.21.1-NeoForge-15.10.6.jar",
       "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
-      "size": 726853,
-      "url": "https://edge.forgecdn.net/files/8591/319/Jade-1.21.1-NeoForge-15.10.6.jar"
+      "size": 726853
     },
     {
       "path": "mods/kaleidoscope_ImmersiveEating-neoforge1.21.1-1.5.5.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/kaleidoscope_ImmersiveEating-neoforge1.21.1-1.5.5.jar",
       "sha1": "bb27c11337a67791d9c3319ae369b8293960c28e",
-      "size": 2733893,
-      "url": "https://edge.forgecdn.net/files/9312/166/kaleidoscope_ImmersiveEating-neoforge1.21.1-1.5.5.jar"
+      "size": 2733893
     },
     {
       "path": "mods/kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/kaleidoscopecookery-1.6.0-neoforge%2Bmc1.21.1.jar",
       "sha1": "9093e830c91a8f2e19eca7dda78713f0bbc21327",
-      "size": 3496661,
-      "url": "https://edge.forgecdn.net/files/9019/242/kaleidoscopecookery-1.6.0-neoforge%2bmc1.21.1.jar"
+      "size": 3496661
     },
     {
       "path": "mods/kotlinforforge-5.12.0-all.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/kotlinforforge-5.12.0-all.jar",
       "sha1": "a2032c921e93a0ccb0db5d742167e3139c2de01b",
-      "size": 7279276,
-      "url": "https://edge.forgecdn.net/files/8335/665/kotlinforforge-5.12.0-all.jar"
+      "size": 7279276
     },
     {
       "path": "mods/legendaryshrines-neo-1.21.1-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/legendaryshrines-neo-1.21.1-1.0.3.jar",
       "sha1": "2f8d0ad3fa3e47bdeeca465691d775e9758c1741",
-      "size": 264819,
-      "url": "https://edge.forgecdn.net/files/8976/651/legendaryshrines-neo-1.21.1-1.0.3.jar"
+      "size": 264819
     },
     {
       "path": "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
       "sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b",
-      "size": 81808,
-      "url": "https://edge.forgecdn.net/files/6400/660/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
+      "size": 81808
     },
     {
       "path": "mods/lithostitched-1.8.1-neoforge-21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/lithostitched-1.8.1-neoforge-21.1.jar",
       "sha1": "88cdded5b617e19b4d2676948b5550699de23578",
-      "size": 1023751,
-      "url": "https://edge.forgecdn.net/files/9170/709/lithostitched-1.8.1-neoforge-21.1.jar"
+      "size": 1023751
     },
     {
       "path": "mods/loot_journal-neoforge-1.21.1-6.2.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/loot_journal-neoforge-1.21.1-6.2.2.jar",
       "sha1": "9f6030dd1f081bc71f24e5c50ff83d58ce8e4cc4",
-      "size": 304549,
-      "url": "https://edge.forgecdn.net/files/8922/56/loot_journal-neoforge-1.21.1-6.2.2.jar"
+      "size": 304549
     },
     {
       "path": "mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
       "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
-      "size": 1075929,
-      "url": "https://edge.forgecdn.net/files/8968/561/lootr-neoforge-1.21.1-1.11.38.127.jar"
+      "size": 1075929
     },
     {
       "path": "mods/modernfix-neoforge-5.27.26+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/modernfix-neoforge-5.27.26%2Bmc1.21.1.jar",
       "sha1": "69d468b70e53f6a014c778a81116a41a38fbab33",
-      "size": 611043,
-      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/7Jy58lnT/modernfix-neoforge-5.27.26%2Bmc1.21.1.jar"
+      "size": 611043
     },
     {
       "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
       "sha1": "c379b8d5dc1a4b1e8987da1052d6b4de81354d72",
-      "size": 1094979,
-      "url": "https://edge.forgecdn.net/files/9047/179/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar"
+      "size": 1094979
     },
     {
       "path": "mods/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
       "sha1": "6759fa57891f731e54f865c13ffa0601a829b76a",
-      "size": 2234287,
-      "url": "https://edge.forgecdn.net/files/8970/306/MoogsVoyagerStructures-universal-1.21-5.1.3.jar"
+      "size": 2234287
     },
     {
       "path": "mods/moonlight-1.21.1-3.7.2-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/moonlight-1.21.1-3.7.2-neoforge.jar",
       "sha1": "0da45e6bc941f4b9b18dda24f8d047431ddc7226",
-      "size": 2299162,
-      "url": "https://edge.forgecdn.net/files/9122/548/moonlight-1.21.1-3.7.2-neoforge.jar"
+      "size": 2299162
     },
     {
       "path": "mods/MossyLib-1.6.0+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/MossyLib-1.6.0%2B1.21.1%2Bneoforge.jar",
       "sha1": "330e8f3889516d53229ccd464f8d572a89f21b6d",
-      "size": 179468,
-      "url": "https://edge.forgecdn.net/files/8938/982/MossyLib-1.6.0%2b1.21.1%2bneoforge.jar"
+      "size": 179468
     },
     {
       "path": "mods/MrDeadPools-ColoredItemFrames-1.21.1-1.0.0-1.21.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/MrDeadPools-ColoredItemFrames-1.21.1-1.0.0-1.21.1-1.0.0.jar",
       "sha1": "d3c90001edbbe679a26a9d48969df9157c666122",
-      "size": 155415,
-      "url": "https://edge.forgecdn.net/files/8169/314/MrDeadPools-ColoredItemFrames-1.21.1-1.0.0-1.21.1-1.0.0.jar"
+      "size": 155415
     },
     {
       "path": "mods/mru-1.0.41+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/mru-1.0.41%2B1.21.1-neoforge.jar",
       "sha1": "c06ebac32fb438a1efc705a9d367c425cc86fa18",
-      "size": 151764,
-      "url": "https://edge.forgecdn.net/files/9004/36/mru-1.0.41%2b1.21.1-neoforge.jar"
+      "size": 151764
     },
     {
       "path": "mods/music_disc_maker-3.1.2+neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/music_disc_maker-3.1.2%2Bneoforge-1.21.1.jar",
       "sha1": "1cfa1f9e31cfad535c90b1160836a31c2b762c44",
-      "size": 35464831,
-      "url": "https://edge.forgecdn.net/files/9285/475/music_disc_maker-3.1.2%2bneoforge-1.21.1.jar"
+      "size": 35464831
     },
     {
       "path": "mods/notenoughcrashes-neoforge-4.4.9+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/notenoughcrashes-neoforge-4.4.9%2B1.21.1.jar",
       "sha1": "4108c653e3e0d54a6df3c5354a752ea0ea801ffe",
-      "size": 598916,
-      "url": "https://edge.forgecdn.net/files/6598/103/notenoughcrashes-neoforge-4.4.9%2b1.21.1.jar"
+      "size": 598916
     },
     {
       "path": "mods/optifinecapes-1.0.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/optifinecapes-1.0.1.jar",
       "sha1": "12c1136817dcff10c601cecd7404eb8965dfb9b1",
-      "size": 10778,
-      "url": "https://edge.forgecdn.net/files/5680/646/optifinecapes-1.0.1.jar"
+      "size": 10778
     },
     {
       "path": "mods/pandalib-neoforge-1.21.1-0.6.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/pandalib-neoforge-1.21.1-0.6.2.jar",
       "sha1": "0d93a27bcb4ee06be500c333d7232e1d1fe02706",
-      "size": 7904509,
-      "url": "https://edge.forgecdn.net/files/8787/579/pandalib-neoforge-1.21.1-0.6.2.jar"
+      "size": 7904509
     },
     {
       "path": "mods/PlacablePlants-Expanded-NeoForge-1.21.1-v1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/PlacablePlants-Expanded-NeoForge-1.21.1-v1.1.0.jar",
       "sha1": "78cd7c51ca6e93f1a169d7ffc528ea4184cc6129",
-      "size": 110533,
-      "url": "https://edge.forgecdn.net/files/9254/982/PlacablePlants-Expanded-NeoForge-1.21.1-v1.1.0.jar"
+      "size": 110533
     },
     {
       "path": "mods/Placebo-1.21.1-9.9.4.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Placebo-1.21.1-9.9.4.jar",
       "sha1": "007d52a42020a331d5272495f6d676e0ad1a2c13",
-      "size": 326063,
-      "url": "https://edge.forgecdn.net/files/9153/39/Placebo-1.21.1-9.9.4.jar"
+      "size": 326063
     },
     {
       "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Prism-1.21.1-neoforge-1.0.11.jar",
       "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f",
-      "size": 62031,
-      "url": "https://edge.forgecdn.net/files/6372/979/Prism-1.21.1-neoforge-1.0.11.jar"
+      "size": 62031
     },
     {
       "path": "mods/punchy-2.8g-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/punchy-2.8g-neoforge-1.21.1.jar",
       "sha1": "ef71196a74e882ee52629753267229ddcdedcf68",
-      "size": 2056747,
-      "url": "https://edge.forgecdn.net/files/9239/897/punchy-2.8g-neoforge-1.21.1.jar"
+      "size": 2056747
     },
     {
       "path": "mods/puzzleslib-v21.1.65-mc1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/puzzleslib-v21.1.65-mc1.21.1%2Bneoforge.jar",
       "sha1": "cc24aa9f22a3c9e55f1ce461625bccb7b5fb09c7",
-      "size": 1451117,
-      "url": "https://edge.forgecdn.net/files/9276/690/puzzleslib-v21.1.65-mc1.21.1%2bneoforge.jar"
+      "size": 1451117
     },
     {
       "path": "mods/reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar",
       "sha1": "e9e6d101b31acb51539141937ad5b069ff2ccc4d",
-      "size": 258894,
-      "url": "https://edge.forgecdn.net/files/8891/797/reeses-sodium-options-neoforge-2.2.4%2bmc1.21.1.jar"
+      "size": 258894
     },
     {
       "path": "mods/Resourcify (1.21.1-neoforge)-1.8.7.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Resourcify%20%281.21.1-neoforge%29-1.8.7.jar",
       "sha1": "b21851bb62eeb69e961b5cd8e7006d1ab85f0d2b",
-      "size": 2946897,
-      "url": "https://edge.forgecdn.net/files/9001/238/Resourcify%20(1.21.1-neoforge)-1.8.7.jar"
+      "size": 2946897
     },
     {
       "path": "mods/RoughlyEnoughItems-16.0.799-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/RoughlyEnoughItems-16.0.799-neoforge.jar",
       "sha1": "58e3de0cd7d559a6caf924c25992382677bc03f9",
-      "size": 2384445,
-      "url": "https://edge.forgecdn.net/files/6199/140/RoughlyEnoughItems-16.0.799-neoforge.jar"
+      "size": 2384445
     },
     {
       "path": "mods/rrls-5.0.11+mc1.21.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/rrls-5.0.11%2Bmc1.21.1-forge.jar",
       "sha1": "acc4b6deca5c9cc87c33f114daf5d8f75081ed85",
-      "size": 180458,
-      "url": "https://edge.forgecdn.net/files/8271/600/rrls-5.0.11%2bmc1.21.1-forge.jar"
+      "size": 180458
     },
     {
       "path": "mods/sit-1.21.1-1.4.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/sit-1.21.1-1.4.jar",
       "sha1": "5e9b0c4ee084770f8757bf53c2ecae19d382f7ed",
-      "size": 14031,
-      "url": "https://edge.forgecdn.net/files/6776/225/sit-1.21.1-1.4.jar"
+      "size": 14031
     },
     {
       "path": "mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
       "sha1": "d4864fac231ff3d360e08a82f06553c3f76de8a6",
-      "size": 1905514,
-      "url": "https://edge.forgecdn.net/files/9243/656/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar"
+      "size": 1905514
     },
     {
       "path": "mods/sodium-extra-neoforge-0.9.5+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/sodium-extra-neoforge-0.9.5%2Bmc1.21.1.jar",
       "sha1": "6ca433df0ad08ce8413582e75dcae7619414a068",
-      "size": 483373,
-      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/T819dLGI/sodium-extra-neoforge-0.9.5%2Bmc1.21.1.jar"
+      "size": 483373
     },
     {
       "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
       "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
-      "size": 1292934,
-      "url": "https://edge.forgecdn.net/files/8756/580/sodium-neoforge-0.8.13%2bmc1.21.1.jar"
+      "size": 1292934
     },
     {
       "path": "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
       "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652",
-      "size": 299353,
-      "url": "https://edge.forgecdn.net/files/6044/477/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
+      "size": 299353
     },
     {
       "path": "mods/sophisticatedcore-1.21.1-1.5.18.2431.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/sophisticatedcore-1.21.1-1.5.18.2431.jar",
       "sha1": "77c351a31872abc8e3f54928250e56cb2b5dc632",
-      "size": 1820015,
-      "url": "https://edge.forgecdn.net/files/9323/125/sophisticatedcore-1.21.1-1.5.18.2431.jar"
+      "size": 1820015
     },
     {
       "path": "mods/sophisticatedstorage-1.21.1-1.6.9.2199.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/sophisticatedstorage-1.21.1-1.6.9.2199.jar",
       "sha1": "44cc71db63e1366798278eacf06f3fff5e3306ad",
-      "size": 1932967,
-      "url": "https://edge.forgecdn.net/files/9296/117/sophisticatedstorage-1.21.1-1.6.9.2199.jar"
+      "size": 1932967
     },
     {
       "path": "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
       "sha1": "cbfa42a31515e1bac4bafcdd974fbba29b7d106a",
-      "size": 8732437,
-      "url": "https://edge.forgecdn.net/files/7325/254/sounds-2.4.22%2blts%2b1.21.1-neoforge.jar"
+      "size": 8732437
     },
     {
       "path": "mods/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar",
       "sha1": "774dae2a81ba825edd5decde37f466b052aeeb5e",
-      "size": 50696,
-      "url": "https://edge.forgecdn.net/files/9106/885/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar"
+      "size": 50696
     },
     {
       "path": "mods/SubtleEffects-neoforge-1.21.1-1.15.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/SubtleEffects-neoforge-1.21.1-1.15.1.jar",
       "sha1": "e8ab4df7ac4bf3d88fa389a1cf97ad2449c3206d",
-      "size": 3445062,
-      "url": "https://edge.forgecdn.net/files/9150/589/SubtleEffects-neoforge-1.21.1-1.15.1.jar"
+      "size": 3445062
     },
     {
       "path": "mods/supplementaries-1.21.1-4.0.2-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/supplementaries-1.21.1-4.0.2-neoforge.jar",
       "sha1": "af25cb08a82c72b3fb67508071ce627714bd2b57",
-      "size": 13840377,
-      "url": "https://edge.forgecdn.net/files/9211/734/supplementaries-1.21.1-4.0.2-neoforge.jar"
+      "size": 13840377
     },
     {
       "path": "mods/teleport_animation-1.21.1-neoforge-21.1.259-1.4.3.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/teleport_animation-1.21.1-neoforge-21.1.259-1.4.3.jar",
       "sha1": "bb94767ddb9e04c410c46926ae781f436b2eb01d",
-      "size": 2920525,
-      "url": "https://edge.forgecdn.net/files/9282/71/teleport_animation-1.21.1-neoforge-21.1.259-1.4.3.jar"
+      "size": 2920525
     },
     {
       "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "sha1": "744394d979b422be560babf9df7a6800ede9ac5b",
-      "size": 120365,
-      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+      "size": 120365
     },
     {
       "path": "mods/touch_n_motion_neoforge_1.21.1_1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/touch_n_motion_neoforge_1.21.1_1.0.4.jar",
       "sha1": "b6fba9ca4d73d2e1eb4968fb48cb6eb0fcadca36",
-      "size": 989740,
-      "url": "https://edge.forgecdn.net/files/9205/893/touch_n_motion_neoforge_1.21.1_1.0.4.jar"
+      "size": 989740
     },
     {
       "path": "mods/visuality-forge-3.0.0.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/visuality-forge-3.0.0.jar",
       "sha1": "9786f023733a302b582b7349336e1ab47e93823e",
-      "size": 132898,
-      "url": "https://edge.forgecdn.net/files/8559/477/visuality-forge-3.0.0.jar"
+      "size": 132898
     },
     {
       "path": "mods/watut-neoforge-1.21.0-1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/watut-neoforge-1.21.0-1.2.7.jar",
       "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62",
-      "size": 432269,
-      "url": "https://edge.forgecdn.net/files/6418/577/watut-neoforge-1.21.0-1.2.7.jar"
+      "size": 432269
     },
     {
       "path": "mods/waveycapes-neoforge-1.11.3-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/waveycapes-neoforge-1.11.3-mc1.21.1.jar",
       "sha1": "74cc771afb94cb14009f51a6d172f8620bcbf591",
-      "size": 1773645,
-      "url": "https://edge.forgecdn.net/files/9229/94/waveycapes-neoforge-1.11.3-mc1.21.1.jar"
+      "size": 1773645
     },
     {
       "path": "mods/waystones-neoforge-1.21.1-21.1.46.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/waystones-neoforge-1.21.1-21.1.46.jar",
       "sha1": "75718161662d9ec957ba22e10e497788ec1687ba",
-      "size": 1223229,
-      "url": "https://edge.forgecdn.net/files/8969/751/waystones-neoforge-1.21.1-21.1.46.jar"
+      "size": 1223229
     },
     {
       "path": "mods/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar",
       "sha1": "4cfceaf50678186c8c8de2eedc1f47f46a624782",
-      "size": 344392,
-      "url": "https://edge.forgecdn.net/files/6476/374/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
+      "size": 344392
     },
     {
       "path": "mods/worldweaver-21.0.30.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/worldweaver-21.0.30.jar",
       "sha1": "88dd2647a1f161dce094b11c9b6c2916963cfe50",
-      "size": 2223172,
-      "url": "https://edge.forgecdn.net/files/9306/568/worldweaver-21.0.30.jar"
+      "size": 2223172
     },
     {
       "path": "mods/wunderlib-21.0.11.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/wunderlib-21.0.11.jar",
       "sha1": "58a8354e9ecb70a04b51f080ce3c2864a1cf3700",
-      "size": 378829,
-      "url": "https://edge.forgecdn.net/files/9172/421/wunderlib-21.0.11.jar"
+      "size": 378829
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
       "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
-      "size": 1118651,
-      "url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar"
+      "size": 1118651
     },
     {
       "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
       "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
-      "size": 413763,
-      "url": "https://edge.forgecdn.net/files/8894/736/YungsApi-1.21.1-NeoForge-5.1.9.jar"
+      "size": 413763
     },
     {
       "path": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
       "sha1": "73a660c13063450e555e5e2c015ae24d606b32b4",
-      "size": 782160,
-      "url": "https://edge.forgecdn.net/files/5954/804/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
+      "size": 782160
     },
     {
       "path": "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
       "sha1": "bcab81f578b3cb31e599ae327c6634b9fa8d0f04",
-      "size": 13006621,
-      "url": "https://edge.forgecdn.net/files/6913/179/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar"
+      "size": 13006621
     },
     {
       "path": "mods/zoomify-neoforge-1.5.0.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/zoomify-neoforge-1.5.0.jar",
       "sha1": "eac3bdc05dfc7854e8afb718c57f4c010846caa7",
-      "size": 462903,
-      "url": "https://edge.forgecdn.net/files/9305/209/zoomify-neoforge-1.5.0.jar"
+      "size": 462903
+    },
+    {
+      "path": "resourcepacks/A Good Place Sample Pack.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/A%20Good%20Place%20Sample%20Pack.zip",
+      "sha1": "5561c4b460d96e52f22d9d6ae6df1ae4f6c1f242",
+      "size": 15052
+    },
+    {
+      "path": "resourcepacks/Castellano - mods.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Castellano%20-%20mods.zip",
+      "sha1": "57bc16da5acf9e438dda7c2801a35c22da5a1eca",
+      "size": 192596
     },
     {
       "path": "resourcepacks/Enchantment Outlines.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Enchantment%20Outlines.zip",
       "sha1": "517bd444ea55bd23d2a15856edeebce7a3a225b1",
-      "size": 1220387,
-      "url": "https://edge.forgecdn.net/files/8989/963/Enchantment%20Outlines.zip"
+      "size": 1220387
     },
     {
       "path": "resourcepacks/Enhanced Audio r7.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Enhanced%20Audio%20r7.zip",
       "sha1": "2cd4bd529641bde061c2d2d4c44de3228fd6d767",
-      "size": 18977120,
-      "url": "https://edge.forgecdn.net/files/7873/296/Enhanced%20Audio%20r7.zip"
+      "size": 18977120
     },
     {
       "path": "resourcepacks/FA+Player-v1.1.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/FA%2BPlayer-v1.1.zip",
       "sha1": "122e397af111e3dc5fb6b60004aad9464980f13a",
-      "size": 110203,
-      "url": "https://edge.forgecdn.net/files/8245/230/FA%2bPlayer-v1.1.zip"
+      "size": 110203
     },
     {
       "path": "resourcepacks/Fancy Crops v1.3.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Fancy%20Crops%20v1.3.zip",
       "sha1": "788e5169eb064b696b2e20d4c5d998cceb387a2e",
-      "size": 92779,
-      "url": "https://edge.forgecdn.net/files/7094/29/Fancy%20Crops%20v1.3.zip"
+      "size": 92779
     },
     {
       "path": "resourcepacks/Icons - Numerals v.1.3.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Icons%20-%20Numerals%20v.1.3.zip",
       "sha1": "9ab2803c26e5b0d85cc79c4ccfdd30b254530a7e",
-      "size": 135120,
-      "url": "https://edge.forgecdn.net/files/8288/696/Icons%20-%20Numerals%20v.1.3.zip"
+      "size": 135120
     },
     {
       "path": "resourcepacks/Icons - Tooltips v.1.3.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Icons%20-%20Tooltips%20v.1.3.zip",
       "sha1": "8001a54c056df1e768ad3b30eaba6af4e7fe7b60",
-      "size": 1650302,
-      "url": "https://edge.forgecdn.net/files/8299/930/Icons%20-%20Tooltips%20v.1.3.zip"
+      "size": 1650302
     },
     {
       "path": "resourcepacks/KehaanPaintingVariantsRP_1.21.1_v1.0.1.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/KehaanPaintingVariantsRP_1.21.1_v1.0.1.zip",
       "sha1": "7b744f7239e7ccb8317730f37b2fc313c3d97f71",
-      "size": 235606,
-      "url": "https://edge.forgecdn.net/files/8406/679/KehaanPaintingVariantsRP_1.21.1_v1.0.1.zip"
+      "size": 235606
     },
     {
       "path": "resourcepacks/RAYs_3D_Rails_v3.6.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/RAYs_3D_Rails_v3.6.zip",
       "sha1": "648bcc967799bb3cefb1d276558f0c8630f46b95",
-      "size": 6228510,
-      "url": "https://edge.forgecdn.net/files/8980/366/RAYs_3D_Rails_v3.6.zip"
+      "size": 6228510
     },
     {
       "path": "resourcepacks/Recolourful Containers DARK 3.1.4 (1.19.4+).zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Recolourful%20Containers%20DARK%203.1.4%20%281.19.4%2B%29.zip",
       "sha1": "d505d17306c18980a56452ffefb59928c6680f99",
-      "size": 2119579,
-      "url": "https://edge.forgecdn.net/files/9030/964/Recolourful%20Containers%20DARK%203.1.4%20(1.19.4%2b).zip"
+      "size": 2119579
     },
     {
       "path": "resourcepacks/Slightly-Improved-Font-1.1.5.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Slightly-Improved-Font-1.1.5.zip",
       "sha1": "da836f13d948d0024a6aa5818beb3b06102bbe40",
-      "size": 74599,
-      "url": "https://edge.forgecdn.net/files/6090/721/Slightly-Improved-Font-1.1.5.zip"
+      "size": 74599
     },
     {
       "path": "resourcepacks/Theone's Eating Animation Pack v1.0.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Theone%27s%20Eating%20Animation%20Pack%20v1.0.zip",
       "sha1": "dcfee884979fa4b9a7d539dd594d38a76a4657c1",
-      "size": 133949,
-      "url": "https://edge.forgecdn.net/files/8970/197/Theone%27s%20Eating%20Animation%20Pack%20v1.0.zip"
+      "size": 133949
     },
     {
       "path": "resourcepacks/Tiny Tools+ 26.2.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Tiny%20Tools%2B%2026.2.zip",
       "sha1": "6590e3618e66e6a2cfed3f01a4b5073796e4517e",
-      "size": 38511,
-      "url": "https://edge.forgecdn.net/files/8323/189/Tiny%20Tools%2b%2026.2.zip"
+      "size": 38511
     },
     {
       "path": "resourcepacks/§6§lVanilla Experience+§0.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/%C2%A76%C2%A7lVanilla%20Experience%2B%C2%A70.zip",
       "sha1": "20a6cbff56dcda57290d769212d458df7bdad728",
-      "size": 2576926,
-      "url": "https://edge.forgecdn.net/files/8937/688/%c2%a76%c2%a7lVanilla%20Experience%2b%c2%a70.zip"
+      "size": 2576926
     }
-  ],
-  "quitar": [
-    "mods/seamlessloading-neoforge-0.1.0+1.21.1-port.jar"
   ]
 }

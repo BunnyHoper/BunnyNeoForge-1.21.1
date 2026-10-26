@@ -1,0 +1,6 @@
+legendaryshrines:shrine	inventory_particles:shrine/fallback/standard_0	0	0	8	8
+legendaryshrines:shrine	inventory_particles:shrine/fallback/standard_1	8	0	8	8
+legendaryshrines:shrine	inventory_particles:shrine/fallback/standard_2	16	0	8	8
+legendaryshrines:shrine	inventory_particles:shrine/fallback/standard_3	24	0	8	8
+legendaryshrines:shrine	inventory_particles:shrine/fallback/standard_4	32	0	8	8
+legendaryshrines:shrine	inventory_particles:shrine/fallback/standard_5	40	0	8	8
