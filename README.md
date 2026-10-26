@@ -14,7 +14,7 @@ El instalador pregunta la RAM, los núcleos y los hilos de tu PC (los rellena so
 
 | | 1 Potato | 2 Normal | 3 High |
 |---|---|---|---|
-| Mods | 66 de 102 | 102 | 102 |
+| Mods | 66 de 98 | 98 | 98 |
 | RAM para el juego | 3–4 GB | 5–6 GB | 6–8 GB |
 | Hilos de Sodium | hilos ÷ 4 (1–2) | hilos ÷ 3 (2–5) | hilos ÷ 2 (2–8) |
 | Chunks visibles | 6 | 9 | 12 |
@@ -50,7 +50,6 @@ Solo los mods necesarios para entrar y los de rendimiento; sin animaciones, part
   - `Resourcify (1.21.1-neoforge)-1.8.7.jar`
   - `SubtleEffects-neoforge-1.21.1-1.15.1.jar`
   - `block-dithering-1.0.6+1.21.1+neoforge.jar`
-  - `connector-2.0.0-beta.17+1.21.1-full.jar`
   - `diorama-0.4.0+neoforge-1.21.1.jar`
   - `emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar`
@@ -58,16 +57,13 @@ Solo los mods necesarios para entrar y los de rendimiento; sin animaciones, part
   - `emf_compat_gliders_1.21.1_2.0.0.jar`
   - `entity_model_features-3.3.12-1.21-neoforge.jar`
   - `entity_texture_features-7.2.6-1.21-neoforge.jar`
-  - `forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar`
   - `fzzy_config-0.7.7+fix1+1.21+neoforge.jar`
   - `kotlinforforge-5.12.0-all.jar`
   - `loot_journal-neoforge-1.21.1-6.2.2.jar`
   - `mru-1.0.41+1.21.1-neoforge.jar`
   - `optifinecapes-1.0.1.jar`
-  - `portal-glimpse-0.1.1.jar`
   - `punchy-2.8g-neoforge-1.21.1.jar`
   - `rrls-5.0.11+mc1.21.1-forge.jar`
-  - `seamlessloading-neoforge-0.1.0+1.21.1-port.jar`
   - `skinlayers3d-neoforge-1.11.4-mc1.21.1.jar`
   - `sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar`
   - `sounds-2.4.22+lts+1.21.1-neoforge.jar`
