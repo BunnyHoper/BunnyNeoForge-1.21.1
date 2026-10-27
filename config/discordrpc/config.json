@@ -11,6 +11,9 @@
   "hideCoordinates": true,
   "launcherWarningDismissed": false,
   "imageUploadsAllowed": true,
+  "discordAccountId": "",
+  "discordAccountName": "",
+  "activeProfileIndex": 0,
   "profiles": [
     {
       "name": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ",
@@ -49,8 +52,7 @@
         "the_end": {
           "details": "🌌 ᴇɴ ᴇʟ ꜰɪɴ"
         }
-      },
-      "screenOverrides": {}
+      }
     },
     {
       "name": "ᴍᴇɴú",
@@ -62,7 +64,7 @@
       "state": "ᴘʀᴇᴘᴀʀᴀɴᴅᴏ ʟᴀ ᴀᴠᴇɴᴛᴜʀᴀ",
       "timestampMode": "ELAPSED",
       "showPartySize": false,
-      "largeImageKey": "madriguera",
+      "largeImageKey": "https://mc-heads.net/head/{uuid}/512",
       "largeImageText": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ · ɴᴇᴏꜰᴏʀɢᴇ 1.21.1",
       "smallImageKey": "",
       "smallImageText": "",
@@ -70,7 +72,6 @@
       "button1Url": "",
       "button2Label": "",
       "button2Url": "",
-      "dimensionOverrides": {},
       "screenOverrides": {
         "main_menu": {
           "details": "ᴇɴ ᴇʟ ᴍᴇɴú ᴘʀɪɴᴄɪᴘᴀʟ",
@@ -110,7 +111,7 @@
       "state": "ᴍᴏᴅᴏ ᴜɴ ᴊᴜɢᴀᴅᴏʀ",
       "timestampMode": "ELAPSED",
       "showPartySize": false,
-      "largeImageKey": "madriguera",
+      "largeImageKey": "https://mc-heads.net/head/{uuid}/512",
       "largeImageText": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ · ɴᴇᴏꜰᴏʀɢᴇ 1.21.1",
       "smallImageKey": "",
       "smallImageText": "",
@@ -137,8 +138,7 @@
         "the_end": {
           "details": "🌌 ᴇɴ ᴇʟ ꜰɪɴ"
         }
-      },
-      "screenOverrides": {}
+      }
     },
     {
       "name": "ᴍᴜʟᴛɪᴊᴜɢᴀᴅᴏʀ",
@@ -147,20 +147,17 @@
       "priority": 10,
       "activityName": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ",
       "details": "ᴊᴜɢᴀɴᴅᴏ ᴇɴ ᴜɴ ѕᴇʀᴠɪᴅᴏʀ",
-      "state": "ᴍᴜʟᴛɪᴊᴜɢᴀᴅᴏʀ",
+      "state": "ᴍᴏᴅᴏ ᴍᴜʟᴛɪᴊᴜɢᴀᴅᴏʀ",
       "timestampMode": "ELAPSED",
       "showPartySize": false,
-      "largeImageKey": "madriguera",
+      "largeImageKey": "https://mc-heads.net/head/{uuid}/512",
       "largeImageText": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ · ɴᴇᴏꜰᴏʀɢᴇ 1.21.1",
       "smallImageKey": "",
       "smallImageText": "",
       "button1Label": "",
       "button1Url": "",
-      "button2Label": "",
-      "button2Url": "",
-      "dimensionOverrides": {},
-      "screenOverrides": {}
+      "button2Label": "(x) ()()",
+      "button2Url": ""
     }
-  ],
-  "activeProfileIndex": 0
+  ]
 }
