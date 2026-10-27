@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "2026.10.27-1232",
+  "version": "2026.10.27-1653",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -618,12 +618,6 @@
       "size": 462903
     },
     {
-      "path": "resourcepacks/A Good Place Sample Pack.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/A%20Good%20Place%20Sample%20Pack.zip",
-      "sha1": "5561c4b460d96e52f22d9d6ae6df1ae4f6c1f242",
-      "size": 15052
-    },
-    {
       "path": "resourcepacks/Castellano - mods.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Castellano%20-%20mods.zip",
       "sha1": "50c876d612316ee61bbdf077607895a52431a4b6",
@@ -654,12 +648,6 @@
       "size": 92779
     },
     {
-      "path": "resourcepacks/Icons - Numerals v.1.3.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Icons%20-%20Numerals%20v.1.3.zip",
-      "sha1": "9ab2803c26e5b0d85cc79c4ccfdd30b254530a7e",
-      "size": 135120
-    },
-    {
       "path": "resourcepacks/Icons - Tooltips v.1.3.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Icons%20-%20Tooltips%20v.1.3.zip",
       "sha1": "8001a54c056df1e768ad3b30eaba6af4e7fe7b60",
@@ -672,34 +660,22 @@
       "size": 235606
     },
     {
-      "path": "resourcepacks/RAYs_3D_Rails_v3.6.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/RAYs_3D_Rails_v3.6.zip",
-      "sha1": "648bcc967799bb3cefb1d276558f0c8630f46b95",
-      "size": 6228510
+      "path": "resourcepacks/Recolourful Containers + Supplementaries 1.0.0 (supplementaries 1.21.1 - 3.6.4).zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Recolourful%20Containers%20%2B%20Supplementaries%201.0.0%20%28supplementaries%201.21.1%20-%203.6.4%29.zip",
+      "sha1": "1a243fa8c21497d87562e464ce5d215175e35acf",
+      "size": 111812
     },
     {
-      "path": "resourcepacks/Recolourful Containers DARK 3.1.4 (1.19.4+).zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Recolourful%20Containers%20DARK%203.1.4%20%281.19.4%2B%29.zip",
-      "sha1": "d505d17306c18980a56452ffefb59928c6680f99",
-      "size": 2119579
+      "path": "resourcepacks/Removed Empty Icons.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Removed%20Empty%20Icons.zip",
+      "sha1": "557fec81f8c1ad30241ae4391e35569ad85aa9d1",
+      "size": 29734
     },
     {
       "path": "resourcepacks/Slightly-Improved-Font-1.1.5.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Slightly-Improved-Font-1.1.5.zip",
       "sha1": "da836f13d948d0024a6aa5818beb3b06102bbe40",
       "size": 74599
-    },
-    {
-      "path": "resourcepacks/Theone's Eating Animation Pack v1.0.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Theone%27s%20Eating%20Animation%20Pack%20v1.0.zip",
-      "sha1": "dcfee884979fa4b9a7d539dd594d38a76a4657c1",
-      "size": 133949
-    },
-    {
-      "path": "resourcepacks/Tiny Tools+ 26.2.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Tiny%20Tools%2B%2026.2.zip",
-      "sha1": "6590e3618e66e6a2cfed3f01a4b5073796e4517e",
-      "size": 38511
     },
     {
       "path": "resourcepacks/§6§lVanilla Experience+§0.zip",

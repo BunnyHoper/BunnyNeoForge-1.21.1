@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","file/Enhanced Audio r7.zip","file/RAYs_3D_Rails_v3.6.zip","file/Recolourful Containers DARK 3.1.4 (1.19.4+).zip","file/Enchantment Outlines.zip","file/FA+Player-v1.1.zip","file/Fancy Crops v1.3.zip","file/Icons - Numerals v.1.3.zip","file/Icons - Tooltips v.1.3.zip","file/KehaanPaintingVariantsRP_1.21.1_v1.0.1.zip","file/Slightly-Improved-Font-1.1.5.zip","mod/punchy:resourcepacks/punchy","file/Castellano - mods.zip"]
+resourcePacks:["vanilla","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","file/Enhanced Audio r7.zip","file/Enchantment Outlines.zip","file/Fancy Crops v1.3.zip","file/KehaanPaintingVariantsRP_1.21.1_v1.0.1.zip","file/§6§lVanilla Experience+§0.zip","file/Recolourful Containers + Supplementaries 1.0.0 (supplementaries 1.21.1 - 3.6.4).zip","file/Icons - Tooltips v.1.3.zip","file/Slightly-Improved-Font-1.1.5.zip","file/Castellano - mods.zip","mod/punchy:resourcepacks/punchy","file/FA+Player-v1.1.zip","file/Removed Empty Icons.zip"]
 incompatibleResourcePacks:[]
 lang:es_es
 chatVisibility:0
@@ -162,11 +162,12 @@ key_key.diorama.zoom_in:key.keyboard.equal
 key_key.diorama.zoom_out:key.keyboard.minus
 key_key.diorama.settings:key.keyboard.unknown
 key_key.diorama.toggle_minimap:key.keyboard.unknown
+key_discordrpc.key.open_config:key.keyboard.f6
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.punchy.triggerable.punchy_sword_inspect_old:key.keyboard.j
 key_key.punchy.triggerable.punchy_sword_inspect_rework:key.keyboard.g
+key_key.punchy.triggerable.punchy_sword_inspect_old:key.keyboard.j
 soundCategory_master:0.014506156870860928
 soundCategory_music:1.0
 soundCategory_record:1.0

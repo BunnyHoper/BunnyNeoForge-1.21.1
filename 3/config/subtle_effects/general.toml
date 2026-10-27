@@ -1,7 +1,7 @@
 # Don't change this! Version used to track needed updates.
 version = 1
 enableParticleCulling = true
-particleRenderDistance = 5
+particleRenderDistance = 3
 particleCullingBlocklist = [
     "minecraft:portal",
     "minecraft:reverse_portal",

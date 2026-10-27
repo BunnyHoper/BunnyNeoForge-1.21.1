@@ -1,0 +1,78 @@
+{
+  "id": 4,
+  "nombre": "Épico",
+  "quitar": [],
+  "sin-paquetes": false,
+  "options": {
+    "ao": "true",
+    "biomeBlendRadius": "2",
+    "enableVsync": "true",
+    "entityDistanceScaling": "1.0",
+    "entityShadows": "true",
+    "prioritizeChunkUpdates": "0",
+    "graphicsMode": "1",
+    "maxFps": "170",
+    "mipmapLevels": "4",
+    "particles": "0",
+    "renderClouds": "\"false\"",
+    "renderDistance": "12",
+    "simulationDistance": "12",
+    "bobView": "true",
+    "menuBackgroundBlurriness": "5",
+    "resourcePacks": "[\"vanilla\",\"generated/fragmentum_layer\",\"mod_resources\",\"moonlight:merged_pack\",\"file/Enhanced Audio r7.zip\",\"file/Enchantment Outlines.zip\",\"file/Fancy Crops v1.3.zip\",\"file/KehaanPaintingVariantsRP_1.21.1_v1.0.1.zip\",\"file/§6§lVanilla Experience+§0.zip\",\"file/Recolourful Containers + Supplementaries 1.0.0 (supplementaries 1.21.1 - 3.6.4).zip\",\"file/Icons - Tooltips v.1.3.zip\",\"file/Slightly-Improved-Font-1.1.5.zip\",\"file/Castellano - mods.zip\",\"mod/punchy:resourcepacks/punchy\",\"file/FA+Player-v1.1.zip\",\"file/Removed Empty Icons.zip\"]",
+    "incompatibleResourcePacks": "[]"
+  },
+  "ram": {
+    "min": 12,
+    "max": 12
+  },
+  "hilos": {
+    "div": 2,
+    "min": 2,
+    "max": 8
+  },
+  "archivos": [
+    {
+      "path": "config/sodium-options.json",
+      "url": "config/sodium-options.json",
+      "sha1": "e1bd6fd5deaf9ee4b4030adc963983c77cdc3bf4",
+      "size": 757
+    },
+    {
+      "path": "config/sodiumdynamiclights-client.toml",
+      "url": "config/sodiumdynamiclights-client.toml",
+      "sha1": "b9fa2f860583c210f1295131fa19e77e11de8876",
+      "size": 637
+    },
+    {
+      "path": "config/subtle_effects/general.toml",
+      "url": "config/subtle_effects/general.toml",
+      "sha1": "8c844709692ea1ceddbe35454b21de4c6f16976b",
+      "size": 1323
+    },
+    {
+      "path": "config/subtle_effects/environment.toml",
+      "url": "config/subtle_effects/environment.toml",
+      "sha1": "90f16b67bd33b5ae191a659711c42c3660d2d4b3",
+      "size": 2503
+    },
+    {
+      "path": "config/subtle_effects/blocks.toml",
+      "url": "config/subtle_effects/blocks.toml",
+      "sha1": "0ab6bcb83bb31b75e3323202983cf9a1f45753ef",
+      "size": 4419
+    },
+    {
+      "path": "config/visuality/config.toml",
+      "url": "config/visuality/config.toml",
+      "sha1": "7d1f233afbc29cd586bc9e6f8e886987c919dcb8",
+      "size": 368
+    },
+    {
+      "path": "config/skinlayers.json",
+      "url": "config/skinlayers.json",
+      "sha1": "3aaab48d227f826fa81c09513722345a15d394dc",
+      "size": 498
+    }
+  ]
+}
