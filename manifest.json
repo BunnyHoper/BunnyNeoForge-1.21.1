@@ -1,6 +1,6 @@
 {
   "pack": "Vanilla +",
-  "version": "2026.10.27-0002",
+  "version": "2026.10.27-1133",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -456,12 +456,6 @@
       "size": 180458
     },
     {
-      "path": "mods/sit-1.21.1-1.4.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/sit-1.21.1-1.4.jar",
-      "sha1": "5e9b0c4ee084770f8757bf53c2ecae19d382f7ed",
-      "size": 14031
-    },
-    {
       "path": "mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
       "sha1": "d4864fac231ff3d360e08a82f06553c3f76de8a6",
@@ -484,12 +478,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
       "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652",
       "size": 299353
-    },
-    {
-      "path": "mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "sha1": "5d014d031fa77ab600e07835b032ef4dcb79b442",
-      "size": 309122
     },
     {
       "path": "mods/sophisticatedcore-1.21.1-1.5.18.2431.jar",

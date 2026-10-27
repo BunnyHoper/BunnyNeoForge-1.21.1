@@ -15,7 +15,7 @@ El instalador pregunta la RAM, los núcleos y los hilos de tu PC (los rellena so
 
 | | 1 Potato | 2 Normal | 3 High |
 |---|---|---|---|
-| Mods | 70 de 102 | 102 | 102 |
+| Mods | 68 de 100 | 100 | 100 |
 | RAM para el juego | 3–4 GB | 5–6 GB | 6–8 GB |
 | Hilos de Sodium | hilos ÷ 4 (1–2) | hilos ÷ 3 (2–5) | hilos ÷ 2 (2–8) |
 | Chunks visibles | 6 | 9 | 12 |

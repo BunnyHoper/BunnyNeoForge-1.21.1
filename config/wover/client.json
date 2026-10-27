@@ -1,7 +1,7 @@
 {
   "create_version": "21.0.30",
   "internal": {
-    "did_present_welcome_screen": false
+    "did_present_welcome_screen": true
   },
   "general": {
     "check_for_new_versions": true,
@@ -9,7 +9,7 @@
     "force_betterx_world_type": true
   },
   "loading": {
-    "disable_experimental_warning": false
+    "disable_experimental_warning": true
   },
   "modify_version": "21.0.30"
 }
