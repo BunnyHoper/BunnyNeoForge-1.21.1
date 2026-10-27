@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "2026.10.27-1653",
+  "version": "2026.10.27-2211",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -562,12 +562,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/waystones-neoforge-1.21.1-21.1.46.jar",
       "sha1": "75718161662d9ec957ba22e10e497788ec1687ba",
       "size": 1223229
-    },
-    {
-      "path": "mods/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar",
-      "sha1": "4cfceaf50678186c8c8de2eedc1f47f46a624782",
-      "size": 344392
     },
     {
       "path": "mods/worldweaver-21.0.30.jar",
