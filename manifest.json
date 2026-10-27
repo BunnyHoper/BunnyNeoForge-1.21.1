@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "2026.10.28-0006",
+  "version": "2026.10.28-0027",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -126,16 +126,16 @@
       "size": 422658
     },
     {
-      "path": "mods/coroutil-neoforge-1.21.0-1.3.9.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/coroutil-neoforge-1.21.0-1.3.9.jar",
-      "sha1": "0f5a6309ce8394721b97740e6f3e45665f13b8de",
-      "size": 65716
-    },
-    {
       "path": "mods/corpse-neoforge-1.21.1-1.1.22.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/corpse-neoforge-1.21.1-1.1.22.jar",
       "sha1": "0d73e082e4d5c0f185aa8030bcefb68c259d1107",
       "size": 256780
+    },
+    {
+      "path": "mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+      "sha1": "5a07cc032df790e7d110ad3dedb7a76253ffd565",
+      "size": 1185088
     },
     {
       "path": "mods/diorama-0.5.0+neoforge-1.21.1.jar",
@@ -148,6 +148,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/DiscordPresence-1.6.0%2B1.21.1-neoforge.jar",
       "sha1": "00b098604d00844649d5353adf5208b5b696f19b",
       "size": 5844570
+    },
+    {
+      "path": "mods/dungeons-and-taverns-v4.4.4.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/dungeons-and-taverns-v4.4.4.jar",
+      "sha1": "249a5bdd0e8622b8a11f88758e6f5fd5fda036a3",
+      "size": 24859622
     },
     {
       "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
@@ -184,6 +190,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/emf_compat_gliders_1.21.1_2.0.0.jar",
       "sha1": "12240bb92b02364f931a48a1e9289b934fcc2241",
       "size": 181645
+    },
+    {
+      "path": "mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+      "sha1": "f71aa503738f2e23a8d939b7ea9f96f2fe203f11",
+      "size": 1330403
     },
     {
       "path": "mods/entity_model_features-3.3.12-1.21-neoforge.jar",
@@ -420,16 +432,22 @@
       "size": 2056747
     },
     {
-      "path": "mods/puzzleslib-v21.1.66-mc1.21.1+neoforge.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/puzzleslib-v21.1.66-mc1.21.1%2Bneoforge.jar",
-      "sha1": "fd584167f1277aef5411a98a22390c65cabe6e07",
-      "size": 1451120
-    },
-    {
       "path": "mods/reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar",
       "sha1": "e9e6d101b31acb51539141937ad5b069ff2ccc4d",
       "size": 258894
+    },
+    {
+      "path": "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+      "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031",
+      "size": 341009
+    },
+    {
+      "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+      "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
+      "size": 484332
     },
     {
       "path": "mods/Resourcify (1.21.1-neoforge)-1.8.7.jar",
@@ -504,10 +522,10 @@
       "size": 2920525
     },
     {
-      "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
-      "sha1": "744394d979b422be560babf9df7a6800ede9ac5b",
-      "size": 120365
+      "path": "mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
+      "size": 2814865
     },
     {
       "path": "mods/touch_n_motion_neoforge_1.21.1_1.0.4.jar",
