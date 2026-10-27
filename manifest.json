@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "2026.10.27-2331",
+  "version": "2026.10.27-2358",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -174,12 +174,6 @@
       "size": 181645
     },
     {
-      "path": "mods/enderdragondestroysendisland-2.2.2+mc1.21-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/enderdragondestroysendisland-2.2.2%2Bmc1.21-neoforge.jar",
-      "sha1": "3010e7ceb65185f8b0ddc03c4f5d834f4b88a3cd",
-      "size": 41631
-    },
-    {
       "path": "mods/entity_model_features-3.3.12-1.21-neoforge.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/entity_model_features-3.3.12-1.21-neoforge.jar",
       "sha1": "e9a163b77243cdfcb0ad3d698dc48a60cb8710e9",
@@ -280,12 +274,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Jade-1.21.1-NeoForge-15.10.6.jar",
       "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
       "size": 726853
-    },
-    {
-      "path": "mods/kaleidoscope_ImmersiveEating-neoforge1.21.1-1.5.5.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/kaleidoscope_ImmersiveEating-neoforge1.21.1-1.5.5.jar",
-      "sha1": "bb27c11337a67791d9c3319ae369b8293960c28e",
-      "size": 2733893
     },
     {
       "path": "mods/kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar",
@@ -394,12 +382,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/pandalib-neoforge-1.21.1-0.6.2.jar",
       "sha1": "0d93a27bcb4ee06be500c333d7232e1d1fe02706",
       "size": 7904509
-    },
-    {
-      "path": "mods/PlacablePlants-Expanded-NeoForge-1.21.1-v1.1.0.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/PlacablePlants-Expanded-NeoForge-1.21.1-v1.1.0.jar",
-      "sha1": "78cd7c51ca6e93f1a169d7ffc528ea4184cc6129",
-      "size": 110533
     },
     {
       "path": "mods/Placebo-1.21.1-9.9.4.jar",
@@ -522,12 +504,6 @@
       "size": 132898
     },
     {
-      "path": "mods/watut-neoforge-1.21.0-1.2.7.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/watut-neoforge-1.21.0-1.2.7.jar",
-      "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62",
-      "size": 432269
-    },
-    {
       "path": "mods/waveycapes-neoforge-1.11.3-mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/waveycapes-neoforge-1.11.3-mc1.21.1.jar",
       "sha1": "74cc771afb94cb14009f51a6d172f8620bcbf591",
@@ -562,12 +538,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
       "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
       "size": 413763
-    },
-    {
-      "path": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
-      "sha1": "73a660c13063450e555e5e2c015ae24d606b32b4",
-      "size": 782160
     },
     {
       "path": "mods/zambielib-1.2.0+1.21.1-neoforge.jar",
