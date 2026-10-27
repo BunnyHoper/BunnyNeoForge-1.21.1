@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "2026.10.27-2358",
+  "version": "2026.10.28-0006",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -34,6 +34,18 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/bclib-21.0.28.jar",
       "sha1": "8fc293f1131367384bb5b47927a84eb6f6d31f28",
       "size": 2167518
+    },
+    {
+      "path": "mods/better_nether_portals-1.21.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/better_nether_portals-1.21.1-1.0.0.jar",
+      "sha1": "ecab64349ff9b7f2c1e565702b2e7d70a4d199dc",
+      "size": 244239
+    },
+    {
+      "path": "mods/betterbastions-1.0.0+neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/betterbastions-1.0.0%2Bneoforge-1.21.1.jar",
+      "sha1": "4b9fc7c562e246b59281da6560b3c901dc15918c",
+      "size": 255737
     },
     {
       "path": "mods/bettercombat-neoforge-2.4.0+1.21.1.jar",
@@ -190,6 +202,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
       "sha1": "f122f84f329793675b2625d51b77f990d7de3579",
       "size": 1510075
+    },
+    {
+      "path": "mods/evenbetternether-1.3.0-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/evenbetternether-1.3.0-neoforge-1.21.1.jar",
+      "sha1": "b17e8f961e4e6639d6e66d659b2a3bdc915b3860",
+      "size": 1005340
     },
     {
       "path": "mods/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar",
@@ -538,6 +556,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
       "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
       "size": 413763
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "sha1": "832f2c17425debe74a9f267f4136f1a0f0221d19",
+      "size": 398130
     },
     {
       "path": "mods/zambielib-1.2.0+1.21.1-neoforge.jar",
