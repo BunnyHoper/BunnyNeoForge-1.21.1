@@ -1,6 +1,6 @@
 {
-  "pack": "Vanilla +",
-  "version": "2026.10.27-1133",
+  "pack": "La Madriguera",
+  "version": "2026.10.27-1204",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -130,6 +130,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/diorama-0.5.0%2Bneoforge-1.21.1.jar",
       "sha1": "15f6363d48a364a72622beec37499391ace2eb8d",
       "size": 569401
+    },
+    {
+      "path": "mods/DiscordPresence-1.6.0+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/DiscordPresence-1.6.0%2B1.21.1-neoforge.jar",
+      "sha1": "00b098604d00844649d5353adf5208b5b696f19b",
+      "size": 5844570
     },
     {
       "path": "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
@@ -598,6 +604,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
       "sha1": "bcab81f578b3cb31e599ae327c6634b9fa8d0f04",
       "size": 13006621
+    },
+    {
+      "path": "mods/zambielib-1.2.0+1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/zambielib-1.2.0%2B1.21.1-neoforge.jar",
+      "sha1": "4524ace44ad6cd4f9352c8b153831c1eda52cbbb",
+      "size": 29580
     },
     {
       "path": "mods/zoomify-neoforge-1.5.0.jar",

@@ -1,6 +1,6 @@
-# Vanilla + · Private
+# La Madriguera · Private
 
-Pack del servidor **bunnydev.zaroz.fun** (Minecraft 1.21.1, NeoForge). Lo instala `VanillaPlus-Instalador` (Windows .exe / Mac .dmg): **baja exactamente lo que hay en este repositorio** (mods, configuración, paquetes de texturas, opciones y servidor), instala la misma versión de NeoForge que el dueño y aplica el perfil elegido. Subir o borrar un archivo aquí lo pone o lo quita en la próxima instalación.
+Pack del servidor **bunnydev.zaroz.fun** (Minecraft 1.21.1, NeoForge). Lo instala `LaMadriguera-Instalador` (Windows .exe / Mac .dmg): **baja exactamente lo que hay en este repositorio** (mods, configuración, paquetes de texturas, opciones y servidor), instala la misma versión de NeoForge que el dueño y aplica el perfil elegido. Subir o borrar un archivo aquí lo pone o lo quita en la próxima instalación.
 
 | Archivo | Qué es |
 |---|---|
@@ -15,7 +15,7 @@ El instalador pregunta la RAM, los núcleos y los hilos de tu PC (los rellena so
 
 | | 1 Potato | 2 Normal | 3 High |
 |---|---|---|---|
-| Mods | 68 de 100 | 100 | 100 |
+| Mods | 70 de 102 | 102 | 102 |
 | RAM para el juego | 3–4 GB | 5–6 GB | 6–8 GB |
 | Hilos de Sodium | hilos ÷ 4 (1–2) | hilos ÷ 3 (2–5) | hilos ÷ 2 (2–8) |
 | Chunks visibles | 6 | 9 | 12 |

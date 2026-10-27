@@ -1,0 +1,166 @@
+{
+  "configVersion": 1,
+  "enabled": true,
+  "updateInterval": 15,
+  "autoReconnect": true,
+  "reconnectDelay": 30,
+  "showInMainMenu": true,
+  "afkDetection": true,
+  "afkTimeout": 300,
+  "hideServerIp": true,
+  "hideCoordinates": true,
+  "launcherWarningDismissed": false,
+  "imageUploadsAllowed": true,
+  "profiles": [
+    {
+      "name": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ",
+      "contextType": "SPECIFIC_SERVER",
+      "contextFilter": "bunnydev.zaroz.fun",
+      "priority": 100,
+      "activityName": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ",
+      "details": "🌍 ᴇхᴘʟᴏʀᴀɴᴅᴏ ʟᴀ ᴛɪᴇʀʀᴀ",
+      "state": "👥 {online}/{max_players} ᴀᴠᴇɴᴛᴜʀᴇʀᴏѕ",
+      "timestampMode": "ELAPSED",
+      "showPartySize": false,
+      "largeImageKey": "madriguera",
+      "largeImageText": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ · ɴᴇᴏꜰᴏʀɢᴇ 1.21.1",
+      "smallImageKey": "",
+      "smallImageText": "",
+      "button1Label": "",
+      "button1Url": "",
+      "button2Label": "",
+      "button2Url": "",
+      "dimensionOverrides": {
+        "minecraft:overworld": {
+          "details": "🌍 ᴇхᴘʟᴏʀᴀɴᴅᴏ ʟᴀ ᴛɪᴇʀʀᴀ"
+        },
+        "overworld": {
+          "details": "🌍 ᴇхᴘʟᴏʀᴀɴᴅᴏ ʟᴀ ᴛɪᴇʀʀᴀ"
+        },
+        "minecraft:the_nether": {
+          "details": "🔥 ᴇɴ ᴇʟ ɪɴꜰɪᴇʀɴᴏ"
+        },
+        "the_nether": {
+          "details": "🔥 ᴇɴ ᴇʟ ɪɴꜰɪᴇʀɴᴏ"
+        },
+        "minecraft:the_end": {
+          "details": "🌌 ᴇɴ ᴇʟ ꜰɪɴ"
+        },
+        "the_end": {
+          "details": "🌌 ᴇɴ ᴇʟ ꜰɪɴ"
+        }
+      },
+      "screenOverrides": {}
+    },
+    {
+      "name": "ᴍᴇɴú",
+      "contextType": "MAIN_MENU",
+      "contextFilter": "",
+      "priority": 10,
+      "activityName": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ",
+      "details": "ᴇɴ ᴇʟ ᴍᴇɴú ᴘʀɪɴᴄɪᴘᴀʟ",
+      "state": "ᴘʀᴇᴘᴀʀᴀɴᴅᴏ ʟᴀ ᴀᴠᴇɴᴛᴜʀᴀ",
+      "timestampMode": "ELAPSED",
+      "showPartySize": false,
+      "largeImageKey": "madriguera",
+      "largeImageText": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ · ɴᴇᴏꜰᴏʀɢᴇ 1.21.1",
+      "smallImageKey": "",
+      "smallImageText": "",
+      "button1Label": "",
+      "button1Url": "",
+      "button2Label": "",
+      "button2Url": "",
+      "dimensionOverrides": {},
+      "screenOverrides": {
+        "main_menu": {
+          "details": "ᴇɴ ᴇʟ ᴍᴇɴú ᴘʀɪɴᴄɪᴘᴀʟ",
+          "state": "ᴘʀᴇᴘᴀʀᴀɴᴅᴏ ʟᴀ ᴀᴠᴇɴᴛᴜʀᴀ"
+        },
+        "select_server": {
+          "details": "ᴇʟɪɢɪᴇɴᴅᴏ ѕᴇʀᴠɪᴅᴏʀ",
+          "state": "ʀᴜᴍʙᴏ ᴀ ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ"
+        },
+        "select_world": {
+          "details": "ᴇʟɪɢɪᴇɴᴅᴏ ᴍᴜɴᴅᴏ",
+          "state": "ᴍᴏᴅᴏ ᴜɴ ᴊᴜɢᴀᴅᴏʀ"
+        },
+        "create_world": {
+          "details": "ᴄʀᴇᴀɴᴅᴏ ᴜɴ ᴍᴜɴᴅᴏ",
+          "state": "ᴀᴊᴜѕᴛᴀɴᴅᴏ ʟᴀ ѕᴇᴍɪʟʟᴀ"
+        },
+        "options": {
+          "details": "ᴇɴ ʟᴏѕ ᴀᴊᴜѕᴛᴇѕ",
+          "state": "ᴅᴇᴊáɴᴅᴏʟᴏ ᴀ ѕᴜ ɢᴜѕᴛᴏ"
+        },
+        "realms": {
+          "details": "ᴍɪʀᴀɴᴅᴏ ʀᴇᴀʟᴍѕ"
+        },
+        "language": {
+          "details": "ᴄᴀᴍʙɪᴀɴᴅᴏ ᴇʟ ɪᴅɪᴏᴍᴀ"
+        }
+      }
+    },
+    {
+      "name": "ᴜɴ ᴊᴜɢᴀᴅᴏʀ",
+      "contextType": "SINGLEPLAYER",
+      "contextFilter": "",
+      "priority": 10,
+      "activityName": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ",
+      "details": "ᴊᴜɢᴀɴᴅᴏ ᴇɴ ᴜɴ ᴍᴜɴᴅᴏ",
+      "state": "ᴍᴏᴅᴏ ᴜɴ ᴊᴜɢᴀᴅᴏʀ",
+      "timestampMode": "ELAPSED",
+      "showPartySize": false,
+      "largeImageKey": "madriguera",
+      "largeImageText": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ · ɴᴇᴏꜰᴏʀɢᴇ 1.21.1",
+      "smallImageKey": "",
+      "smallImageText": "",
+      "button1Label": "",
+      "button1Url": "",
+      "button2Label": "",
+      "button2Url": "",
+      "dimensionOverrides": {
+        "minecraft:overworld": {
+          "details": "🌍 ᴇɴ ʟᴀ ᴛɪᴇʀʀᴀ"
+        },
+        "overworld": {
+          "details": "🌍 ᴇɴ ʟᴀ ᴛɪᴇʀʀᴀ"
+        },
+        "minecraft:the_nether": {
+          "details": "🔥 ᴇɴ ᴇʟ ɪɴꜰɪᴇʀɴᴏ"
+        },
+        "the_nether": {
+          "details": "🔥 ᴇɴ ᴇʟ ɪɴꜰɪᴇʀɴᴏ"
+        },
+        "minecraft:the_end": {
+          "details": "🌌 ᴇɴ ᴇʟ ꜰɪɴ"
+        },
+        "the_end": {
+          "details": "🌌 ᴇɴ ᴇʟ ꜰɪɴ"
+        }
+      },
+      "screenOverrides": {}
+    },
+    {
+      "name": "ᴍᴜʟᴛɪᴊᴜɢᴀᴅᴏʀ",
+      "contextType": "MULTIPLAYER",
+      "contextFilter": "",
+      "priority": 10,
+      "activityName": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ",
+      "details": "ᴊᴜɢᴀɴᴅᴏ ᴇɴ ᴜɴ ѕᴇʀᴠɪᴅᴏʀ",
+      "state": "ᴍᴜʟᴛɪᴊᴜɢᴀᴅᴏʀ",
+      "timestampMode": "ELAPSED",
+      "showPartySize": false,
+      "largeImageKey": "madriguera",
+      "largeImageText": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ · ɴᴇᴏꜰᴏʀɢᴇ 1.21.1",
+      "smallImageKey": "",
+      "smallImageText": "",
+      "button1Label": "",
+      "button1Url": "",
+      "button2Label": "",
+      "button2Url": "",
+      "dimensionOverrides": {},
+      "screenOverrides": {}
+    }
+  ],
+  "activeProfileIndex": 0
+}
