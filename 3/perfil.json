@@ -2,6 +2,7 @@
   "id": 3,
   "nombre": "High",
   "quitar": [],
+  "sin-paquetes": false,
   "options": {
     "renderDistance": "12",
     "simulationDistance": "8",
@@ -17,7 +18,9 @@
     "maxFps": "260",
     "prioritizeChunkUpdates": "1",
     "menuBackgroundBlurriness": "5",
-    "bobView": "true"
+    "bobView": "true",
+    "resourcePacks": "[\"vanilla\",\"generated/fragmentum_layer\",\"mod_resources\",\"moonlight:merged_pack\",\"file/Enhanced Audio r7.zip\",\"file/RAYs_3D_Rails_v3.6.zip\",\"file/Recolourful Containers DARK 3.1.4 (1.19.4+).zip\",\"file/Enchantment Outlines.zip\",\"file/FA+Player-v1.1.zip\",\"file/Fancy Crops v1.3.zip\",\"file/Icons - Numerals v.1.3.zip\",\"file/Icons - Tooltips v.1.3.zip\",\"file/KehaanPaintingVariantsRP_1.21.1_v1.0.1.zip\",\"file/Slightly-Improved-Font-1.1.5.zip\",\"mod/punchy:resourcepacks/punchy\",\"file/Castellano - mods.zip\"]",
+    "incompatibleResourcePacks": "[]"
   },
   "ram": {
     "min": 6,
