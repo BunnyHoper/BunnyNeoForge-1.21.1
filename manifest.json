@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "2026.10.28-0742",
+  "version": "2026.10.28-0758",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -414,6 +414,12 @@
       "size": 10778
     },
     {
+      "path": "mods/packed_packs-neoforge-2.3.1+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/packed_packs-neoforge-2.3.1%2B1.21.1.jar",
+      "sha1": "b6fe7efebe7ab8de87a68a782d5cdf01c73e88ad",
+      "size": 983012
+    },
+    {
       "path": "mods/pandalib-neoforge-1.21.1-0.6.2.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/pandalib-neoforge-1.21.1-0.6.2.jar",
       "sha1": "0d93a27bcb4ee06be500c333d7232e1d1fe02706",
@@ -424,6 +430,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Placebo-1.21.1-9.9.4.jar",
       "sha1": "007d52a42020a331d5272495f6d676e0ad1a2c13",
       "size": 326063
+    },
+    {
+      "path": "mods/polytone-1.21-5.3.2-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/polytone-1.21-5.3.2-neoforge.jar",
+      "sha1": "6ccfffe714460cc9b15a1ae7b3c96bdc62282995",
+      "size": 1776692
     },
     {
       "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
@@ -600,10 +612,28 @@
       "size": 462903
     },
     {
+      "path": "resourcepacks/boss-refreshed-v2.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/boss-refreshed-v2.zip",
+      "sha1": "d4a8a6cdf5a0c96b7fc212ac3657c1d96c876997",
+      "size": 238037
+    },
+    {
       "path": "resourcepacks/Castellano - mods.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Castellano%20-%20mods.zip",
       "sha1": "50c876d612316ee61bbdf077607895a52431a4b6",
       "size": 186912
+    },
+    {
+      "path": "resourcepacks/Default HD 128x Demo 1.8.2.7.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Default%20HD%20128x%20Demo%201.8.2.7.zip",
+      "sha1": "b8aa449269237904c368619f25fad619d80b41fc",
+      "size": 16876419
+    },
+    {
+      "path": "resourcepacks/Drigo 3D Lantern`s x Punchy.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Drigo%203D%20Lantern%60s%20x%20Punchy.zip",
+      "sha1": "81db9b1c099ce6064162b3c39fe5b97336ee4b32",
+      "size": 5858016
     },
     {
       "path": "resourcepacks/Enchantment Outlines.zip",
@@ -630,6 +660,12 @@
       "size": 92779
     },
     {
+      "path": "resourcepacks/HyperPunchy-v2.5+.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/HyperPunchy-v2.5%2B.zip",
+      "sha1": "244f180a03bdcbe4333e3535cadf4e83762d0c47",
+      "size": 1193703
+    },
+    {
       "path": "resourcepacks/Icons - Tooltips v.1.3.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Icons%20-%20Tooltips%20v.1.3.zip",
       "sha1": "8001a54c056df1e768ad3b30eaba6af4e7fe7b60",
@@ -642,28 +678,52 @@
       "size": 9414964
     },
     {
-      "path": "resourcepacks/KehaanPaintingVariantsRP_1.21.1_v1.0.1.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/KehaanPaintingVariantsRP_1.21.1_v1.0.1.zip",
-      "sha1": "7b744f7239e7ccb8317730f37b2fc313c3d97f71",
-      "size": 235606
+      "path": "resourcepacks/JustExpressions_v1.2.1.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/JustExpressions_v1.2.1.zip",
+      "sha1": "4485a851140d337fa8ecca25939db3be50a3ba59",
+      "size": 262755
     },
     {
-      "path": "resourcepacks/Recolourful Containers + Supplementaries 1.0.0 (supplementaries 1.21.1 - 3.6.4).zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Recolourful%20Containers%20%2B%20Supplementaries%201.0.0%20%28supplementaries%201.21.1%20-%203.6.4%29.zip",
-      "sha1": "1a243fa8c21497d87562e464ce5d215175e35acf",
-      "size": 111812
+      "path": "resourcepacks/Nautilus3D-V2.2.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Nautilus3D-V2.2.zip",
+      "sha1": "33887c97d1571485002fc44ff6f62c59791baf07",
+      "size": 5598247
     },
     {
-      "path": "resourcepacks/Removed Empty Icons.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Removed%20Empty%20Icons.zip",
-      "sha1": "557fec81f8c1ad30241ae4391e35569ad85aa9d1",
-      "size": 29734
+      "path": "resourcepacks/qrafty's-capitalized-font-3.1.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/qrafty%27s-capitalized-font-3.1.zip",
+      "sha1": "55adacc5b5b90c2ff8f4da2650ef57cec29b3d3f",
+      "size": 237577
+    },
+    {
+      "path": "resourcepacks/Recolourful Containers DARK 3.1.4 (1.19.4+).zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Recolourful%20Containers%20DARK%203.1.4%20%281.19.4%2B%29.zip",
+      "sha1": "d505d17306c18980a56452ffefb59928c6680f99",
+      "size": 2119579
     },
     {
       "path": "resourcepacks/Slightly-Improved-Font-1.1.5.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Slightly-Improved-Font-1.1.5.zip",
       "sha1": "da836f13d948d0024a6aa5818beb3b06102bbe40",
       "size": 74599
+    },
+    {
+      "path": "resourcepacks/tool-trims-v3.0.7-for-1.21.1.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/tool-trims-v3.0.7-for-1.21.1.zip",
+      "sha1": "12929bdb91000e52de86429ef79d0bfae50b2853",
+      "size": 1440633
+    },
+    {
+      "path": "resourcepacks/Visual Effects+.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Visual%20Effects%2B.zip",
+      "sha1": "20365db0e8ee5cebf96c579f52a99769859acde9",
+      "size": 22829210
+    },
+    {
+      "path": "resourcepacks/§6Immersive§8_§6Interfaces§8.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78.zip",
+      "sha1": "176aa5cf21d2c6b6a24d11cf0e74aed4c4ca9621",
+      "size": 1197001
     },
     {
       "path": "resourcepacks/§6§lVanilla Experience+§0.zip",
