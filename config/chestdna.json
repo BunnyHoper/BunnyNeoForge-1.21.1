@@ -11,10 +11,17 @@
   "recordBiome": true,
   "recordStructure": true,
   "recordPlayerName": true,
+  "stampOnlyUnstackable": false,
   "ignoreOriginForStacking": true,
+  "clientSideGuess": true,
   "tooltipStyle": "panel",
   "detailsRequireShift": true,
+  "showOnlyWhenShift": false,
+  "minimizeUnlessShift": false,
   "showCoordinates": true,
   "animateFrame": true,
-  "blockedSources": []
+  "itemRarityTint": false,
+  "itemRarityTintAlpha": 72,
+  "blockedSources": [],
+  "customPrefixMappings": {}
 }

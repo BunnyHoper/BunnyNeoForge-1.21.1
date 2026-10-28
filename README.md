@@ -17,7 +17,7 @@ El instalador pregunta el nick, la RAM, los núcleos y los hilos de tu PC (los r
 |---|---|---|---|---|
 | Mods | 67 de 99 | 67 | 99 | 99 |
 | Paquetes de texturas | no | sí | sí | sí |
-| RAM para el juego | 5 GB | 8 GB | 10 GB | 12 GB |
+| RAM para el juego | 6 GB | 6 GB | 6 GB | 6 GB |
 | Hilos de Sodium | hilos ÷ 4 (1–2) | hilos ÷ 3 (1–3) | hilos ÷ 3 (2–5) | hilos ÷ 2 (2–8) |
 | Chunks visibles | 6 | 6 | 9 | 12 |
 | Chunks simulados | 5 | 5 | 6 | 12 |
@@ -39,7 +39,7 @@ El instalador pregunta el nick, la RAM, los núcleos y los hilos de tu PC (los r
 
 Solo los mods necesarios y los de rendimiento, sin paquetes de texturas; 6 chunks y todo al mínimo.
 
-- `perfil.json`: claves de `options.txt` de la tabla, RAM fija de 5 GB (se pone en el perfil «La Madriguera» de SKlauncher y en el de NeoForge del launcher oficial) e hilos de construcción de chunks de Sodium.
+- `perfil.json`: claves de `options.txt` de la tabla, RAM fija de 6 GB (se pone en el perfil «La Madriguera» de SKlauncher y en el de NeoForge del launcher oficial) e hilos de construcción de chunks de Sodium.
 - `config/`: `sodium-options.json`.
 - Mods que **no** instala (estéticos u opcionales, solo de cliente):
 
@@ -80,7 +80,7 @@ Solo los mods necesarios y los de rendimiento, sin paquetes de texturas; 6 chunk
 
 Los mods básicos con todos los paquetes de texturas; 6 chunks y gráficos rápidos.
 
-- `perfil.json`: claves de `options.txt` de la tabla, RAM fija de 8 GB (se pone en el perfil «La Madriguera» de SKlauncher y en el de NeoForge del launcher oficial) e hilos de construcción de chunks de Sodium.
+- `perfil.json`: claves de `options.txt` de la tabla, RAM fija de 6 GB (se pone en el perfil «La Madriguera» de SKlauncher y en el de NeoForge del launcher oficial) e hilos de construcción de chunks de Sodium.
 - `config/`: `sodium-options.json`.
 - Mods que **no** instala (estéticos u opcionales, solo de cliente):
 
@@ -121,14 +121,14 @@ Los mods básicos con todos los paquetes de texturas; 6 chunks y gráficos rápi
 
 Todos los mods y texturas a 9 chunks, con Sodium y los efectos pesados ajustados para ir fluido en PCs normales.
 
-- `perfil.json`: claves de `options.txt` de la tabla, RAM fija de 10 GB (se pone en el perfil «La Madriguera» de SKlauncher y en el de NeoForge del launcher oficial) e hilos de construcción de chunks de Sodium.
+- `perfil.json`: claves de `options.txt` de la tabla, RAM fija de 6 GB (se pone en el perfil «La Madriguera» de SKlauncher y en el de NeoForge del launcher oficial) e hilos de construcción de chunks de Sodium.
 - `config/`: `sodium-options.json`, `sodiumdynamiclights-client.toml`, `subtle_effects/general.toml`, `subtle_effects/environment.toml`, `subtle_effects/blocks.toml`, `visuality/config.toml`, `skinlayers.json`.
 
 ## Carpeta `4` · Épico
 
 Todo como el cliente del dueño (mods, texturas y ajustes) a 12 chunks.
 
-- `perfil.json`: claves de `options.txt` de la tabla, RAM fija de 12 GB (se pone en el perfil «La Madriguera» de SKlauncher y en el de NeoForge del launcher oficial) e hilos de construcción de chunks de Sodium.
+- `perfil.json`: claves de `options.txt` de la tabla, RAM fija de 6 GB (se pone en el perfil «La Madriguera» de SKlauncher y en el de NeoForge del launcher oficial) e hilos de construcción de chunks de Sodium.
 - `config/`: `sodium-options.json`, `sodiumdynamiclights-client.toml`, `subtle_effects/general.toml`, `subtle_effects/environment.toml`, `subtle_effects/blocks.toml`, `visuality/config.toml`, `skinlayers.json`.
 
 Los mods de rendimiento (Sodium, Sodium Extra, Reese's Sodium Options, FerriteCore, ModernFix, ImmediatelyFast, Entity Culling, Dynamic FPS) van en los cuatro perfiles. Teclas para los amigos: correr = Ctrl izquierdo, agacharse = Shift izquierdo, sin «alternar» (el dueño las tiene en los botones del ratón).

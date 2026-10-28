@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "2026.10.28-0735",
+  "version": "2026.10.28-0742",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -634,6 +634,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Icons%20-%20Tooltips%20v.1.3.zip",
       "sha1": "8001a54c056df1e768ad3b30eaba6af4e7fe7b60",
       "size": 1650302
+    },
+    {
+      "path": "resourcepacks/Icons v.1.14.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Icons%20v.1.14.zip",
+      "sha1": "febb55bee872325eaeaa1d361c275d212762c902",
+      "size": 9414964
     },
     {
       "path": "resourcepacks/KehaanPaintingVariantsRP_1.21.1_v1.0.1.zip",

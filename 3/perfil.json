@@ -23,8 +23,8 @@
     "incompatibleResourcePacks": "[]"
   },
   "ram": {
-    "min": 10,
-    "max": 10
+    "min": 6,
+    "max": 6
   },
   "hilos": {
     "div": 3,
