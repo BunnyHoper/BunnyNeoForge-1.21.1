@@ -19,7 +19,7 @@
     "simulationDistance": "12",
     "bobView": "true",
     "menuBackgroundBlurriness": "5",
-    "resourcePacks": "[]",
+    "resourcePacks": "[\"vanilla\",\"generated/fragmentum_layer\",\"mod_resources\",\"moonlight:merged_pack\",\"file/Enhanced Audio r7.zip\",\"file/Enchantment Outlines.zip\",\"file/Fancy Crops v1.3.zip\",\"file/KehaanPaintingVariantsRP_1.21.1_v1.0.1.zip\",\"file/§6§lVanilla Experience+§0.zip\",\"file/Recolourful Containers + Supplementaries 1.0.0 (supplementaries 1.21.1 - 3.6.4).zip\",\"file/Icons - Tooltips v.1.3.zip\",\"file/Slightly-Improved-Font-1.1.5.zip\",\"file/Castellano - mods.zip\",\"mod/punchy:resourcepacks/punchy\",\"file/FA+Player-v1.1.zip\",\"file/Removed Empty Icons.zip\"]",
     "incompatibleResourcePacks": "[]"
   },
   "ram": {
