@@ -1,7 +1,8 @@
 {
   "devMode": false,
-  "showActionBar": false,
+  "showActionBar": true,
   "hideIncompatible": false,
+  "sort": "VANILLA",
   "resourcepacks": {
     "applyOnClose": true,
     "replaceOriginal": true,
