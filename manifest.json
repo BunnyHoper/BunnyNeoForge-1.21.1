@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "2026.10.28-0831",
+  "version": "2026.10.28-0832",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -622,6 +622,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/boss-refreshed-v2.zip",
       "sha1": "d4a8a6cdf5a0c96b7fc212ac3657c1d96c876997",
       "size": 238037
+    },
+    {
+      "path": "resourcepacks/Castellano - mods.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Castellano%20-%20mods.zip",
+      "sha1": "50c876d612316ee61bbdf077607895a52431a4b6",
+      "size": 186912
     },
     {
       "path": "resourcepacks/Default HD 128x Demo 1.8.2.7.zip",
