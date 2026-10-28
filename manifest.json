@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "2026.10.28-0827",
+  "version": "2026.10.28-0831",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -624,12 +624,6 @@
       "size": 238037
     },
     {
-      "path": "resourcepacks/Castellano - mods.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Castellano%20-%20mods.zip",
-      "sha1": "50c876d612316ee61bbdf077607895a52431a4b6",
-      "size": 186912
-    },
-    {
       "path": "resourcepacks/Default HD 128x Demo 1.8.2.7.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Default%20HD%20128x%20Demo%201.8.2.7.zip",
       "sha1": "b8aa449269237904c368619f25fad619d80b41fc",
@@ -646,12 +640,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Enchantment%20Outlines.zip",
       "sha1": "517bd444ea55bd23d2a15856edeebce7a3a225b1",
       "size": 1220387
-    },
-    {
-      "path": "resourcepacks/Enhanced Audio r7.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Enhanced%20Audio%20r7.zip",
-      "sha1": "2cd4bd529641bde061c2d2d4c44de3228fd6d767",
-      "size": 18977120
     },
     {
       "path": "resourcepacks/FA+Player-v1.1.zip",
@@ -680,8 +668,8 @@
     {
       "path": "resourcepacks/Icons v.1.14.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Icons%20v.1.14.zip",
-      "sha1": "febb55bee872325eaeaa1d361c275d212762c902",
-      "size": 9414964
+      "sha1": "a88329d87ad22b36894023c533c58c9d322536e3",
+      "size": 9735571
     },
     {
       "path": "resourcepacks/JustExpressions_v1.2.1.zip",
@@ -690,34 +678,10 @@
       "size": 262755
     },
     {
-      "path": "resourcepacks/Nautilus3D-V2.2.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Nautilus3D-V2.2.zip",
-      "sha1": "33887c97d1571485002fc44ff6f62c59791baf07",
-      "size": 5598247
-    },
-    {
       "path": "resourcepacks/qrafty's-capitalized-font-3.1.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/qrafty%27s-capitalized-font-3.1.zip",
       "sha1": "55adacc5b5b90c2ff8f4da2650ef57cec29b3d3f",
       "size": 237577
-    },
-    {
-      "path": "resourcepacks/Recolourful Containers DARK 3.1.4 (1.19.4+).zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Recolourful%20Containers%20DARK%203.1.4%20%281.19.4%2B%29.zip",
-      "sha1": "d505d17306c18980a56452ffefb59928c6680f99",
-      "size": 2119579
-    },
-    {
-      "path": "resourcepacks/Slightly-Improved-Font-1.1.5.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Slightly-Improved-Font-1.1.5.zip",
-      "sha1": "da836f13d948d0024a6aa5818beb3b06102bbe40",
-      "size": 74599
-    },
-    {
-      "path": "resourcepacks/tool-trims-v3.0.7-for-1.21.1.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/tool-trims-v3.0.7-for-1.21.1.zip",
-      "sha1": "12929bdb91000e52de86429ef79d0bfae50b2853",
-      "size": 1440633
     },
     {
       "path": "resourcepacks/Visual Effects+.zip",
