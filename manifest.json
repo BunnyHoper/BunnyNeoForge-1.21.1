@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "2026.10.28-0832",
+  "version": "2026.10.28-0834",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -674,8 +674,8 @@
     {
       "path": "resourcepacks/Icons v.1.14.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Icons%20v.1.14.zip",
-      "sha1": "a88329d87ad22b36894023c533c58c9d322536e3",
-      "size": 9735571
+      "sha1": "7b7be1105d79f826746b1639a0e53e0960efb660",
+      "size": 9735554
     },
     {
       "path": "resourcepacks/JustExpressions_v1.2.1.zip",
