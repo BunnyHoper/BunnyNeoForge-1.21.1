@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "2026.10.28-0027",
+  "version": "2026.10.28-0735",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -34,6 +34,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/bclib-21.0.28.jar",
       "sha1": "8fc293f1131367384bb5b47927a84eb6f6d31f28",
       "size": 2167518
+    },
+    {
+      "path": "mods/better_looting-1.21.1-neoforge-2.1.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/better_looting-1.21.1-neoforge-2.1.2.jar",
+      "sha1": "75580532d773cb183be6d0aa7ad8f1e5e2f74773",
+      "size": 1784085
     },
     {
       "path": "mods/better_nether_portals-1.21.1-1.0.0.jar",
@@ -90,10 +96,10 @@
       "size": 101632
     },
     {
-      "path": "mods/chestdna-1.03q-mc1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/chestdna-1.03q-mc1.21.1-neoforge.jar",
-      "sha1": "025055184b72dd3a1f852dd7b4be64a874b40fde",
-      "size": 73552
+      "path": "mods/chestdna-neoforge-1.21-1.21.1-1.05.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/chestdna-neoforge-1.21-1.21.1-1.05.jar",
+      "sha1": "9f3f7ac66f30b33aa13da1e646834e7d2af95b52",
+      "size": 96708
     },
     {
       "path": "mods/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar",
@@ -306,12 +312,6 @@
       "size": 726853
     },
     {
-      "path": "mods/kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/kaleidoscopecookery-1.6.0-neoforge%2Bmc1.21.1.jar",
-      "sha1": "9093e830c91a8f2e19eca7dda78713f0bbc21327",
-      "size": 3496661
-    },
-    {
       "path": "mods/kotlinforforge-5.12.0-all.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/kotlinforforge-5.12.0-all.jar",
       "sha1": "a2032c921e93a0ccb0db5d742167e3139c2de01b",
@@ -328,6 +328,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
       "sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b",
       "size": 81808
+    },
+    {
+      "path": "mods/libliblib-universal-1.1.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/libliblib-universal-1.1.2.jar",
+      "sha1": "bb0587cd077230a3082d5e6f4d8530e340d2b4db",
+      "size": 37675
     },
     {
       "path": "mods/lithostitched-1.8.1-neoforge-21.1.jar",
