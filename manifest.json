@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "2026.11.02-1146",
+  "version": "2026.11.02-1311",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "bunnydev.zaroz.fun",
@@ -620,32 +620,38 @@
     {
       "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/-1.21.2%20Fresh%20Moves%20v3.1%20%28With%20Animated%20Eyes%29.zip",
-      "sha1": "7049cc12935ff4be20173c908ad946f530861a4c",
-      "size": 321871
+      "sha1": "7a0508f9f32d2d5b56d600fdbe3452790aaaa778",
+      "size": 324087
+    },
+    {
+      "path": "resourcepacks/BunnyGlifos-pack.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/BunnyGlifos-pack.zip",
+      "sha1": "053bc5841d29558d2855a374501ff4b91ca39df2",
+      "size": 5307
     },
     {
       "path": "resourcepacks/Castellano - mods.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Castellano%20-%20mods.zip",
-      "sha1": "50c876d612316ee61bbdf077607895a52431a4b6",
-      "size": 186912
+      "sha1": "3a3162f3d8f92193028b965436102a7339cfeab8",
+      "size": 186911
     },
     {
       "path": "resourcepacks/creepers-refreshed-fa-v1.0.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/creepers-refreshed-fa-v1.0.zip",
-      "sha1": "a680dbb0eaedfe75459a4d769381172e831d85f4",
-      "size": 1537127
+      "sha1": "50aa278674cbcf5b3f68a016fd1c311f8ddcd150",
+      "size": 1536118
     },
     {
       "path": "resourcepacks/Enchant Display v.1.8.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Enchant%20Display%20v.1.8.zip",
-      "sha1": "40c2a40af99ce50788acadf77631e0b793219960",
-      "size": 181240
+      "sha1": "1324a5d887287cbc8dd3956dc6fe7e831b9cc6b8",
+      "size": 183042
     },
     {
       "path": "resourcepacks/Enchantment Outlines.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Enchantment%20Outlines.zip",
-      "sha1": "517bd444ea55bd23d2a15856edeebce7a3a225b1",
-      "size": 1220387
+      "sha1": "187c47bb1f74872c99459189f960e360ee28dd64",
+      "size": 1185989
     },
     {
       "path": "resourcepacks/FA+Emissive-v1.6.zip",
@@ -668,56 +674,56 @@
     {
       "path": "resourcepacks/Fresh Textures v2.0.1.1.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Fresh%20Textures%20v2.0.1.1.zip",
-      "sha1": "049d6ddf2a36bde4bcd2daa8509ba70da3133e70",
-      "size": 7651476
+      "sha1": "ad010e626d4093eaf988370a1619b479543bc94d",
+      "size": 8183891
     },
     {
       "path": "resourcepacks/Icons - Tooltips v.1.3.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Icons%20-%20Tooltips%20v.1.3.zip",
-      "sha1": "8001a54c056df1e768ad3b30eaba6af4e7fe7b60",
-      "size": 1650302
+      "sha1": "a0c7a56346384a6e679d6693b16596ea303636fd",
+      "size": 1651386
     },
     {
       "path": "resourcepacks/Icons v.1.14.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Icons%20v.1.14.zip",
-      "sha1": "7b7be1105d79f826746b1639a0e53e0960efb660",
-      "size": 9735554
+      "sha1": "775c8fd1f1281d9f9557fc41f85952bdaa51add0",
+      "size": 9735543
     },
     {
       "path": "resourcepacks/Prime's HD Textures [FREE].zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Prime%27s%20HD%20Textures%20%5BFREE%5D.zip",
-      "sha1": "3debd665fd073688e5957ae5138f03e38e49a61a",
-      "size": 22700899
+      "sha1": "0f5f81707392788d5f665d3fb1c3e367035bd78f",
+      "size": 22663694
     },
     {
       "path": "resourcepacks/Stoneborn-1.20.2-1.21.11-V3.3.1.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Stoneborn-1.20.2-1.21.11-V3.3.1.zip",
-      "sha1": "31c3ad2451cf93c0d1155ebf3a8b24d87c521200",
-      "size": 5456162
+      "sha1": "508b671e57d7c26dcef904abca10cebef063a7c5",
+      "size": 5481214
     },
     {
       "path": "resourcepacks/Visual Effects+.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Visual%20Effects%2B.zip",
-      "sha1": "20365db0e8ee5cebf96c579f52a99769859acde9",
-      "size": 22829210
+      "sha1": "81b848f95dac0edac49f0df8c291f682398fd7c4",
+      "size": 22835578
     },
     {
       "path": "resourcepacks/waystones_1.21.1.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/waystones_1.21.1.zip",
-      "sha1": "1aa5e532d48308d361e97771070f776179485d21",
-      "size": 228331
+      "sha1": "e0d9fd9ad45882610c6761038a81596687817ea4",
+      "size": 230174
     },
     {
       "path": "resourcepacks/§6§lVanilla Experience+§0.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/%C2%A76%C2%A7lVanilla%20Experience%2B%C2%A70.zip",
-      "sha1": "20a6cbff56dcda57290d769212d458df7bdad728",
-      "size": 2576926
+      "sha1": "b505efdccfec7a71abb54fa12ee6a97aea031247",
+      "size": 2723904
     },
     {
       "path": "resourcepacks/§9Bray's Zombie Overhaul FA v1.4.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/%C2%A79Bray%27s%20Zombie%20Overhaul%20FA%20v1.4.zip",
-      "sha1": "8934e411dee240cbba0b84a877ab93b5965782a7",
-      "size": 256991
+      "sha1": "ea517737f9ead1cd0ff57ad30d8d18787c0ce2e0",
+      "size": 260310
     }
   ]
 }

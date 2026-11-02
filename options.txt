@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","generated/fragmentum_layer","mod_resources","file/waystones_1.21.1.zip","file/Prime's HD Textures [FREE].zip","file/Stoneborn-1.20.2-1.21.11-V3.3.1.zip","file/Enchant Display v.1.8.zip","file/Enchantment Outlines.zip","file/Visual Effects+.zip","file/§6§lVanilla Experience+§0.zip","file/§9Bray's Zombie Overhaul FA v1.4.zip","file/Icons v.1.14.zip","file/Icons - Tooltips v.1.3.zip","file/creepers-refreshed-fa-v1.0.zip","file/Fresh Textures v2.0.1.1.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/FA+Emissive-v1.6.zip","file/FA+Objects-v2.1.2.zip","file/FA+Player-v1.1.zip","moonlight:merged_pack","file/Castellano - mods.zip"]
+resourcePacks:["vanilla","generated/fragmentum_layer","mod_resources","file/waystones_1.21.1.zip","file/Prime's HD Textures [FREE].zip","file/Stoneborn-1.20.2-1.21.11-V3.3.1.zip","file/Enchant Display v.1.8.zip","file/Enchantment Outlines.zip","file/Visual Effects+.zip","file/§6§lVanilla Experience+§0.zip","file/§9Bray's Zombie Overhaul FA v1.4.zip","file/Icons v.1.14.zip","file/Icons - Tooltips v.1.3.zip","file/creepers-refreshed-fa-v1.0.zip","file/Fresh Textures v2.0.1.1.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/FA+Emissive-v1.6.zip","file/FA+Objects-v2.1.2.zip","file/FA+Player-v1.1.zip","moonlight:merged_pack","file/BunnyGlifos-pack.zip","file/Castellano - mods.zip"]
 incompatibleResourcePacks:["file/Prime's HD Textures [FREE].zip","file/Enchant Display v.1.8.zip"]
 lang:es_es
 chatVisibility:0

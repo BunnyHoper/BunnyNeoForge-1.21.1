@@ -35,6 +35,10 @@
     "mods/zoomify-neoforge-1.5.0.jar"
   ],
   "sin-paquetes": true,
+  "paquetes-siempre": [
+    "resourcepacks/BunnyGlifos-pack.zip",
+    "resourcepacks/Castellano - mods.zip"
+  ],
   "options": {
     "renderDistance": "6",
     "simulationDistance": "5",
@@ -51,7 +55,7 @@
     "prioritizeChunkUpdates": "0",
     "menuBackgroundBlurriness": "0",
     "bobView": "false",
-    "resourcePacks": "[\"vanilla\",\"generated/fragmentum_layer\",\"mod_resources\",\"moonlight:merged_pack\"]",
+    "resourcePacks": "[\"vanilla\",\"generated/fragmentum_layer\",\"mod_resources\",\"moonlight:merged_pack\",\"file/BunnyGlifos-pack.zip\",\"file/Castellano - mods.zip\"]",
     "incompatibleResourcePacks": "[]"
   },
   "ram": {
