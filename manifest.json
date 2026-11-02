@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "11",
+  "version": "12",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -40,6 +40,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/bclib-21.0.28.jar",
       "sha1": "8fc293f1131367384bb5b47927a84eb6f6d31f28",
       "size": 2167518
+    },
+    {
+      "path": "mods/better-compatability-checker-neoforge-21.1.8.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/better-compatability-checker-neoforge-21.1.8.jar",
+      "sha1": "186ba3fbacacb0ce93b9c5a5ddca28799c1577cb",
+      "size": 25085
     },
     {
       "path": "mods/better_nether_portals-1.21.1-1.0.0.jar",
