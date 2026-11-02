@@ -1,0 +1,16 @@
+{
+  "configVersion": 4,
+  "enabled": true,
+  "hoverDelayTicks": 20,
+  "normalChests": false,
+  "trappedChests": false,
+  "barrels": true,
+  "shulkerBoxes": true,
+  "furnaces": true,
+  "hoppers": true,
+  "dispensers": true,
+  "droppers": true,
+  "crafters": true,
+  "blastFurnaces": true,
+  "smokers": true
+}

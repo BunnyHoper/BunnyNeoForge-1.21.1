@@ -15,7 +15,7 @@ El instalador pregunta el nick, la RAM, los núcleos y los hilos de tu PC (los r
 
 | | 1 Súper Patata | 2 Patata | 3 Alto | 4 Épico |
 |---|---|---|---|---|
-| Mods | 70 de 102 | 70 | 102 | 102 |
+| Mods | 71 de 102 | 71 | 102 | 102 |
 | Paquetes de texturas | no | sí | sí | sí |
 | RAM para el juego | 6 GB | 6 GB | 6 GB | 6 GB |
 | Hilos de Sodium | hilos ÷ 4 (1–2) | hilos ÷ 3 (1–3) | hilos ÷ 3 (2–5) | hilos ÷ 2 (2–8) |
@@ -52,7 +52,7 @@ Solo los mods necesarios y los de rendimiento, sin paquetes de texturas; 6 chunk
   - `Resourcify (1.21.1-neoforge)-1.8.7.jar`
   - `SubtleEffects-neoforge-1.21.1-1.15.1.jar`
   - `block-dithering-1.0.6+1.21.1+neoforge.jar`
-  - `diorama-0.5.0+neoforge-1.21.1.jar`
+  - `diorama-0.6.1-neoforge-1.21.1.jar`
   - `emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_core_neoforge_1.21.1_2.3.2.jar`
@@ -64,7 +64,6 @@ Solo los mods necesarios y los de rendimiento, sin paquetes de texturas; 6 chunk
   - `loot_journal-neoforge-1.21.1-6.2.2.jar`
   - `mru-1.0.41+1.21.1-neoforge.jar`
   - `optifinecapes-1.0.1.jar`
-  - `punchy-2.8g-neoforge-1.21.1.jar`
   - `rrls-5.0.11+mc1.21.1-forge.jar`
   - `skinlayers3d-neoforge-1.11.4-mc1.21.1.jar`
   - `sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar`
@@ -93,7 +92,7 @@ Los mods básicos con todos los paquetes de texturas; 6 chunks y gráficos rápi
   - `Resourcify (1.21.1-neoforge)-1.8.7.jar`
   - `SubtleEffects-neoforge-1.21.1-1.15.1.jar`
   - `block-dithering-1.0.6+1.21.1+neoforge.jar`
-  - `diorama-0.5.0+neoforge-1.21.1.jar`
+  - `diorama-0.6.1-neoforge-1.21.1.jar`
   - `emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_core_neoforge_1.21.1_2.3.2.jar`
@@ -105,7 +104,6 @@ Los mods básicos con todos los paquetes de texturas; 6 chunks y gráficos rápi
   - `loot_journal-neoforge-1.21.1-6.2.2.jar`
   - `mru-1.0.41+1.21.1-neoforge.jar`
   - `optifinecapes-1.0.1.jar`
-  - `punchy-2.8g-neoforge-1.21.1.jar`
   - `rrls-5.0.11+mc1.21.1-forge.jar`
   - `skinlayers3d-neoforge-1.11.4-mc1.21.1.jar`
   - `sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar`

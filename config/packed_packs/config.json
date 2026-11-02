@@ -2,7 +2,7 @@
   "devMode": false,
   "showActionBar": true,
   "hideIncompatible": false,
-  "sort": "VANILLA",
+  "sort": "A_Z",
   "resourcepacks": {
     "applyOnClose": true,
     "replaceOriginal": true,
