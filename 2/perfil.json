@@ -17,6 +17,7 @@
     "mods/visuality-forge-3.0.0.jar"
   ],
   "sin-paquetes": false,
+  "sin-shaders": true,
   "paquetes-siempre": [
     "resourcepacks/BunnyGlifos-pack.zip",
     "resourcepacks/Castellano - mods.zip"

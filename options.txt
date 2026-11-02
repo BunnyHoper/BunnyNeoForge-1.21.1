@@ -22,8 +22,8 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"false"
-renderDistance:12
-simulationDistance:12
+renderDistance:8
+simulationDistance:9
 screenEffectScale:1.0
 soundDevice:"OpenAL Soft on Audífono de los auriculares con micrófono (CORSAIR VOID ELITE Wireless Gaming Headset)"
 autoJump:false
@@ -133,7 +133,7 @@ key_key.better_looting.toggle_filter:key.keyboard.unknown
 key_key.better_looting.pickup:key.keyboard.f
 key_key.better_looting.pickup_alt:key.keyboard.unknown
 key_key.better_looting.pickup_all_modifier:key.keyboard.unknown
-key_key.better_looting.open_config:key.keyboard.unknown
+key_key.better_looting.open_config:key.keyboard.down
 key_key.better_looting.toggle_auto:key.keyboard.unknown
 key_key.better_looting.show_overlay:key.keyboard.unknown
 key_key.better_looting.scroll_up:key.keyboard.unknown
@@ -173,7 +173,7 @@ key_key.open_muffler_gui:key.keyboard.unknown
 key_key.pickup.item:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.27134468129139067
-soundCategory_music:0.12963523327464788
+soundCategory_music:0.05555127640845054
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

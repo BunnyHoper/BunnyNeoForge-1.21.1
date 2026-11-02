@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "7",
+  "version": "8",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -34,12 +34,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/bclib-21.0.28.jar",
       "sha1": "8fc293f1131367384bb5b47927a84eb6f6d31f28",
       "size": 2167518
-    },
-    {
-      "path": "mods/better_looting-1.21.1-neoforge-2.1.2.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/better_looting-1.21.1-neoforge-2.1.2.jar",
-      "sha1": "75580532d773cb183be6d0aa7ad8f1e5e2f74773",
-      "size": 1784085
     },
     {
       "path": "mods/better_nether_portals-1.21.1-1.0.0.jar",
@@ -244,12 +238,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar",
       "sha1": "57bae369ed44bbbedfb096dd5944940d046e5034",
       "size": 21617
-    },
-    {
-      "path": "mods/fallingtrees-neoforge-1.21.1-0.14.0.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/fallingtrees-neoforge-1.21.1-0.14.0.jar",
-      "sha1": "070260f182d10bdc23de5e8e9297bec0231e2bec",
-      "size": 4086627
     },
     {
       "path": "mods/FastSuite-1.21.1-6.0.7.jar",

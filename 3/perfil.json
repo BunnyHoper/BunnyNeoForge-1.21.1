@@ -11,6 +11,7 @@
     "mods/touch_n_motion_neoforge_1.21.1_1.0.4.jar"
   ],
   "sin-paquetes": false,
+  "sin-shaders": false,
   "paquetes-siempre": [
     "resourcepacks/BunnyGlifos-pack.zip",
     "resourcepacks/Castellano - mods.zip"
