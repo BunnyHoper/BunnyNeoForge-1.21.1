@@ -1,5 +1,7 @@
 {
-	"favorites": [],
+	"favorites": [
+		"{data:{components:{\"chestdna:origin\":{biome:\"minecraft:badlands\",detail:\"nova_structures:pots/pot_bunker\",dimension:\"minecraft:overworld\",pos:[I;-631,66,386],source:\"chestdna:mineshaft\",structure:\"minecraft:mineshaft\",time:1139713L}},count:1,id:\"minecraft:copper_ingot\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+	],
 	"hiddenFavorites": [],
 	"displays": []
 }

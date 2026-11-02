@@ -2,7 +2,6 @@
   "id": 1,
   "nombre": "Súper Patata",
   "quitar": [
-    "mods/Chest-Preview-NeoForge-1.21.1-1.0.0.jar",
     "mods/DiscordPresence-1.6.0+1.21.1-neoforge.jar",
     "mods/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar",
     "mods/InventoryParticles-3.2.0+1.21.1+neoforge.jar",

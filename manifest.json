@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "8",
+  "version": "9",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -82,12 +82,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/chat_heads-0.15.7-neoforge-1.21.jar",
       "sha1": "536b2af675229d2a33eb4cf5afbe7148a62d5f3f",
       "size": 91948
-    },
-    {
-      "path": "mods/Chest-Preview-NeoForge-1.21.1-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Chest-Preview-NeoForge-1.21.1-1.0.0.jar",
-      "sha1": "048cc84b9701913f944d2e9fed4a247abd58972b",
-      "size": 101632
     },
     {
       "path": "mods/chestdna-neoforge-1.21-1.21.1-1.05.jar",
