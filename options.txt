@@ -165,13 +165,15 @@ key_key.diorama.zoom_out:key.keyboard.minus
 key_key.diorama.settings:key.keyboard.unknown
 key_key.diorama.toggle_minimap:key.keyboard.unknown
 key_key.diorama.enlarge_minimap:key.keyboard.unknown
+key_key.diorama.toggle_dimension:key.keyboard.unknown
 key_discordrpc.key.open_config:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.f6
+key_key.open_muffler_gui:key.keyboard.unknown
 key_key.pickup.item:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.27134468129139067
-soundCategory_music:1.0
+soundCategory_music:0.12963523327464788
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

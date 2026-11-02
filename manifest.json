@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "6",
+  "version": "7",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -136,12 +136,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/corpse-neoforge-1.21.1-1.1.22.jar",
       "sha1": "0d73e082e4d5c0f185aa8030bcefb68c259d1107",
       "size": 256780
-    },
-    {
-      "path": "mods/cortescombat-1.5.1-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/cortescombat-1.5.1-1.21.1.jar",
-      "sha1": "f2e85b5ff562ad5b833629b2804823e7f1b50b2c",
-      "size": 4159035
     },
     {
       "path": "mods/CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar",

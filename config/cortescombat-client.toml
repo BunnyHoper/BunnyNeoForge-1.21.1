@@ -1,0 +1,82 @@
+#Field of view the client starts at, on the first launch that still has
+#the vanilla 70. If you set the FOV later in the video settings, this mod
+#never touches it again.
+# Default: 90
+# Range: 30 ~ 110
+startingFov = 90
+#Whether the camera may be rocked: a kill, the arcabuz firing, an arrow
+#passing close, the nether star's overload and the pala's antimatter orb.
+#Turn it off for motion sickness; the sound and the particles are unaffected,
+#and so is the crosshair's own feedback.
+cameraShake = true
+#Whether the weapon's viewmodel animates (wind-up, strike, guard, charge).
+#Turn it off for motion sickness; the item renders in its vanilla pose and
+#the charge FOV effect still works.
+viewModelMotion = true
+#The red flash on the screen when you take damage. The low-health vignette
+#is unaffected.
+damageFlash = true
+#Enables the mod's debug logging. Off by default.
+debug = false
+
+[fx]
+	#How strong the camera shakes are, as a multiplier on every impulse:
+	#0.0 is off, 1.0 is the tuned default, 2.0 is double. Applies to every
+	#shake source at once -- the kill, the arcabuz, the arrow, the reactor --
+	#so one number answers 'todo sacude mucho o poco' without eight dials.
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	shakeIntensity = 1.0
+
+[hud]
+	#Replace the vanilla crosshair with the combat one (grows on hit, shows
+	#aim state). With this off the vanilla crosshair is drawn instead.
+	combatCrosshair = true
+	#The thin bracket line around the crosshair that shows the attack
+	cooldownBrackets = true
+	#The small orbs above the crosshair that show guard hits remaining
+	guardOrbs = true
+	#The charge bar under the crosshair: the hit charge and the arcane one.
+	#Off leaves the crosshair and the brackets, and nothing else tells you
+	#how far the charge got.
+	chargeBar = true
+	#How big the crosshair is drawn, as a multiplier on the art's own size.
+	#0.5 is half, 1.0 is the drawn size, 3.0 is triple. The hit and aim growth
+	#still multiply on top of this, so the reaction never disappears.
+	# Default: 1.0
+	# Range: 0.5 ~ 3.0
+	crosshairSize = 1.0
+	#Crosshair colour while nothing is happening, as #RRGGBB (or RRGGBB).
+	##FFFFFF leaves the art's own colour; any value multiplies it, so a dark
+	#colour on light art reads as a dim tint. Invalid text falls back to white.
+	crosshairColor = "#FFFFFF"
+	#Crosshair colour while a target is in reach, as #RRGGBB.
+	#The aim state also changes the sprite; this is the extra half for
+	#players who want the state to read at a glance.
+	crosshairAimColor = "#FFFFFF"
+	#Cooldown bracket colour while nothing is flashing, as #RRGGBB.
+	#A landed hit still overrides it with the hit colour: the flash is feedback,
+	#this is the resting state.
+	bracketColor = "#FFFFFF"
+	#Hit-charge bar colour, as #RRGGBB. #FFFFFF keeps the art as drawn.
+	chargeBarColor = "#FFFFFF"
+	#Arcane (special) bar colour, as #RRGGBB. The default is the violet the
+	#bar has always been.
+	arcaneBarColor = "#C06BFF"
+	#Whether a landed hit may shake the crosshair a couple of pixels.
+	#Off removes the jitter and keeps the growth and the colour flash.
+	#The camera has its own switch: cameraShake.
+	crosshairShake = true
+	#Hide the bars (brackets, charge bar and guard orbs) after a stretch of
+	#not hitting anything and not having a target. Off keeps them on screen
+	#always; the delay is hideIdleTicks.
+	hideWhenIdle = true
+	#How long the bars stay up without activity, in ticks (20 = one second).
+	#The default is 160, which is the eight seconds the design asked for.
+	# Default: 160
+	# Range: 20 ~ 2400
+	hideIdleTicks = 160
+	#Whether the idle fade takes the crosshair too. Off by default: the
+	#crosshair is what the player aims with, and a pointer that vanishes is
+	#not a cleaner HUD, it is a missing pointer.
+	hideCrosshairWhenIdle = false
