@@ -88,7 +88,7 @@
 
 [State]
 	#状态持久化数据，请勿更改此处
-	lastFilterMode = "ALL"
+	lastFilterMode = "RARE_ONLY"
 	lastAutoMode = false
 	#机械动力兼容默认设置已应用，请勿更改；应用一次后保留用户手动选择
 	createMergeDefaultApplied = false

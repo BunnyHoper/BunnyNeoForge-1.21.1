@@ -15,7 +15,7 @@ El instalador pregunta el nick, la RAM, los núcleos y los hilos de tu PC (los r
 
 | | 1 Súper Patata | 2 Patata | 3 Alto | 4 Épico |
 |---|---|---|---|---|
-| Mods | 68 de 102 | 89 | 95 | 102 |
+| Mods | 71 de 105 | 92 | 98 | 105 |
 | Paquetes de texturas | no | sí | sí | sí |
 | RAM para el juego | 6 GB | 7 GB | 8 GB | 8 GB |
 | Hilos de Sodium | hilos ÷ 4 (1–2) | hilos ÷ 3 (1–3) | hilos ÷ 3 (2–5) | hilos ÷ 2 (2–8) |
@@ -53,7 +53,7 @@ Solo los mods necesarios y los de rendimiento, sin paquetes de texturas; 6 chunk
   - `Resourcify (1.21.1-neoforge)-1.8.7.jar`
   - `SubtleEffects-neoforge-1.21.1-1.15.1.jar`
   - `block-dithering-1.0.6+1.21.1+neoforge.jar`
-  - `diorama-0.6.1-neoforge-1.21.1.jar`
+  - `diorama-0.7.0-neoforge-1.21.1.jar`
   - `emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_core_neoforge_1.21.1_2.3.2.jar`
@@ -88,7 +88,7 @@ Los mods básicos con todos los paquetes de texturas; 6 chunks y gráficos rápi
 
   - `SubtleEffects-neoforge-1.21.1-1.15.1.jar`
   - `block-dithering-1.0.6+1.21.1+neoforge.jar`
-  - `diorama-0.6.1-neoforge-1.21.1.jar`
+  - `diorama-0.7.0-neoforge-1.21.1.jar`
   - `emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_core_neoforge_1.21.1_2.3.2.jar`
