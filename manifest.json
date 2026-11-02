@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "4",
+  "version": "5",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -366,10 +366,10 @@
       "size": 37834
     },
     {
-      "path": "mods/lithostitched-1.8.1-neoforge-21.1.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/lithostitched-1.8.1-neoforge-21.1.jar",
-      "sha1": "88cdded5b617e19b4d2676948b5550699de23578",
-      "size": 1023751
+      "path": "mods/lithostitched-1.8.0-neoforge-21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/lithostitched-1.8.0-neoforge-21.1.jar",
+      "sha1": "fe7eb612a0fa0c41ce94d914162d298755bb25a3",
+      "size": 979783
     },
     {
       "path": "mods/loot_journal-neoforge-1.21.1-6.2.2.jar",
