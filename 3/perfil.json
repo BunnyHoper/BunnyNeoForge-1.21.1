@@ -1,7 +1,15 @@
 {
   "id": 3,
   "nombre": "Alto",
-  "quitar": [],
+  "quitar": [
+    "mods/emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar",
+    "mods/emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar",
+    "mods/emf_compat_core_neoforge_1.21.1_2.3.2.jar",
+    "mods/emf_compat_gliders_1.21.1_2.0.0.jar",
+    "mods/entity_model_features-3.3.12-1.21-neoforge.jar",
+    "mods/entity_texture_features-7.2.6-1.21-neoforge.jar",
+    "mods/touch_n_motion_neoforge_1.21.1_1.0.4.jar"
+  ],
   "sin-paquetes": false,
   "paquetes-siempre": [
     "resourcepacks/BunnyGlifos-pack.zip",
@@ -27,8 +35,8 @@
     "incompatibleResourcePacks": "[]"
   },
   "ram": {
-    "min": 6,
-    "max": 6
+    "min": 8,
+    "max": 8
   },
   "hilos": {
     "div": 3,

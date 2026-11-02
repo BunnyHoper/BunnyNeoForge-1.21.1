@@ -2,13 +2,6 @@
   "id": 2,
   "nombre": "Patata",
   "quitar": [
-    "mods/Chest-Preview-NeoForge-1.21.1-1.0.0.jar",
-    "mods/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar",
-    "mods/InventoryParticles-3.2.0+1.21.1+neoforge.jar",
-    "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
-    "mods/MossyLib-1.6.0+1.21.1+neoforge.jar",
-    "mods/Prism-1.21.1-neoforge-1.0.11.jar",
-    "mods/Resourcify (1.21.1-neoforge)-1.8.7.jar",
     "mods/SubtleEffects-neoforge-1.21.1-1.15.1.jar",
     "mods/block-dithering-1.0.6+1.21.1+neoforge.jar",
     "mods/diorama-0.6.1-neoforge-1.21.1.jar",
@@ -18,21 +11,10 @@
     "mods/emf_compat_gliders_1.21.1_2.0.0.jar",
     "mods/entity_model_features-3.3.12-1.21-neoforge.jar",
     "mods/entity_texture_features-7.2.6-1.21-neoforge.jar",
-    "mods/fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
-    "mods/kotlinforforge-5.12.0-all.jar",
-    "mods/loot_journal-neoforge-1.21.1-6.2.2.jar",
-    "mods/mru-1.0.41+1.21.1-neoforge.jar",
-    "mods/optifinecapes-1.0.1.jar",
-    "mods/rrls-5.0.11+mc1.21.1-forge.jar",
-    "mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
+    "mods/neoculus-mc1.21.1-1.8.7.jar",
     "mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
-    "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
-    "mods/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar",
     "mods/touch_n_motion_neoforge_1.21.1_1.0.4.jar",
-    "mods/visuality-forge-3.0.0.jar",
-    "mods/waveycapes-neoforge-1.11.3-mc1.21.1.jar",
-    "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
-    "mods/zoomify-neoforge-1.5.0.jar"
+    "mods/visuality-forge-3.0.0.jar"
   ],
   "sin-paquetes": false,
   "paquetes-siempre": [
@@ -59,8 +41,8 @@
     "incompatibleResourcePacks": "[]"
   },
   "ram": {
-    "min": 6,
-    "max": 6
+    "min": 7,
+    "max": 7
   },
   "hilos": {
     "div": 3,
