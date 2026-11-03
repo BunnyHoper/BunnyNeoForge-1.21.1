@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "18",
+  "version": "19",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -650,8 +650,8 @@
     {
       "path": "resourcepacks/BunnyGlifos-pack.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/BunnyGlifos-pack.zip",
-      "sha1": "7a6dfcdf16e0b6dd24f3e497a5ce85247d3f3288",
-      "size": 39975
+      "sha1": "3a7623dfb3b5cc7b480b32a57d26302a7de5e125",
+      "size": 32691
     },
     {
       "path": "resourcepacks/Castellano - mods.zip",
