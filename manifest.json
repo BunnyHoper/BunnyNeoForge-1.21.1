@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "24",
+  "version": "25",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -112,6 +112,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/cleanswing-1.10-1.21.jar",
       "sha1": "1df3892b57ad00a75c5bb4a6f6b2749aa126e548",
       "size": 9477
+    },
+    {
+      "path": "mods/clientsort-neoforge-3.89.2+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/clientsort-neoforge-3.89.2%2B1.21.1.jar",
+      "sha1": "05c7d37ad5f8aa5dcbe81623842b6f87f5ce1ae8",
+      "size": 353091
     },
     {
       "path": "mods/cloth-config-15.0.140-neoforge.jar",
@@ -322,12 +328,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/InventoryInteractions-2.2.0%2B1.21.1%2Bneoforge.jar",
       "sha1": "2c610cd155f7a1c8efa8855c8e145440ad505399",
       "size": 425488
-    },
-    {
-      "path": "mods/inventorymanagement-1.21.1-NeoForge-1.0.7.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/inventorymanagement-1.21.1-NeoForge-1.0.7.jar",
-      "sha1": "31cebdbe8c11941804e56e12e5b337e78b1c856b",
-      "size": 240595
     },
     {
       "path": "mods/InventoryParticles-3.2.0+1.21.1+neoforge.jar",
