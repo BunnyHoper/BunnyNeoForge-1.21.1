@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "23",
+  "version": "24",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -724,6 +724,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Stoneborn-1.20.2-1.21.11-V3.3.1.zip",
       "sha1": "508b671e57d7c26dcef904abca10cebef063a7c5",
       "size": 5481214
+    },
+    {
+      "path": "resourcepacks/Stoneborn-Mochilas.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Stoneborn-Mochilas.zip",
+      "sha1": "39f096467cf41e85288955a5862a6dabfc13a0df",
+      "size": 3212
     },
     {
       "path": "resourcepacks/Visual Effects+.zip",
