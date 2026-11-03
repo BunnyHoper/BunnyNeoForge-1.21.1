@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "20",
+  "version": "21",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -100,12 +100,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/chestdna-neoforge-1.21-1.21.1-1.05.jar",
       "sha1": "9f3f7ac66f30b33aa13da1e646834e7d2af95b52",
       "size": 96708
-    },
-    {
-      "path": "mods/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar",
-      "sha1": "bb72574f0f1fccb9856d3964d3d6011937439c1a",
-      "size": 1009597
     },
     {
       "path": "mods/cleanswing-1.10-1.21.jar",
