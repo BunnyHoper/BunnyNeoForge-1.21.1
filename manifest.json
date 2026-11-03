@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "14",
+  "version": "15",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -82,6 +82,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/block-dithering-1.0.6%2B1.21.1%2Bneoforge.jar",
       "sha1": "b2d074f1a8efb832176081c95b5e1e1b2c7e0f7b",
       "size": 96155
+    },
+    {
+      "path": "mods/bunnymando-neoforge-1.0.0+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/bunnymando-neoforge-1.0.0%2B1.21.1.jar",
+      "sha1": "3ba8a91305720db952e468a55461e5c36569946e",
+      "size": 11417
     },
     {
       "path": "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
