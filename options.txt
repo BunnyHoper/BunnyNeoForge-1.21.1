@@ -131,6 +131,8 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.backpacked.open_backpack:key.keyboard.b
+key_key.backpacked.open_management:key.keyboard.unknown
 key_inventorymanagement.keybind.position_edit.player:key.keyboard.unknown
 key_inventorymanagement.keybind.position_edit.container:key.keyboard.unknown
 key_inventorymanagement.keybind.sort.player:key.keyboard.unknown
@@ -147,7 +149,7 @@ key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
 key_key.diorama.open_map:key.keyboard.m
-key_key.diorama.new_waypoint:key.keyboard.b
+key_key.diorama.new_waypoint:key.keyboard.n
 key_key.diorama.waypoints:key.keyboard.u
 key_key.diorama.zoom_in:key.keyboard.equal
 key_key.diorama.zoom_out:key.keyboard.minus
