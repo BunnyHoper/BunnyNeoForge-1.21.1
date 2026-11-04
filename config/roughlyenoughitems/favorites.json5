@@ -2,7 +2,9 @@
 	"favorites": [
 		"{data:{components:{\"chestdna:origin\":{biome:\"minecraft:badlands\",detail:\"nova_structures:pots/pot_bunker\",dimension:\"minecraft:overworld\",pos:[I;-631,66,386],source:\"chestdna:mineshaft\",structure:\"minecraft:mineshaft\",time:1139713L}},count:1,id:\"minecraft:copper_ingot\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{components:{\"chestdna:origin\":{biome:\"terralith:forested_highlands\",detail:\"minecraft:chests/village/village_toolsmith\",dimension:\"minecraft:overworld\",pos:[I;913,74,1113],source:\"chestdna:village\",structure:\"minecraft:village_taiga\",time:1193837L}},count:1,id:\"minecraft:stick\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{components:{\"chestdna:origin\":{biome:\"terralith:red_oasis\",detail:\"minecraft:blocks/sugar_cane\",dimension:\"minecraft:overworld\",pos:[I;-637,67,508],source:\"chestdna:mined\",time:1142461L}},count:1,id:\"minecraft:sugar_cane\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{components:{\"chestdna:origin\":{biome:\"terralith:red_oasis\",detail:\"minecraft:blocks/sugar_cane\",dimension:\"minecraft:overworld\",pos:[I;-637,67,508],source:\"chestdna:mined\",time:1142461L}},count:1,id:\"minecraft:sugar_cane\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{components:{\"chestdna:origin\":{biome:\"terralith:shield\",detail:\"minecraft:blocks/iron_ore\",dimension:\"minecraft:overworld\",pos:[I;1872,63,2290],source:\"chestdna:mined\",time:4054585L}},count:1,id:\"minecraft:raw_iron\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{components:{\"chestdna:origin\":{biome:\"minecraft:river\",detail:\"minecraft:blocks/chipped_anvil\",dimension:\"minecraft:overworld\",pos:[I;257,63,563],source:\"chestdna:mined\",time:2916953L}},count:1,id:\"minecraft:chipped_anvil\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []

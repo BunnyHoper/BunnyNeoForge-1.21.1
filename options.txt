@@ -130,7 +130,7 @@ key_key.clientsort.op.stackFill:key.keyboard.unknown
 key_key.clientsort.op.matchTransfer:key.keyboard.unknown
 key_key.clientsort.op.transfer:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.unknown
-key_supplementaries.keybind.quiver:key.keyboard.v
+key_supplementaries.keybind.quiver:key.keyboard.n
 key_key.corpse.death_history:key.keyboard.i
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.unknown
@@ -145,7 +145,7 @@ key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
 key_key.diorama.open_map:key.keyboard.m
-key_key.diorama.new_waypoint:key.keyboard.b
+key_key.diorama.new_waypoint:key.keyboard.unknown
 key_key.diorama.waypoints:key.keyboard.u
 key_key.diorama.zoom_in:key.keyboard.equal
 key_key.diorama.zoom_out:key.keyboard.minus
@@ -155,7 +155,7 @@ key_key.diorama.enlarge_minimap:key.keyboard.unknown
 key_key.diorama.toggle_dimension:key.keyboard.unknown
 key_discordrpc.key.open_config:key.keyboard.f6
 key_zoomify.key.zoom:key.keyboard.c
-key_zoomify.key.zoom.secondary:key.keyboard.f6
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_key.pickup.item:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.27134468129139067
