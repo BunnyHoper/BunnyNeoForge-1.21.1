@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "27",
+  "version": "28",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -138,10 +138,10 @@
       "size": 422658
     },
     {
-      "path": "mods/continuity-3.0.0+1.21.neoforge.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/continuity-3.0.0%2B1.21.neoforge.jar",
-      "sha1": "0aecd2d043ac25299254623fafdd9129ab2ba9c2",
-      "size": 1014626
+      "path": "mods/ContinuityNeoForge-3.0.9+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/ContinuityNeoForge-3.0.9%2B1.21.1.jar",
+      "sha1": "16e1d3b5aa7552639d1a56aedd041d71d1af25f7",
+      "size": 1031104
     },
     {
       "path": "mods/corpse-neoforge-1.21.1-1.1.22.jar",
