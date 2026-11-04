@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "35",
+  "version": "36",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -562,12 +562,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/teleport_animation-1.21.1-neoforge-21.1.235-1.4.2.jar",
       "sha1": "cbc995afdab022a7dd68b62d239d6ada1638502d",
       "size": 2920510
-    },
-    {
-      "path": "mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
-      "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
-      "size": 2814865
     },
     {
       "path": "mods/touch_n_motion_neoforge_1.21.1_1.0.4.jar",
