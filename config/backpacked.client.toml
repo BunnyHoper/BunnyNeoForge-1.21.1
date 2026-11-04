@@ -12,7 +12,7 @@ hideConfigButton = false
 # DISABLED    - Unlockable slots will always be disabled. (faded out and not interactable).
 # 
 # Valid values: ENABLED, PURCHASABLE, DISABLED
-unlockableSlotMode = "ENABLED"
+unlockableSlotMode = "PURCHASABLE"
 # Very secret feature, do not enable if you don't want your screen filled with particle effects
 # Valid values: true, false
 glitterBomb = false
