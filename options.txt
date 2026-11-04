@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","generated/fragmentum_layer","mod_resources","file/waystones_1.21.1.zip","file/Prime's HD Textures [FREE].zip","file/Stoneborn-1.20.2-1.21.11-V3.3.1.zip","file/Enchant Display v.1.8.zip","file/Enchantment Outlines.zip","file/Visual Effects+.zip","file/§6§lVanilla Experience+§0.zip","file/§9Bray's Zombie Overhaul FA v1.4.zip","file/Icons v.1.14.zip","file/Icons - Tooltips v.1.3.zip","file/creepers-refreshed-fa-v1.0.zip","file/Fresh Textures v2.0.1.1.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/FA+Emissive-v1.6.zip","file/FA+Objects-v2.1.2.zip","file/FA+Player-v1.1.zip","moonlight:merged_pack","file/BunnyGlifos-pack.zip","file/Castellano - mods.zip","file/Stoneborn-Mochilas.zip"]
+resourcePacks:["vanilla","generated/fragmentum_layer","mod_resources","file/waystones_1.21.1.zip","file/Prime's HD Textures [FREE].zip","file/Stoneborn-1.20.2-1.21.11-V3.3.1.zip","file/Enchant Display v.1.8.zip","file/Enchantment Outlines.zip","file/Visual Effects+.zip","file/§6§lVanilla Experience+§0.zip","file/§9Bray's Zombie Overhaul FA v1.4.zip","file/Icons v.1.14.zip","file/Icons - Tooltips v.1.3.zip","file/creepers-refreshed-fa-v1.0.zip","file/Fresh Textures v2.0.1.1.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/FA+Emissive-v1.6.zip","file/FA+Objects-v2.1.2.zip","file/FA+Player-v1.1.zip","moonlight:merged_pack","file/BunnyGlifos-pack.zip","file/Castellano - mods.zip","mod/clientsort:resourcepacks/clientsort-dark-mode","file/Stoneborn-Mochilas.zip"]
 incompatibleResourcePacks:["file/Prime's HD Textures [FREE].zip","file/Enchant Display v.1.8.zip"]
 lang:es_es
 chatVisibility:0
@@ -123,6 +123,12 @@ key_key.hotbar.9:key.keyboard.9
 key_placebo.toggleTrails:key.keyboard.keypad.9
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.modernfix.config:key.keyboard.unknown
+key_key.clientsort.edit:key.keyboard.unknown
+key_key.clientsort.cancelAuto:key.keyboard.unknown
+key_key.clientsort.op.sort:key.mouse.middle
+key_key.clientsort.op.stackFill:key.keyboard.unknown
+key_key.clientsort.op.matchTransfer:key.keyboard.unknown
+key_key.clientsort.op.transfer:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.corpse.death_history:key.keyboard.unknown
@@ -133,16 +139,6 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.backpacked.open_backpack:key.keyboard.b
 key_key.backpacked.open_management:key.keyboard.unknown
-key_inventorymanagement.keybind.position_edit.player:key.keyboard.unknown
-key_inventorymanagement.keybind.position_edit.container:key.keyboard.unknown
-key_inventorymanagement.keybind.sort.player:key.keyboard.unknown
-key_inventorymanagement.keybind.sort.container:key.keyboard.unknown
-key_inventorymanagement.keybind.transfer.to_container:key.keyboard.unknown
-key_inventorymanagement.keybind.transfer.from_container:key.keyboard.unknown
-key_inventorymanagement.keybind.stack.to_player:key.keyboard.unknown
-key_inventorymanagement.keybind.stack.to_container:key.keyboard.unknown
-key_inventorymanagement.keybind.sort.hovered:key.mouse.middle
-key_inventorymanagement.keybind.settings_screen:key.keyboard.unknown
 key_key.cinematic.sit:key.keyboard.h
 key_key.cinematic.look:key.keyboard.left.alt
 key_keybinds.bettercombat.feint:key.keyboard.unknown
@@ -160,7 +156,6 @@ key_key.diorama.toggle_dimension:key.keyboard.unknown
 key_discordrpc.key.open_config:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.f6
-key_key.open_muffler_gui:key.keyboard.unknown
 key_key.pickup.item:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.27134468129139067
