@@ -2,5 +2,5 @@
 	#Better Compatibility Checker: el servidor y el cliente comparan esta versión. La pone publicar.py (versión del pack).
 	modpackProjectID = 0
 	modpackName = "\u00A76\u00A7l\u22C6 \u00A7f\u00A7lLa Madriguera \u00A76\u00A7l\u22C6"
-	modpackVersion = "\u00A7ePack 26 \u00A78\u00B7 \u00A77Actualiza desde el instalador"
+	modpackVersion = "\u00A7ePack 27 \u00A78\u00B7 \u00A77Actualiza desde el instalador"
 	useMetadata = false

@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "26",
+  "version": "27",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -138,6 +138,12 @@
       "size": 422658
     },
     {
+      "path": "mods/continuity-3.0.0+1.21.neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/continuity-3.0.0%2B1.21.neoforge.jar",
+      "sha1": "0aecd2d043ac25299254623fafdd9129ab2ba9c2",
+      "size": 1014626
+    },
+    {
       "path": "mods/corpse-neoforge-1.21.1-1.1.22.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/corpse-neoforge-1.21.1-1.1.22.jar",
       "sha1": "0d73e082e4d5c0f185aa8030bcefb68c259d1107",
@@ -178,12 +184,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
       "sha1": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e",
       "size": 220193
-    },
-    {
-      "path": "mods/dynamic-glass-neoforge-1.21.1-1.3.2.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/dynamic-glass-neoforge-1.21.1-1.3.2.jar",
-      "sha1": "e769793f7ea34be9f528065cbd1afe9a4be8c600",
-      "size": 796142
     },
     {
       "path": "mods/embeddium-1.0.15+mc1.21.1.jar",
@@ -654,6 +654,12 @@
       "size": 225746
     },
     {
+      "path": "resourcepacks/Clean Connected Glass [1.20-26.x].zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Clean%20Connected%20Glass%20%5B1.20-26.x%5D.zip",
+      "sha1": "31e6d9c9bb51b371ae3c122d1bea6726df378d02",
+      "size": 343093
+    },
+    {
       "path": "resourcepacks/creepers-refreshed-fa-v1.0.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/creepers-refreshed-fa-v1.0.zip",
       "sha1": "50aa278674cbcf5b3f68a016fd1c311f8ddcd150",
@@ -694,6 +700,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Fresh%20Textures%20v2.0.1.1.zip",
       "sha1": "ad010e626d4093eaf988370a1619b479543bc94d",
       "size": 8183891
+    },
+    {
+      "path": "resourcepacks/Glass.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Glass.zip",
+      "sha1": "897f9591cd13f9417b5cd561335e9d0198baa52e",
+      "size": 394066
     },
     {
       "path": "resourcepacks/Icons - Tooltips v.1.3.zip",
