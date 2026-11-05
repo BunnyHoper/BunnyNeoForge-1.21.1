@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "38",
+  "version": "39",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -316,12 +316,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/immersive_furniture-neoforge-0.3.4%2B1.21.1.jar",
       "sha1": "30e5c05b3e9b7a8bb8d835be4f2323d744766993",
       "size": 1022045
-    },
-    {
-      "path": "mods/immersivefirstperson-1.0.3.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/immersivefirstperson-1.0.3.jar",
-      "sha1": "e145bf7828626d939983b9a58ace19db376965c1",
-      "size": 30235
     },
     {
       "path": "mods/InventoryInteractions-2.2.0+1.21.1+neoforge.jar",
