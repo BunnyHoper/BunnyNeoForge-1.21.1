@@ -15,7 +15,7 @@ El instalador pregunta el nick, la RAM, los núcleos y los hilos de tu PC (los r
 
 | | 1 Súper Patata | 2 Patata | 3 Alto | 4 Épico |
 |---|---|---|---|---|
-| Mods | 72 de 105 | 92 | 98 | 105 |
+| Mods | 74 de 107 | 94 | 100 | 107 |
 | Paquetes de texturas | no | sí | sí | sí |
 | RAM para el juego | 6 GB | 7 GB | 8 GB | 8 GB |
 | Hilos de Sodium | hilos ÷ 4 (1–2) | hilos ÷ 3 (1–3) | hilos ÷ 3 (2–5) | hilos ÷ 2 (2–8) |
@@ -29,7 +29,7 @@ El instalador pregunta el nick, la RAM, los núcleos y los hilos de tu PC (los r
 | Mipmaps | 0 | 2 | 2 | 4 |
 | Sombras de entidades | no | no | sí | sí |
 | Distancia de entidades | 0.5 | 0.75 | 0.75 | 1.0 |
-| VSync | no | no | no | sí |
+| VSync | no | no | no | no |
 | FPS máx. (260 = sin límite) | 60 | 120 | 260 | 170 |
 | Prioridad de chunks | 0 | 0 | 0 | 0 |
 | Desenfoque de menús | 0 | 0 | 2 | 5 |

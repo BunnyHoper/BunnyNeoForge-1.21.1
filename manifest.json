@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "37",
+  "version": "38",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -318,6 +318,12 @@
       "size": 1022045
     },
     {
+      "path": "mods/immersivefirstperson-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/immersivefirstperson-1.0.3.jar",
+      "sha1": "e145bf7828626d939983b9a58ace19db376965c1",
+      "size": 30235
+    },
+    {
       "path": "mods/InventoryInteractions-2.2.0+1.21.1+neoforge.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/InventoryInteractions-2.2.0%2B1.21.1%2Bneoforge.jar",
       "sha1": "2c610cd155f7a1c8efa8855c8e145440ad505399",
@@ -502,6 +508,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/rrls-5.0.11%2Bmc1.21.1-forge.jar",
       "sha1": "acc4b6deca5c9cc87c33f114daf5d8f75081ed85",
       "size": 180458
+    },
+    {
+      "path": "mods/ShoulderSurfing-NeoForge-1.21.1-5.3.0.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/ShoulderSurfing-NeoForge-1.21.1-5.3.0.jar",
+      "sha1": "18dbbf3d47c100200aaacbd6eab58793885c905b",
+      "size": 435072
     },
     {
       "path": "mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",

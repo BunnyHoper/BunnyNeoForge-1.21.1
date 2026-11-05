@@ -11,7 +11,7 @@
   "options": {
     "ao": "true",
     "biomeBlendRadius": "2",
-    "enableVsync": "true",
+    "enableVsync": "false",
     "entityDistanceScaling": "1.0",
     "entityShadows": "true",
     "prioritizeChunkUpdates": "0",
