@@ -18,7 +18,7 @@
     {
       "name": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ",
       "contextType": "SPECIFIC_SERVER",
-      "contextFilter": "bunnydev.zaroz.fun",
+      "contextFilter": "188.213.7.62",
       "priority": 100,
       "activityName": "ʟᴀ ᴍᴀᴅʀɪɢᴜᴇʀᴀ",
       "details": "🌍 ᴇхᴘʟᴏʀᴀɴᴅᴏ ʟᴀ ᴛɪᴇʀʀᴀ",
@@ -156,7 +156,7 @@
       "smallImageText": "",
       "button1Label": "",
       "button1Url": "",
-      "button2Label": "(x) ()()",
+      "button2Label": "",
       "button2Url": ""
     }
   ]

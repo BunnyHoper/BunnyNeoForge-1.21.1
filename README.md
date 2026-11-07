@@ -43,7 +43,7 @@ Solo los mods necesarios y los de rendimiento, sin paquetes de texturas; 6 chunk
 - `config/`: `sodium-options.json`.
 - Mods que **no** instala (estéticos u opcionales, solo de cliente):
 
-  - `DiscordPresence-1.6.0+1.21.1-neoforge.jar`
+  - `DiscordPresence-1.6.1-1.21.1-neoforge.jar`
   - `F1CinematicModes-NeoForge-1.21.1-1.1.6.jar`
   - `InventoryParticles-3.2.0+1.21.1+neoforge.jar`
   - `LegendaryTooltips-1.21.1-neoforge-1.5.5.jar`
@@ -51,14 +51,14 @@ Solo los mods necesarios y los de rendimiento, sin paquetes de texturas; 6 chunk
   - `Prism-1.21.1-neoforge-1.0.11.jar`
   - `Resourcify (1.21.1-neoforge)-1.8.7.jar`
   - `SubtleEffects-neoforge-1.21.1-1.15.1.jar`
-  - `block-dithering-1.0.6+1.21.1+neoforge.jar`
+  - `block-dithering-1.0.7-1.21.1-neoforge.jar`
   - `diorama-0.7.0-neoforge-1.21.1.jar`
   - `emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_core_neoforge_1.21.1_2.3.2.jar`
   - `emf_compat_gliders_1.21.1_2.0.0.jar`
   - `entity_model_features-3.3.12-1.21-neoforge.jar`
-  - `entity_texture_features-7.2.6-1.21-neoforge.jar`
+  - `entity_texture_features-7.2.7-1.21-neoforge.jar`
   - `fzzy_config-0.7.7+fix1+1.21+neoforge.jar`
   - `kotlinforforge-5.12.0-all.jar`
   - `loot_journal-neoforge-1.21.1-6.2.2.jar`
@@ -86,14 +86,14 @@ Los mods básicos con todos los paquetes de texturas; 6 chunks y gráficos rápi
 - Mods que **no** instala (estéticos u opcionales, solo de cliente):
 
   - `SubtleEffects-neoforge-1.21.1-1.15.1.jar`
-  - `block-dithering-1.0.6+1.21.1+neoforge.jar`
+  - `block-dithering-1.0.7-1.21.1-neoforge.jar`
   - `diorama-0.7.0-neoforge-1.21.1.jar`
   - `emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_core_neoforge_1.21.1_2.3.2.jar`
   - `emf_compat_gliders_1.21.1_2.0.0.jar`
   - `entity_model_features-3.3.12-1.21-neoforge.jar`
-  - `entity_texture_features-7.2.6-1.21-neoforge.jar`
+  - `entity_texture_features-7.2.7-1.21-neoforge.jar`
   - `neoculus-mc1.21.1-1.8.7.jar`
   - `sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar`
   - `touch_n_motion_neoforge_1.21.1_1.0.4.jar`
@@ -112,7 +112,7 @@ Todos los mods y texturas a 9 chunks, con Sodium y los efectos pesados ajustados
   - `emf_compat_core_neoforge_1.21.1_2.3.2.jar`
   - `emf_compat_gliders_1.21.1_2.0.0.jar`
   - `entity_model_features-3.3.12-1.21-neoforge.jar`
-  - `entity_texture_features-7.2.6-1.21-neoforge.jar`
+  - `entity_texture_features-7.2.7-1.21-neoforge.jar`
   - `touch_n_motion_neoforge_1.21.1_1.0.4.jar`
 
 ## Carpeta `4` · Épico
