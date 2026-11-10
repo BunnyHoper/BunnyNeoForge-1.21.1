@@ -3,7 +3,6 @@
   "nombre": "Alto",
   "quitar": [
     "mods/emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar",
-    "mods/emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar",
     "mods/emf_compat_core_neoforge_1.21.1_2.3.2.jar",
     "mods/emf_compat_gliders_1.21.1_2.0.0.jar",
     "mods/entity_model_features-3.3.12-1.21-neoforge.jar",

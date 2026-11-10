@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "41",
+  "version": "42",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -82,12 +82,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/block-dithering-1.0.7-1.21.1-neoforge.jar",
       "sha1": "fc9df372e3a07a571a0fee4fde038d7f468c2ad6",
       "size": 97203
-    },
-    {
-      "path": "mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/carryon-neoforge-1.21.1-2.2.6.13.jar",
-      "sha1": "2ceb0d9284525b6cb2a214c88cf6511cab91f601",
-      "size": 361486
     },
     {
       "path": "mods/chat_heads-0.15.7-neoforge-1.21.jar",
@@ -196,12 +190,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar",
       "sha1": "180e04f2ba543ec74a2bfb70c61b7044cd12c5a7",
       "size": 173271
-    },
-    {
-      "path": "mods/emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar",
-      "sha1": "4897c5eb54bf485564bddf996ad4c7411ce31ace",
-      "size": 229504
     },
     {
       "path": "mods/emf_compat_core_neoforge_1.21.1_2.3.2.jar",

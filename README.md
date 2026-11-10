@@ -15,7 +15,7 @@ El instalador pregunta el nick, la RAM, los núcleos y los hilos de tu PC (los r
 
 | | 1 Súper Patata | 2 Patata | 3 Alto | 4 Épico |
 |---|---|---|---|---|
-| Mods | 73 de 106 | 93 | 99 | 106 |
+| Mods | 72 de 104 | 92 | 98 | 104 |
 | Paquetes de texturas | no | sí | sí | sí |
 | RAM para el juego | 6 GB | 7 GB | 8 GB | 8 GB |
 | Hilos de Sodium | hilos ÷ 4 (1–2) | hilos ÷ 3 (1–3) | hilos ÷ 3 (2–5) | hilos ÷ 2 (2–8) |
@@ -54,7 +54,6 @@ Solo los mods necesarios y los de rendimiento, sin paquetes de texturas; 6 chunk
   - `block-dithering-1.0.7-1.21.1-neoforge.jar`
   - `diorama-0.7.0-neoforge-1.21.1.jar`
   - `emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar`
-  - `emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_core_neoforge_1.21.1_2.3.2.jar`
   - `emf_compat_gliders_1.21.1_2.0.0.jar`
   - `entity_model_features-3.3.12-1.21-neoforge.jar`
@@ -89,7 +88,6 @@ Los mods básicos con todos los paquetes de texturas; 6 chunks y gráficos rápi
   - `block-dithering-1.0.7-1.21.1-neoforge.jar`
   - `diorama-0.7.0-neoforge-1.21.1.jar`
   - `emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar`
-  - `emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_core_neoforge_1.21.1_2.3.2.jar`
   - `emf_compat_gliders_1.21.1_2.0.0.jar`
   - `entity_model_features-3.3.12-1.21-neoforge.jar`
@@ -108,7 +106,6 @@ Todos los mods y texturas a 9 chunks, con Sodium y los efectos pesados ajustados
 - Mods que **no** instala (estéticos u opcionales, solo de cliente):
 
   - `emf_compat_better_combat_neoforge_1.21.1_2.1.1.jar`
-  - `emf_compat_carry_on_neoforge_1.21.1_2.1.1.jar`
   - `emf_compat_core_neoforge_1.21.1_2.3.2.jar`
   - `emf_compat_gliders_1.21.1_2.0.0.jar`
   - `entity_model_features-3.3.12-1.21-neoforge.jar`

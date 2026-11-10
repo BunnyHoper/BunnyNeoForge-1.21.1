@@ -129,7 +129,6 @@ key_key.clientsort.op.sort:key.mouse.middle
 key_key.clientsort.op.stackFill:key.keyboard.unknown
 key_key.clientsort.op.matchTransfer:key.keyboard.unknown
 key_key.clientsort.op.transfer:key.keyboard.unknown
-key_key.carry.desc:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.n
 key_key.corpse.death_history:key.keyboard.i
 key_iris.keybind.reload:key.keyboard.r
