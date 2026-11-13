@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "43",
+  "version": "44",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -574,6 +574,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/visuality-forge-3.0.0.jar",
       "sha1": "9786f023733a302b582b7349336e1ab47e93823e",
       "size": 132898
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.27.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/voicechat-neoforge-1.21.1-2.6.27.jar",
+      "sha1": "8aded3a22614a8e1641973623e7817dccea513fa",
+      "size": 4936802
     },
     {
       "path": "mods/waveycapes-neoforge-1.11.3-mc1.21.1.jar",

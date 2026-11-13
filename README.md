@@ -15,7 +15,7 @@ El instalador pregunta el nick, la RAM, los núcleos y los hilos de tu PC (los r
 
 | | 1 Súper Patata | 2 Patata | 3 Alto | 4 Épico |
 |---|---|---|---|---|
-| Mods | 72 de 104 | 92 | 98 | 104 |
+| Mods | 73 de 105 | 93 | 99 | 105 |
 | Paquetes de texturas | no | sí | sí | sí |
 | RAM para el juego | 6 GB | 7 GB | 8 GB | 8 GB |
 | Hilos de Sodium | hilos ÷ 4 (1–2) | hilos ÷ 3 (1–3) | hilos ÷ 3 (2–5) | hilos ÷ 2 (2–8) |
