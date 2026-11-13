@@ -18,4 +18,4 @@
 	#Water Circles Density
 	# Default: 16
 	# Range: 0 ~ 64
-	density = 8
+	density = 16

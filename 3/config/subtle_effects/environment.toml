@@ -3,11 +3,11 @@ version = 1
 biomeColorRain = true
 
 [biomes]
-mushroomSporeDensity = 0.25
+mushroomSporeDensity = 0.5
 mushroomSporeBiomes = [
     "minecraft:mushroom_fields"
 ]
-pollenDensity = 0.3
+pollenDensity = 0.75
 pollenBiomes = [
     "minecraft:flower_forest",
     "minecraft:sunflower_plains"
@@ -80,7 +80,7 @@ spawnableBlocks = [
     "minecraft:pink_petals",
     "minecraft:flowering_azalea"
 ]
-defaultDensity = 1
+defaultDensity = 3
 ignoredSeasons = "DEFAULT"
 fireflyType = "ORIGINAL"
 fireflySoundVolume = 1.0

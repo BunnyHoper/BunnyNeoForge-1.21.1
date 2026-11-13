@@ -19,20 +19,20 @@ El instalador pregunta el nick, la RAM, los núcleos y los hilos de tu PC (los r
 | Paquetes de texturas | no | sí | sí | sí |
 | RAM para el juego | 6 GB | 7 GB | 8 GB | 8 GB |
 | Hilos de Sodium | hilos ÷ 4 (1–2) | hilos ÷ 3 (1–3) | hilos ÷ 3 (2–5) | hilos ÷ 2 (2–8) |
-| Chunks visibles | 6 | 6 | 9 | 12 |
+| Chunks visibles | 6 | 6 | 8 | 8 |
 | Chunks simulados | 5 | 5 | 6 | 6 |
 | Gráficos | rápidos | rápidos | detallados | detallados |
-| Partículas | mínimas | reducidas | reducidas | todas |
-| Nubes | no | rápidas | rápidas | no |
+| Partículas | mínimas | reducidas | reducidas | reducidas |
+| Nubes | no | rápidas | no | no |
 | Iluminación suave | no | sí | sí | sí |
-| Mezcla de biomas | 0 | 1 | 1 | 2 |
-| Mipmaps | 0 | 2 | 2 | 4 |
+| Mezcla de biomas | 0 | 1 | 1 | 1 |
+| Mipmaps | 0 | 2 | 3 | 3 |
 | Sombras de entidades | no | no | sí | sí |
-| Distancia de entidades | 0.5 | 0.75 | 0.75 | 1.0 |
+| Distancia de entidades | 0.5 | 0.75 | 1.0 | 1.0 |
 | VSync | no | no | no | no |
-| FPS máx. (260 = sin límite) | 60 | 120 | 260 | 170 |
+| FPS máx. (260 = sin límite) | 60 | 120 | 170 | 170 |
 | Prioridad de chunks | 0 | 0 | 0 | 0 |
-| Desenfoque de menús | 0 | 0 | 2 | 5 |
+| Desenfoque de menús | 0 | 0 | 5 | 5 |
 | Balanceo de cámara | no | sí | sí | sí |
 
 ## Carpeta `1` · Súper Patata
@@ -99,7 +99,7 @@ Los mods básicos con todos los paquetes de texturas; 6 chunks y gráficos rápi
 
 ## Carpeta `3` · Alto
 
-Todos los mods y texturas a 9 chunks, con Sodium y los efectos pesados ajustados para ir fluido en PCs normales.
+Todos los mods (menos los de modelos de entidades) y texturas, con los gráficos del cliente del dueño.
 
 - `perfil.json`: claves de `options.txt` de la tabla, RAM fija de 8 GB (se pone en el perfil «La Madriguera» de SKlauncher y en el de NeoForge del launcher oficial) e hilos de construcción de chunks de Sodium.
 - `config/`: `sodium-options.json`, `sodiumdynamiclights-client.toml`, `subtle_effects/general.toml`, `subtle_effects/environment.toml`, `subtle_effects/blocks.toml`, `visuality/config.toml`, `skinlayers.json`.
@@ -114,7 +114,7 @@ Todos los mods y texturas a 9 chunks, con Sodium y los efectos pesados ajustados
 
 ## Carpeta `4` · Épico
 
-Todo como el cliente del dueño (mods, texturas y ajustes) a 12 chunks.
+Todo como el cliente del dueño: mods, texturas y todos sus ajustes de gráficos.
 
 - `perfil.json`: claves de `options.txt` de la tabla, RAM fija de 8 GB (se pone en el perfil «La Madriguera» de SKlauncher y en el de NeoForge del launcher oficial) e hilos de construcción de chunks de Sodium.
 - `config/`: `sodium-options.json`, `sodiumdynamiclights-client.toml`, `subtle_effects/general.toml`, `subtle_effects/environment.toml`, `subtle_effects/blocks.toml`, `visuality/config.toml`, `skinlayers.json`.
