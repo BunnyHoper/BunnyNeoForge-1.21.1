@@ -141,11 +141,11 @@ key_key.cinematic.sit:key.keyboard.h
 key_key.cinematic.look:key.keyboard.left.alt
 key_key.push_to_talk:key.keyboard.x
 key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
-key_key.disable_voice_chat:key.keyboard.n
-key_key.hide_icons:key.keyboard.h
-key_key.voice_chat:key.keyboard.v
-key_key.voice_chat_settings:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.unknown
+key_key.voice_chat_settings:key.keyboard.j
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown

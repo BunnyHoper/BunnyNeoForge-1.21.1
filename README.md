@@ -1,6 +1,6 @@
 # La Madriguera · Private
 
-Pack del servidor **lamadriguera.zapto.org** (Minecraft 1.21.1, NeoForge). Lo instala `LaMadriguera-Instalador` (Windows .exe / Mac .dmg / Steam Deck): **baja este repositorio entero en un zip** (mods, también los propios, configuración, paquetes de texturas, opciones y servidor; sin API ni enlaces sueltos), instala la misma versión de NeoForge que el dueño, aplica el perfil elegido e instala y abre **SKlauncher** con el nick del jugador y la RAM del perfil. Subir o borrar un archivo aquí lo pone o lo quita en la próxima instalación.
+Pack del servidor **mc.bunnyhop.space** (Minecraft 1.21.1, NeoForge). Lo instala `LaMadriguera-Instalador` (Windows .exe / Mac .dmg / Steam Deck): **baja este repositorio entero en un zip** (mods, también los propios, configuración, paquetes de texturas, opciones y servidor; sin API ni enlaces sueltos), instala la misma versión de NeoForge que el dueño, aplica el perfil elegido e instala y abre **SKlauncher** con el nick del jugador y la RAM del perfil. Subir o borrar un archivo aquí lo pone o lo quita en la próxima instalación.
 
 | Archivo | Qué es |
 |---|---|

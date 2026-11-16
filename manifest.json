@@ -1,9 +1,9 @@
 {
   "pack": "La Madriguera",
-  "version": "47",
+  "version": "48",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
-  "server": "lamadriguera.zapto.org",
+  "server": "mc.bunnyhop.space",
   "files": [
     {
       "path": "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
