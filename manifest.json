@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "45",
+  "version": "46",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "188.213.7.62",
@@ -556,12 +556,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
       "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
       "size": 2814865
-    },
-    {
-      "path": "mods/tombstone-neoforge-1.21.1-9.5.6.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/tombstone-neoforge-1.21.1-9.5.6.jar",
-      "sha1": "d830d16caa20b0d23a44ed6b1d339bc22afc2460",
-      "size": 2520705
     },
     {
       "path": "mods/touch_n_motion_neoforge_1.21.1_1.0.4.jar",
