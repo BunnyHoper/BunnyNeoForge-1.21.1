@@ -37,7 +37,7 @@
     "prioritizeChunkUpdates": "0",
     "menuBackgroundBlurriness": "0",
     "bobView": "true",
-    "resourcePacks": "[]",
+    "resourcePacks": "[\"vanilla\",\"generated/fragmentum_layer\",\"mod_resources\",\"moonlight:merged_pack\"]",
     "incompatibleResourcePacks": "[]"
   },
   "ram": {

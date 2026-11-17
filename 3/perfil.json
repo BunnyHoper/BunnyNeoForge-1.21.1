@@ -40,7 +40,7 @@
     "damageTiltStrength": "1.0",
     "attackIndicator": "1",
     "menuBackgroundBlurriness": "5",
-    "resourcePacks": "[]",
+    "resourcePacks": "[\"vanilla\",\"generated/fragmentum_layer\",\"mod_resources\",\"moonlight:merged_pack\"]",
     "incompatibleResourcePacks": "[]"
   },
   "ram": {
