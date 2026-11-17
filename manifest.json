@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "48",
+  "version": "49",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "mc.bunnyhop.space",
@@ -82,6 +82,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/block-dithering-1.0.7-1.21.1-neoforge.jar",
       "sha1": "fc9df372e3a07a571a0fee4fde038d7f468c2ad6",
       "size": 97203
+    },
+    {
+      "path": "mods/bunnyactualizador-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/bunnyactualizador-1.0.0.jar",
+      "sha1": "5ba424bf0058ddb9ae04599d319732791ec9b9d9",
+      "size": 10447
     },
     {
       "path": "mods/chat_heads-0.15.7-neoforge-1.21.jar",
@@ -342,6 +348,12 @@
       "size": 37834
     },
     {
+      "path": "mods/libliblib-universal-1.1.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/libliblib-universal-1.1.2.jar",
+      "sha1": "bb0587cd077230a3082d5e6f4d8530e340d2b4db",
+      "size": 37675
+    },
+    {
       "path": "mods/lithostitched-1.8.0-neoforge-21.1.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/lithostitched-1.8.0-neoforge-21.1.jar",
       "sha1": "fe7eb612a0fa0c41ce94d914162d298755bb25a3",
@@ -444,6 +456,12 @@
       "size": 326063
     },
     {
+      "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+      "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+      "size": 203149
+    },
+    {
       "path": "mods/polytone-1.21-5.3.4-neoforge.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/polytone-1.21-5.3.4-neoforge.jar",
       "sha1": "13380f8b62c982790ed3c431d068e9edc65cbd28",
@@ -528,6 +546,18 @@
       "size": 8732437
     },
     {
+      "path": "mods/spark-1.10.124-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/spark-1.10.124-neoforge.jar",
+      "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
+      "size": 3642581
+    },
+    {
+      "path": "mods/strongerarmoredmobs-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/strongerarmoredmobs-1.0.0.jar",
+      "sha1": "f5c610db64d0a746f8dbcaaf91d13d6369ce2763",
+      "size": 27091
+    },
+    {
       "path": "mods/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar",
       "sha1": "774dae2a81ba825edd5decde37f466b052aeeb5e",
@@ -586,6 +616,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/waystones-neoforge-1.21.1-21.1.46.jar",
       "sha1": "75718161662d9ec957ba22e10e497788ec1687ba",
       "size": 1223229
+    },
+    {
+      "path": "mods/worldedit-mod-7.3.8.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/worldedit-mod-7.3.8.jar",
+      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
+      "size": 6222854
     },
     {
       "path": "mods/worldweaver-21.0.30.jar",
