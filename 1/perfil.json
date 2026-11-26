@@ -57,7 +57,7 @@
     "prioritizeChunkUpdates": "0",
     "menuBackgroundBlurriness": "0",
     "bobView": "false",
-    "resourcePacks": "[\"vanilla\",\"moonlight:merged_pack\",\"generated/fragmentum_layer\",\"mod_resources\",\"black_icons\",\"file/BunnyGlifos-pack.zip\",\"file/Castellano - mods.zip\"]",
+    "resourcePacks": "[]",
     "incompatibleResourcePacks": "[]"
   },
   "ram": {
