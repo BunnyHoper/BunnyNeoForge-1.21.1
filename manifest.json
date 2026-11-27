@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "54",
+  "version": "55",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "mc.bunnyhop.space",
@@ -522,12 +522,6 @@
       "size": 180458
     },
     {
-      "path": "mods/ShoulderSurfing-NeoForge-1.21.1-5.3.0.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/ShoulderSurfing-NeoForge-1.21.1-5.3.0.jar",
-      "sha1": "18dbbf3d47c100200aaacbd6eab58793885c905b",
-      "size": 435072
-    },
-    {
       "path": "mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/skinlayers3d-neoforge-1.11.4-mc1.21.1.jar",
       "sha1": "d4864fac231ff3d360e08a82f06553c3f76de8a6",
@@ -803,5 +797,9 @@
       "sha1": "ea517737f9ead1cd0ff57ad30d8d18787c0ce2e0",
       "size": 260310
     }
+  ],
+  "quitar": [
+    "config/shouldersurfing-client.toml",
+    "mods/ShoulderSurfing-NeoForge-1.21.1-5.3.0.jar"
   ]
 }
