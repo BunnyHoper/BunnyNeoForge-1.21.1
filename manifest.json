@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "56",
+  "version": "57",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "mc.bunnyhop.space",
@@ -10,6 +10,168 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
       "sha1": "829d33e71b30e9158d772f5963bb6020f6026d78",
       "size": 195730
+    },
+    {
+      "path": "mods/BetterEnd-21.0.39.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/BetterEnd-21.0.39.jar",
+      "sha1": "be8e2a2177db15fc83c96acd7d2be2eb1c62614c",
+      "size": 97734709
+    },
+    {
+      "path": "mods/BetterEndCities-BetterEnd-1.21.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/BetterEndCities-BetterEnd-1.21.jar",
+      "sha1": "b29cc1ffa9c7662b923a4cd3857fd8e7b310a713",
+      "size": 1455439
+    },
+    {
+      "path": "mods/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar",
+      "sha1": "bb72574f0f1fccb9856d3964d3d6011937439c1a",
+      "size": 1009597
+    },
+    {
+      "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+      "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c",
+      "size": 18382
+    },
+    {
+      "path": "mods/ContinuityNeoForge-3.0.9+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/ContinuityNeoForge-3.0.9%2B1.21.1.jar",
+      "sha1": "16e1d3b5aa7552639d1a56aedd041d71d1af25f7",
+      "size": 1031104
+    },
+    {
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar",
+      "sha1": "1a8b2594b4d88920c6017f7f1f2cd7120ba1937d",
+      "size": 1236541
+    },
+    {
+      "path": "mods/DiscordPresence-1.6.1-1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/DiscordPresence-1.6.1-1.21.1-neoforge.jar",
+      "sha1": "7d0cb23a77aca00bedbbe1795df7639df606c1a2",
+      "size": 5863729
+    },
+    {
+      "path": "mods/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar",
+      "sha1": "57bae369ed44bbbedfb096dd5944940d046e5034",
+      "size": 21617
+    },
+    {
+      "path": "mods/FastSuite-1.21.1-6.0.7.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/FastSuite-1.21.1-6.0.7.jar",
+      "sha1": "664e62684311f727f1fac18f0de28e5317874b7e",
+      "size": 28193
+    },
+    {
+      "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8",
+      "size": 213853
+    },
+    {
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar",
+      "sha1": "f991166f7c82b493481c876e3c83c9fac4159671",
+      "size": 368896
+    },
+    {
+      "path": "mods/InventoryInteractions-2.2.0+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/InventoryInteractions-2.2.0%2B1.21.1%2Bneoforge.jar",
+      "sha1": "2c610cd155f7a1c8efa8855c8e145440ad505399",
+      "size": 425488
+    },
+    {
+      "path": "mods/InventoryParticles-3.2.0+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/InventoryParticles-3.2.0%2B1.21.1%2Bneoforge.jar",
+      "sha1": "8fa0f0dabd7d5495dc01632941b8fc38343a65a7",
+      "size": 1677419
+    },
+    {
+      "path": "mods/ItemPhysic_NEOFORGE_v1.8.17_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/ItemPhysic_NEOFORGE_v1.8.17_mc1.21.1.jar",
+      "sha1": "1e79f5b43efa5a46f37dd8fc5f640b1df7916d49",
+      "size": 54627
+    },
+    {
+      "path": "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+      "sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b",
+      "size": 81808
+    },
+    {
+      "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
+      "sha1": "c379b8d5dc1a4b1e8987da1052d6b4de81354d72",
+      "size": 1094979
+    },
+    {
+      "path": "mods/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+      "sha1": "6759fa57891f731e54f865c13ffa0601a829b76a",
+      "size": 2234287
+    },
+    {
+      "path": "mods/MossyLib-1.6.0+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/MossyLib-1.6.0%2B1.21.1%2Bneoforge.jar",
+      "sha1": "330e8f3889516d53229ccd464f8d572a89f21b6d",
+      "size": 179468
+    },
+    {
+      "path": "mods/MrDeadPools-ColoredItemFrames-1.21.1-1.0.0-1.21.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/MrDeadPools-ColoredItemFrames-1.21.1-1.0.0-1.21.1-1.0.0.jar",
+      "sha1": "d3c90001edbbe679a26a9d48969df9157c666122",
+      "size": 155415
+    },
+    {
+      "path": "mods/Placebo-1.21.1-9.9.4.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Placebo-1.21.1-9.9.4.jar",
+      "sha1": "007d52a42020a331d5272495f6d676e0ad1a2c13",
+      "size": 326063
+    },
+    {
+      "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Prism-1.21.1-neoforge-1.0.11.jar",
+      "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f",
+      "size": 62031
+    },
+    {
+      "path": "mods/Resourcify (1.21.1-neoforge)-1.8.7.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Resourcify%20%281.21.1-neoforge%29-1.8.7.jar",
+      "sha1": "b21851bb62eeb69e961b5cd8e7006d1ab85f0d2b",
+      "size": 2946897
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-16.0.799-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/RoughlyEnoughItems-16.0.799-neoforge.jar",
+      "sha1": "58e3de0cd7d559a6caf924c25992382677bc03f9",
+      "size": 2384445
+    },
+    {
+      "path": "mods/SubtleEffects-neoforge-1.21.1-1.15.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/SubtleEffects-neoforge-1.21.1-1.15.1.jar",
+      "sha1": "e8ab4df7ac4bf3d88fa389a1cf97ad2449c3206d",
+      "size": 3445062
+    },
+    {
+      "path": "mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
+      "size": 2814865
+    },
+    {
+      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
+      "size": 413763
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+      "sha1": "832f2c17425debe74a9f267f4136f1a0f0221d19",
+      "size": 398130
     },
     {
       "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
@@ -66,18 +228,6 @@
       "size": 1045389
     },
     {
-      "path": "mods/BetterEnd-21.0.39.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/BetterEnd-21.0.39.jar",
-      "sha1": "be8e2a2177db15fc83c96acd7d2be2eb1c62614c",
-      "size": 97734709
-    },
-    {
-      "path": "mods/BetterEndCities-BetterEnd-1.21.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/BetterEndCities-BetterEnd-1.21.jar",
-      "sha1": "b29cc1ffa9c7662b923a4cd3857fd8e7b310a713",
-      "size": 1455439
-    },
-    {
       "path": "mods/block-dithering-1.0.7-1.21.1-neoforge.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/block-dithering-1.0.7-1.21.1-neoforge.jar",
       "sha1": "fc9df372e3a07a571a0fee4fde038d7f468c2ad6",
@@ -108,12 +258,6 @@
       "size": 96708
     },
     {
-      "path": "mods/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/CinematicInteraction-NeoForge-1.21.1-0.18.2.jar",
-      "sha1": "bb72574f0f1fccb9856d3964d3d6011937439c1a",
-      "size": 1009597
-    },
-    {
       "path": "mods/cleanswing-1.10-1.21.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/cleanswing-1.10-1.21.jar",
       "sha1": "1df3892b57ad00a75c5bb4a6f6b2749aa126e548",
@@ -132,34 +276,16 @@
       "size": 1163890
     },
     {
-      "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
-      "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c",
-      "size": 18382
-    },
-    {
       "path": "mods/comforts-neoforge-9.0.5+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/comforts-neoforge-9.0.5%2B1.21.1.jar",
       "sha1": "21d6bee3821d62fe3356c51fb1d697871a3087ff",
       "size": 422658
     },
     {
-      "path": "mods/ContinuityNeoForge-3.0.9+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/ContinuityNeoForge-3.0.9%2B1.21.1.jar",
-      "sha1": "16e1d3b5aa7552639d1a56aedd041d71d1af25f7",
-      "size": 1031104
-    },
-    {
       "path": "mods/corpse-neoforge-1.21.1-1.1.22.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/corpse-neoforge-1.21.1-1.1.22.jar",
       "sha1": "0d73e082e4d5c0f185aa8030bcefb68c259d1107",
       "size": 256780
-    },
-    {
-      "path": "mods/CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar",
-      "sha1": "1a8b2594b4d88920c6017f7f1f2cd7120ba1937d",
-      "size": 1236541
     },
     {
       "path": "mods/cupboard-1.21.1-4.2.jar",
@@ -172,12 +298,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/diorama-0.7.0-neoforge-1.21.1.jar",
       "sha1": "dc671a8422ce0fcaaf4ae148fb38728f59629289",
       "size": 924656
-    },
-    {
-      "path": "mods/DiscordPresence-1.6.1-1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/DiscordPresence-1.6.1-1.21.1-neoforge.jar",
-      "sha1": "7d0cb23a77aca00bedbbe1795df7639df606c1a2",
-      "size": 5863729
     },
     {
       "path": "mods/dungeons-and-taverns-v4.4.4.jar",
@@ -240,24 +360,6 @@
       "size": 1510075
     },
     {
-      "path": "mods/evenbetternether-1.3.0-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/evenbetternether-1.3.0-neoforge-1.21.1.jar",
-      "sha1": "b17e8f961e4e6639d6e66d659b2a3bdc915b3860",
-      "size": 1005340
-    },
-    {
-      "path": "mods/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/F1CinematicModes-NeoForge-1.21.1-1.1.6.jar",
-      "sha1": "57bae369ed44bbbedfb096dd5944940d046e5034",
-      "size": 21617
-    },
-    {
-      "path": "mods/FastSuite-1.21.1-6.0.7.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/FastSuite-1.21.1-6.0.7.jar",
-      "sha1": "664e62684311f727f1fac18f0de28e5317874b7e",
-      "size": 28193
-    },
-    {
       "path": "mods/ferritecore-7.0.3-neoforge.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/ferritecore-7.0.3-neoforge.jar",
       "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
@@ -300,40 +402,10 @@
       "size": 6574
     },
     {
-      "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
-      "sha1": "f6014d198be9503573cd9cb41cc789d282768ad8",
-      "size": 213853
-    },
-    {
-      "path": "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar",
-      "sha1": "f991166f7c82b493481c876e3c83c9fac4159671",
-      "size": 368896
-    },
-    {
       "path": "mods/immersive_furniture-neoforge-0.3.4+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/immersive_furniture-neoforge-0.3.4%2B1.21.1.jar",
       "sha1": "30e5c05b3e9b7a8bb8d835be4f2323d744766993",
       "size": 1022045
-    },
-    {
-      "path": "mods/InventoryInteractions-2.2.0+1.21.1+neoforge.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/InventoryInteractions-2.2.0%2B1.21.1%2Bneoforge.jar",
-      "sha1": "2c610cd155f7a1c8efa8855c8e145440ad505399",
-      "size": 425488
-    },
-    {
-      "path": "mods/InventoryParticles-3.2.0+1.21.1+neoforge.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/InventoryParticles-3.2.0%2B1.21.1%2Bneoforge.jar",
-      "sha1": "8fa0f0dabd7d5495dc01632941b8fc38343a65a7",
-      "size": 1677419
-    },
-    {
-      "path": "mods/ItemPhysic_NEOFORGE_v1.8.17_mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/ItemPhysic_NEOFORGE_v1.8.17_mc1.21.1.jar",
-      "sha1": "1e79f5b43efa5a46f37dd8fc5f640b1df7916d49",
-      "size": 54627
     },
     {
       "path": "mods/kotlinforforge-5.12.0-all.jar",
@@ -346,12 +418,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/legendaryshrines-neo-1.21.1-1.0.3.jar",
       "sha1": "2f8d0ad3fa3e47bdeeca465691d775e9758c1741",
       "size": 264819
-    },
-    {
-      "path": "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
-      "sha1": "e7d3b66f3afe115c709749739f26f807ca8e827b",
-      "size": 81808
     },
     {
       "path": "mods/libliblib-forge-1.20.1-1.1.2.jar",
@@ -390,34 +456,10 @@
       "size": 614138
     },
     {
-      "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
-      "sha1": "c379b8d5dc1a4b1e8987da1052d6b4de81354d72",
-      "size": 1094979
-    },
-    {
-      "path": "mods/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
-      "sha1": "6759fa57891f731e54f865c13ffa0601a829b76a",
-      "size": 2234287
-    },
-    {
       "path": "mods/moonlight-1.21.1-3.7.2-neoforge.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/moonlight-1.21.1-3.7.2-neoforge.jar",
       "sha1": "0da45e6bc941f4b9b18dda24f8d047431ddc7226",
       "size": 2299162
-    },
-    {
-      "path": "mods/MossyLib-1.6.0+1.21.1+neoforge.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/MossyLib-1.6.0%2B1.21.1%2Bneoforge.jar",
-      "sha1": "330e8f3889516d53229ccd464f8d572a89f21b6d",
-      "size": 179468
-    },
-    {
-      "path": "mods/MrDeadPools-ColoredItemFrames-1.21.1-1.0.0-1.21.1-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/MrDeadPools-ColoredItemFrames-1.21.1-1.0.0-1.21.1-1.0.0.jar",
-      "sha1": "d3c90001edbbe679a26a9d48969df9157c666122",
-      "size": 155415
     },
     {
       "path": "mods/mru-1.0.41+1.21.1-neoforge.jar",
@@ -430,6 +472,12 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/music_disc_maker-3.1.2%2Bneoforge-1.21.1.jar",
       "sha1": "1cfa1f9e31cfad535c90b1160836a31c2b762c44",
       "size": 35464831
+    },
+    {
+      "path": "mods/naturalist-2.0.7-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/naturalist-2.0.7-neoforge-1.21.1.jar",
+      "sha1": "a7f9f6d9991880c377d2248af5c1ea05a0aa1039",
+      "size": 11347884
     },
     {
       "path": "mods/neoculus-mc1.21.1-1.8.7.jar",
@@ -462,12 +510,6 @@
       "size": 7904509
     },
     {
-      "path": "mods/Placebo-1.21.1-9.9.4.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Placebo-1.21.1-9.9.4.jar",
-      "sha1": "007d52a42020a331d5272495f6d676e0ad1a2c13",
-      "size": 326063
-    },
-    {
       "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
       "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
@@ -478,12 +520,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/polytone-1.21-5.3.4-neoforge.jar",
       "sha1": "13380f8b62c982790ed3c431d068e9edc65cbd28",
       "size": 1780168
-    },
-    {
-      "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Prism-1.21.1-neoforge-1.0.11.jar",
-      "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f",
-      "size": 62031
     },
     {
       "path": "mods/renderscale-neoforge-1.21.1-1.2.jar",
@@ -502,18 +538,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
       "sha1": "24389c8e48ff0e8594e4686b750c494c66a5f8df",
       "size": 484332
-    },
-    {
-      "path": "mods/Resourcify (1.21.1-neoforge)-1.8.7.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Resourcify%20%281.21.1-neoforge%29-1.8.7.jar",
-      "sha1": "b21851bb62eeb69e961b5cd8e7006d1ab85f0d2b",
-      "size": 2946897
-    },
-    {
-      "path": "mods/RoughlyEnoughItems-16.0.799-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/RoughlyEnoughItems-16.0.799-neoforge.jar",
-      "sha1": "58e3de0cd7d559a6caf924c25992382677bc03f9",
-      "size": 2384445
     },
     {
       "path": "mods/rrls-5.0.11+mc1.21.1-forge.jar",
@@ -576,12 +600,6 @@
       "size": 50696
     },
     {
-      "path": "mods/SubtleEffects-neoforge-1.21.1-1.15.1.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/SubtleEffects-neoforge-1.21.1-1.15.1.jar",
-      "sha1": "e8ab4df7ac4bf3d88fa389a1cf97ad2449c3206d",
-      "size": 3445062
-    },
-    {
       "path": "mods/supplementaries-1.21.1-4.0.2-neoforge.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/supplementaries-1.21.1-4.0.2-neoforge.jar",
       "sha1": "af25cb08a82c72b3fb67508071ce627714bd2b57",
@@ -592,12 +610,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/teleport_animation-1.21.1-neoforge-21.1.235-1.4.2.jar",
       "sha1": "cbc995afdab022a7dd68b62d239d6ada1638502d",
       "size": 2920510
-    },
-    {
-      "path": "mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
-      "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
-      "size": 2814865
     },
     {
       "path": "mods/touch_n_motion_neoforge_1.21.1_1.0.4.jar",
@@ -648,18 +660,6 @@
       "size": 1118651
     },
     {
-      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
-      "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
-      "size": 413763
-    },
-    {
-      "path": "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
-      "sha1": "832f2c17425debe74a9f267f4136f1a0f0221d19",
-      "size": 398130
-    },
-    {
       "path": "mods/zambielib-1.2.0+1.21.1-neoforge.jar",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/mods/zambielib-1.2.0%2B1.21.1-neoforge.jar",
       "sha1": "4524ace44ad6cd4f9352c8b153831c1eda52cbbb",
@@ -694,12 +694,6 @@
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Clean-Connected-Glass-1.20-26.x.zip",
       "sha1": "c9ba6b65d840057ddac7f3e8acb214ea5c318040",
       "size": 343093
-    },
-    {
-      "path": "resourcepacks/creepers-refreshed-fa-v1.0.zip",
-      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/creepers-refreshed-fa-v1.0.zip",
-      "sha1": "50aa278674cbcf5b3f68a016fd1c311f8ddcd150",
-      "size": 1536118
     },
     {
       "path": "resourcepacks/Enchant Display v.1.8.zip",
@@ -780,6 +774,12 @@
       "size": 22835578
     },
     {
+      "path": "resourcepacks/creepers-refreshed-fa-v1.0.zip",
+      "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/creepers-refreshed-fa-v1.0.zip",
+      "sha1": "50aa278674cbcf5b3f68a016fd1c311f8ddcd150",
+      "size": 1536118
+    },
+    {
       "path": "resourcepacks/waystones_1.21.1.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/waystones_1.21.1.zip",
       "sha1": "e0d9fd9ad45882610c6761038a81596687817ea4",
@@ -800,6 +800,7 @@
   ],
   "quitar": [
     "config/shouldersurfing-client.toml",
-    "mods/ShoulderSurfing-NeoForge-1.21.1-5.3.0.jar"
+    "mods/ShoulderSurfing-NeoForge-1.21.1-5.3.0.jar",
+    "mods/evenbetternether-1.3.0-neoforge-1.21.1.jar"
   ]
 }
