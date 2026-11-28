@@ -60,8 +60,8 @@ backgroundForChatOnly:true
 hideServerAddress:false
 advancedItemTooltips:true
 pauseOnLostFocus:true
-overrideWidth:1360
-overrideHeight:760
+overrideWidth:0
+overrideHeight:0
 chatHeightFocused:1.0
 chatDelay:0.0
 chatHeightUnfocused:0.4375
