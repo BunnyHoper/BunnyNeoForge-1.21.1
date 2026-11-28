@@ -1,6 +1,6 @@
 {
   "pack": "La Madriguera",
-  "version": "55",
+  "version": "56",
   "minecraft": "1.21.1",
   "neoforge": "21.1.264",
   "server": "mc.bunnyhop.space",
@@ -686,8 +686,8 @@
     {
       "path": "resourcepacks/Castellano - mods.zip",
       "url": "https://raw.githubusercontent.com/BunnyHoper/BunnyNeoForge-1.21.1/main/resourcepacks/Castellano%20-%20mods.zip",
-      "sha1": "5cf2e36dda10d68f270e42e5a5ad96c7d759a119",
-      "size": 225746
+      "sha1": "1fe0327c533ec056ba0a444debf84b4c46b0d09b",
+      "size": 239347
     },
     {
       "path": "resourcepacks/Clean-Connected-Glass-1.20-26.x.zip",
